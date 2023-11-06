@@ -2,5 +2,5 @@ data/
 notebooks/temp/
 notebooks/temp/logs/
 notebooks/def/logs/
-*.ipynb_checkpoints
-*.DS_Store
+.ipynb_checkpoints
+.DS_Store

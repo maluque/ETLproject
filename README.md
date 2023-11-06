@@ -17,6 +17,8 @@ Apply usual methods to filter the relevant data and transform it to acomodate th
 
 Generate the DDBB EER Diagram on mySQL workbench and load the data using `SqlAlchemy`
 
+![pipeline](images/EERD.png)
+
 ## 4. Make queries to get answers
 
 ![pipeline](images/query.png)

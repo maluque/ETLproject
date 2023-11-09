@@ -1,6 +1,6 @@
 # The Color Currency: <br/> Decoding the Most Expensive Hue
 
-### `ETL project` to investigate the relation between the colour of the women t-shirt clothes and its price in Amazon.es and ASOS.es
+### `ETL project` to investigate the relation between the colour of the women t-shirt clothes and its price in `Amazon.es` and `ASOS.es`
 
 ![intro](images/intro.jpg)
 
@@ -21,5 +21,15 @@ Generate the DDBB EER Diagram on mySQL workbench and load the data using `SqlAlc
 
 ## 4. Make queries to get answers
 
+```
+SELECT product.shop, product.colour,  round(avg(product.price),2) AS mean_price <br/>
+    FROM product<br/>
+LEFT JOIN sale<br/>
+    ON  product.product_id = sale.product_product_id <br/>
+GROUP BY  product.shop, product.colour<br/>
+ORDER BY mean_price DESC<br/>
+LIMIT 10;<br/>
+<br/>
+```
 ![pipeline](images/query.png)
 

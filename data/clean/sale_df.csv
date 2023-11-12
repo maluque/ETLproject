@@ -1,0 +1,3901 @@
+customer_customer_id,payment_method,review_rating,season,product_product_id
+1,Venmo,3.1,Winter,12993
+2,Cash,3.1,Winter,5559
+3,Credit Card,3.1,Spring,13271
+4,PayPal,3.5,Spring,5251
+5,PayPal,2.7,Spring,5287
+6,Venmo,2.9,Summer,14590
+7,Cash,3.2,Fall,5584
+8,Credit Card,3.2,Winter,6194
+9,Venmo,2.6,Summer,6495
+10,Cash,4.8,Spring,5800
+11,Bank Transfer,4.1,Fall,2295
+12,Bank Transfer,4.9,Winter,15384
+13,Venmo,4.5,Winter,2738
+14,PayPal,4.7,Spring,802
+15,Debit Card,4.7,Winter,1613
+16,PayPal,2.8,Winter,592
+17,Debit Card,4.1,Spring,13757
+18,Venmo,4.7,Winter,11802
+19,Cash,4.6,Summer,14671
+20,Debit Card,3.3,Summer,3300
+21,Cash,2.8,Winter,149
+22,Debit Card,4.1,Winter,14089
+23,Debit Card,3.2,Summer,5643
+24,Credit Card,4.4,Winter,6754
+25,Debit Card,2.9,Fall,2048
+26,PayPal,3.6,Summer,10448
+27,Credit Card,3.6,Spring,10699
+28,Bank Transfer,5.0,Summer,6145
+29,PayPal,4.4,Fall,17482
+30,Credit Card,4.1,Fall,3389
+31,Credit Card,4.7,Winter,8049
+32,Venmo,4.7,Winter,11818
+33,Venmo,4.9,Summer,7178
+34,Cash,3.3,Summer,5168
+35,PayPal,4.6,Spring,6770
+36,Credit Card,4.0,Summer,7043
+37,PayPal,4.6,Winter,9408
+38,PayPal,2.8,Summer,16781
+39,Venmo,3.7,Winter,3568
+40,Credit Card,4.2,Summer,9300
+41,Debit Card,4.6,Winter,13396
+42,Venmo,4.5,Spring,15450
+43,PayPal,4.1,Spring,5176
+44,PayPal,3.7,Fall,8004
+45,PayPal,4.6,Summer,17855
+46,PayPal,2.9,Fall,2294
+47,Cash,2.9,Summer,8052
+48,Cash,4.5,Winter,6104
+49,Cash,2.7,Summer,11407
+50,Debit Card,4.6,Spring,583
+51,Debit Card,3.7,Spring,2482
+52,Credit Card,4.7,Winter,9797
+53,Credit Card,2.6,Summer,8969
+54,Credit Card,3.9,Winter,17449
+55,Debit Card,4.2,Summer,6603
+56,Credit Card,3.0,Winter,7838
+57,Credit Card,4.7,Summer,14734
+58,Debit Card,4.4,Summer,8320
+59,Venmo,4.2,Summer,4564
+60,Debit Card,4.6,Spring,11817
+61,Cash,4.0,Summer,6626
+62,Credit Card,4.7,Winter,5402
+63,Credit Card,3.8,Spring,15792
+64,Credit Card,2.7,Winter,5159
+65,Debit Card,4.8,Fall,8838
+66,Venmo,4.8,Spring,10934
+67,Venmo,4.7,Winter,3655
+68,Debit Card,4.4,Winter,5403
+69,Cash,3.9,Summer,5133
+70,Cash,4.4,Summer,4459
+71,Debit Card,4.2,Fall,7114
+72,Bank Transfer,2.9,Summer,7854
+73,Bank Transfer,2.9,Winter,6192
+74,Bank Transfer,2.7,Spring,16009
+75,Cash,4.5,Spring,6905
+76,Credit Card,2.7,Summer,13127
+77,Venmo,4.2,Summer,138
+78,Debit Card,3.3,Summer,13127
+79,Venmo,4.7,Spring,9361
+80,Bank Transfer,2.6,Winter,12643
+81,Credit Card,3.3,Summer,14014
+82,Credit Card,2.6,Summer,15998
+83,Credit Card,4.0,Spring,11878
+84,Bank Transfer,4.1,Summer,7162
+85,Bank Transfer,4.4,Spring,8687
+86,Debit Card,4.5,Winter,7496
+87,Cash,3.7,Spring,7943
+88,Debit Card,3.7,Fall,10971
+89,Credit Card,3.5,Fall,14202
+90,Cash,3.6,Fall,9883
+91,Credit Card,2.9,Summer,3615
+92,Credit Card,4.6,Winter,6521
+93,Venmo,4.4,Winter,4572
+94,Credit Card,4.5,Fall,4991
+95,Credit Card,4.6,Spring,10129
+96,PayPal,3.8,Fall,1290
+97,Venmo,3.6,Spring,3087
+98,Cash,4.8,Winter,5584
+99,Bank Transfer,2.6,Spring,13581
+100,Debit Card,3.7,Summer,5260
+101,Cash,2.7,Fall,16926
+102,Credit Card,4.6,Spring,7670
+103,Credit Card,4.8,Winter,9752
+104,Venmo,4.0,Winter,10050
+105,PayPal,4.4,Spring,6421
+106,Bank Transfer,3.6,Fall,12412
+107,Credit Card,3.7,Summer,14965
+108,PayPal,3.1,Winter,3418
+109,Bank Transfer,3.4,Spring,482
+110,Bank Transfer,2.6,Spring,5416
+111,Venmo,4.0,Summer,9661
+112,Credit Card,5.0,Summer,12535
+113,PayPal,4.3,Spring,7680
+114,PayPal,3.1,Winter,13617
+115,Cash,3.7,Summer,17493
+116,Debit Card,3.8,Spring,11588
+117,Venmo,3.4,Spring,17636
+118,Cash,4.6,Summer,478
+119,Cash,4.8,Fall,6914
+120,Cash,4.3,Fall,17243
+121,Bank Transfer,4.0,Summer,5448
+122,Cash,4.2,Winter,6355
+123,Cash,4.8,Spring,8975
+124,Cash,3.1,Fall,10010
+125,PayPal,3.1,Spring,14838
+126,Venmo,3.6,Winter,5817
+127,Cash,3.9,Spring,10866
+128,Credit Card,4.8,Winter,7746
+129,Credit Card,4.7,Spring,4751
+130,PayPal,4.2,Summer,14622
+131,PayPal,3.7,Fall,16952
+132,Credit Card,3.9,Summer,2570
+133,PayPal,4.7,Fall,9153
+134,Venmo,2.5,Winter,2275
+135,Cash,4.9,Fall,4939
+136,PayPal,4.1,Fall,4032
+137,Debit Card,3.3,Winter,5465
+138,PayPal,4.7,Spring,7503
+139,Bank Transfer,4.4,Winter,1249
+140,Venmo,3.8,Fall,3481
+141,Credit Card,3.9,Fall,14150
+142,PayPal,4.9,Fall,4144
+143,Credit Card,3.1,Fall,9853
+144,PayPal,2.7,Fall,2945
+145,Cash,3.2,Fall,14062
+146,Debit Card,4.5,Fall,3504
+147,Venmo,4.0,Fall,10843
+148,Bank Transfer,3.5,Summer,6840
+149,Debit Card,2.6,Fall,509
+150,PayPal,3.2,Summer,8477
+151,Debit Card,4.9,Fall,1835
+152,Venmo,4.5,Fall,2412
+153,Venmo,4.3,Summer,14928
+154,Debit Card,3.2,Winter,14534
+155,Venmo,3.6,Fall,745
+156,Bank Transfer,4.3,Spring,12079
+157,Debit Card,4.0,Fall,15535
+158,Bank Transfer,3.0,Fall,8309
+159,Bank Transfer,4.1,Fall,12330
+160,Bank Transfer,3.8,Fall,1174
+161,Venmo,4.6,Summer,1
+162,Venmo,3.0,Fall,14565
+163,PayPal,3.0,Summer,11495
+164,Debit Card,3.4,Summer,6765
+165,Credit Card,2.6,Spring,14058
+166,Cash,2.8,Winter,17569
+167,Cash,4.0,Fall,15981
+168,Credit Card,4.0,Fall,12121
+169,Cash,3.0,Summer,11890
+170,PayPal,3.3,Summer,16313
+171,Venmo,2.6,Fall,15695
+172,Credit Card,3.6,Summer,9330
+173,Credit Card,3.9,Summer,6898
+174,Cash,3.4,Fall,7645
+175,Venmo,3.5,Winter,15398
+176,Bank Transfer,2.8,Fall,4110
+177,Credit Card,2.7,Spring,13191
+178,Bank Transfer,3.7,Fall,12752
+179,PayPal,4.3,Fall,11418
+180,Bank Transfer,4.9,Fall,16900
+181,Debit Card,3.3,Fall,13071
+182,Bank Transfer,4.7,Summer,1396
+183,Debit Card,2.8,Summer,11911
+184,Credit Card,3.6,Spring,13250
+185,Cash,3.0,Spring,4104
+186,Bank Transfer,4.5,Summer,6603
+187,Debit Card,2.9,Summer,14989
+188,Bank Transfer,3.3,Spring,9883
+189,Bank Transfer,3.1,Spring,7493
+190,Credit Card,4.4,Fall,4156
+191,Venmo,3.0,Fall,14036
+192,Cash,3.9,Fall,15575
+193,PayPal,2.9,Summer,10935
+194,Venmo,3.0,Fall,9474
+195,Debit Card,3.1,Spring,12988
+196,Credit Card,4.3,Fall,17348
+197,Credit Card,3.9,Summer,16289
+198,Credit Card,3.2,Fall,13229
+199,Credit Card,4.8,Winter,5398
+200,Cash,3.8,Summer,7670
+201,Venmo,3.3,Summer,8567
+202,Bank Transfer,4.3,Fall,3160
+203,Venmo,2.7,Spring,946
+204,Bank Transfer,3.2,Fall,6071
+205,Cash,4.0,Fall,5334
+206,PayPal,3.0,Winter,1784
+207,Venmo,4.2,Summer,956
+208,Bank Transfer,2.9,Summer,11460
+209,Credit Card,4.1,Spring,5827
+210,Cash,3.2,Winter,13984
+211,PayPal,3.0,Fall,4814
+212,Debit Card,4.2,Fall,8764
+213,Debit Card,4.2,Fall,1185
+214,Debit Card,4.4,Fall,7674
+215,Cash,4.2,Summer,599
+216,PayPal,2.8,Spring,10400
+217,Venmo,3.7,Spring,11181
+218,Bank Transfer,3.5,Winter,16583
+219,Credit Card,2.9,Spring,9939
+220,Cash,3.0,Spring,15632
+221,Debit Card,3.7,Spring,14998
+222,Bank Transfer,4.4,Summer,3885
+223,PayPal,4.5,Spring,1413
+224,PayPal,4.8,Spring,7139
+225,Cash,2.9,Summer,10739
+226,Bank Transfer,3.2,Spring,3055
+227,PayPal,3.3,Spring,16312
+228,Venmo,4.2,Winter,1598
+229,Credit Card,2.9,Spring,11863
+230,PayPal,4.6,Spring,2527
+231,Credit Card,4.1,Fall,8263
+232,Debit Card,3.1,Spring,17483
+233,Bank Transfer,4.2,Winter,3223
+234,Bank Transfer,4.5,Fall,14985
+235,Credit Card,3.7,Summer,4004
+236,Debit Card,3.7,Winter,13819
+237,PayPal,3.4,Winter,13703
+238,Debit Card,3.0,Summer,10162
+239,Cash,4.2,Fall,6514
+240,Credit Card,2.9,Summer,4800
+241,Bank Transfer,3.5,Winter,3906
+242,Venmo,4.1,Winter,1340
+243,Debit Card,4.3,Summer,4191
+244,Debit Card,2.8,Winter,1005
+245,PayPal,4.9,Spring,6359
+246,Venmo,3.3,Summer,1918
+247,Venmo,3.2,Spring,3987
+248,Debit Card,4.4,Spring,12190
+249,PayPal,4.8,Winter,15329
+250,Credit Card,4.2,Fall,1628
+251,Bank Transfer,4.0,Fall,9620
+252,PayPal,2.5,Winter,1081
+253,Venmo,3.9,Summer,6175
+254,Bank Transfer,4.9,Winter,13817
+255,PayPal,3.5,Winter,16759
+256,Debit Card,4.2,Spring,5336
+257,Credit Card,4.7,Spring,5170
+258,Credit Card,4.5,Summer,11537
+259,Cash,2.8,Spring,7402
+260,Debit Card,2.9,Fall,13024
+261,Credit Card,3.2,Winter,5703
+262,Credit Card,4.9,Winter,4580
+263,Debit Card,3.7,Summer,949
+264,Venmo,4.3,Summer,8742
+265,Cash,3.9,Fall,9957
+266,Bank Transfer,3.2,Spring,11459
+267,Credit Card,3.1,Summer,13537
+268,Venmo,3.9,Spring,9761
+269,Cash,2.6,Spring,14598
+270,Cash,3.3,Winter,17227
+271,Bank Transfer,4.6,Fall,4897
+272,Credit Card,4.6,Summer,12172
+273,Debit Card,4.4,Summer,3980
+274,Debit Card,4.2,Spring,5050
+275,Cash,3.0,Spring,2054
+276,Credit Card,4.0,Winter,12091
+277,Bank Transfer,3.5,Fall,2460
+278,Bank Transfer,3.0,Winter,3700
+279,Debit Card,3.7,Spring,8601
+280,Bank Transfer,4.0,Summer,15662
+281,Cash,4.2,Fall,14582
+282,Debit Card,2.5,Spring,15940
+283,Cash,3.0,Summer,7030
+284,Venmo,3.2,Fall,9616
+285,PayPal,3.5,Summer,17188
+286,Debit Card,4.8,Summer,12710
+287,Debit Card,2.6,Summer,3723
+288,Venmo,3.4,Spring,5080
+289,Venmo,3.7,Winter,53
+290,Credit Card,4.5,Fall,17084
+291,PayPal,3.7,Winter,6633
+292,Bank Transfer,3.3,Fall,3727
+293,Cash,4.7,Spring,9337
+294,PayPal,2.7,Spring,9221
+295,Credit Card,4.6,Spring,16827
+296,Credit Card,2.7,Winter,16673
+297,Credit Card,4.8,Spring,7218
+298,Credit Card,4.4,Summer,13415
+299,Venmo,4.0,Winter,3677
+300,PayPal,3.2,Summer,4239
+301,PayPal,4.4,Spring,2156
+302,Credit Card,3.8,Spring,14348
+303,Bank Transfer,3.6,Summer,12289
+304,Venmo,3.3,Summer,3326
+305,Credit Card,3.4,Winter,11124
+306,PayPal,3.5,Fall,5920
+307,Cash,3.6,Summer,17457
+308,Credit Card,3.2,Winter,2342
+309,Venmo,3.7,Fall,14319
+310,Cash,4.5,Spring,11133
+311,Cash,4.6,Winter,6150
+312,Bank Transfer,4.1,Winter,4514
+313,PayPal,3.4,Spring,5673
+314,Credit Card,3.7,Spring,8751
+315,Debit Card,3.3,Summer,15779
+316,Debit Card,4.5,Spring,16091
+317,Venmo,3.3,Fall,722
+318,Cash,4.3,Fall,10919
+319,Cash,2.5,Winter,17625
+320,Cash,2.6,Spring,15221
+321,Debit Card,4.9,Summer,12220
+322,Debit Card,4.7,Summer,3410
+323,Credit Card,3.0,Winter,7812
+324,PayPal,3.5,Winter,3860
+325,Venmo,4.8,Summer,5610
+326,Debit Card,4.3,Winter,11533
+327,Bank Transfer,3.2,Fall,2263
+328,PayPal,3.1,Summer,2208
+329,Credit Card,2.8,Fall,8449
+330,Bank Transfer,2.9,Summer,16914
+331,Venmo,3.7,Winter,314
+332,PayPal,3.3,Fall,9484
+333,Credit Card,2.8,Winter,15790
+334,Bank Transfer,4.5,Winter,5453
+335,Credit Card,2.6,Fall,1575
+336,Venmo,3.7,Spring,9703
+337,PayPal,4.4,Fall,16878
+338,Bank Transfer,4.3,Winter,14111
+339,Cash,3.5,Winter,6596
+340,Credit Card,3.8,Spring,4929
+341,Venmo,3.5,Summer,4680
+342,Debit Card,4.6,Summer,7207
+343,Credit Card,2.6,Spring,17107
+344,Venmo,4.4,Summer,16900
+345,Debit Card,4.0,Winter,14346
+346,Bank Transfer,4.4,Winter,10535
+347,Cash,4.7,Spring,16950
+348,PayPal,3.9,Fall,3546
+349,PayPal,2.7,Fall,6727
+350,Bank Transfer,3.7,Winter,1553
+351,Bank Transfer,2.6,Spring,4107
+352,Debit Card,3.9,Winter,16093
+353,Cash,4.9,Fall,11869
+354,Debit Card,4.1,Fall,17806
+355,Venmo,3.0,Fall,8143
+356,PayPal,4.1,Fall,5093
+357,Cash,3.8,Spring,13950
+358,Credit Card,4.0,Spring,14155
+359,Credit Card,3.6,Summer,7286
+360,Credit Card,3.0,Winter,15799
+361,Debit Card,3.0,Summer,16049
+362,Cash,2.6,Spring,126
+363,Venmo,3.4,Fall,267
+364,Bank Transfer,3.1,Winter,3956
+365,Venmo,3.0,Summer,16527
+366,PayPal,3.7,Summer,13555
+367,Venmo,3.5,Spring,3454
+368,Bank Transfer,2.8,Spring,13230
+369,Cash,4.5,Spring,9152
+370,PayPal,3.3,Summer,10149
+371,PayPal,3.4,Winter,16527
+372,PayPal,3.2,Winter,8965
+373,Debit Card,3.7,Summer,16346
+374,Venmo,4.6,Summer,3517
+375,Bank Transfer,5.0,Spring,17648
+376,Debit Card,4.4,Summer,14363
+377,Venmo,4.9,Fall,7111
+378,Credit Card,4.1,Spring,15252
+379,Credit Card,4.9,Winter,1408
+380,Debit Card,4.7,Fall,4153
+381,Bank Transfer,3.0,Fall,6743
+382,Credit Card,3.4,Winter,4691
+383,PayPal,3.2,Winter,11227
+384,PayPal,2.9,Fall,17218
+385,Venmo,4.5,Fall,12446
+386,Credit Card,2.7,Fall,9648
+387,PayPal,3.4,Spring,12034
+388,PayPal,4.6,Summer,2199
+389,PayPal,2.7,Summer,980
+390,Bank Transfer,4.2,Spring,8541
+391,PayPal,3.2,Winter,1985
+392,Cash,4.8,Spring,6092
+393,Credit Card,3.3,Spring,9901
+394,PayPal,4.2,Fall,8179
+395,Debit Card,4.8,Spring,2449
+396,PayPal,4.9,Winter,8347
+397,Bank Transfer,3.9,Fall,210
+398,Cash,3.0,Fall,5915
+399,Debit Card,4.6,Winter,10312
+400,Debit Card,3.5,Fall,3312
+401,PayPal,4.8,Winter,2124
+402,Cash,4.8,Fall,7938
+403,PayPal,3.0,Fall,1048
+404,Bank Transfer,4.5,Winter,5558
+405,Credit Card,4.8,Spring,7154
+406,Cash,3.8,Summer,10072
+407,Cash,4.6,Spring,16703
+408,Credit Card,3.1,Spring,7519
+409,Cash,3.4,Spring,5401
+410,Bank Transfer,3.3,Winter,9130
+411,Credit Card,4.8,Spring,1312
+412,PayPal,2.8,Summer,3027
+413,Bank Transfer,3.1,Summer,17315
+414,Cash,4.6,Summer,17077
+415,Debit Card,2.6,Winter,2615
+416,Bank Transfer,2.6,Winter,9524
+417,Bank Transfer,3.8,Spring,5543
+418,Debit Card,4.5,Fall,9661
+419,Venmo,3.0,Spring,8530
+420,Credit Card,3.5,Winter,14910
+421,Debit Card,3.8,Spring,12547
+422,Cash,3.5,Winter,3392
+423,Debit Card,3.1,Fall,16376
+424,Credit Card,3.0,Spring,9877
+425,PayPal,4.3,Winter,4991
+426,Credit Card,3.3,Winter,5753
+427,Credit Card,4.7,Winter,15449
+428,Credit Card,4.5,Winter,15259
+429,Debit Card,2.9,Winter,15963
+430,Cash,4.1,Winter,8859
+431,Debit Card,3.5,Summer,16828
+432,Cash,3.4,Winter,5777
+433,Venmo,3.3,Fall,10093
+434,Credit Card,3.2,Fall,3021
+435,PayPal,4.0,Spring,9690
+436,Bank Transfer,3.6,Winter,14979
+437,Bank Transfer,4.6,Summer,11346
+438,PayPal,2.6,Summer,4057
+439,Credit Card,4.3,Winter,11823
+440,Cash,3.4,Summer,15280
+441,Debit Card,3.5,Winter,6118
+442,Credit Card,4.2,Winter,13754
+443,Credit Card,3.5,Fall,15758
+444,PayPal,3.6,Summer,5053
+445,Debit Card,4.3,Summer,13242
+446,Venmo,4.9,Fall,17463
+447,Venmo,4.1,Summer,3593
+448,Bank Transfer,3.6,Spring,6575
+449,Bank Transfer,3.4,Summer,5813
+450,Bank Transfer,2.9,Summer,15229
+451,Credit Card,2.7,Summer,7676
+452,Credit Card,4.3,Summer,15910
+453,PayPal,3.3,Summer,9938
+454,Credit Card,2.8,Winter,10132
+455,Cash,3.2,Summer,8613
+456,Debit Card,3.6,Fall,576
+457,Credit Card,4.0,Fall,3938
+458,Debit Card,4.9,Spring,14337
+459,PayPal,4.0,Winter,9488
+460,PayPal,3.8,Winter,2617
+461,Bank Transfer,3.7,Summer,1212
+462,Venmo,3.9,Winter,3117
+463,Venmo,3.3,Fall,15278
+464,Venmo,2.7,Summer,10497
+465,PayPal,4.7,Winter,17779
+466,Cash,2.8,Summer,13985
+467,PayPal,4.6,Winter,10439
+468,Debit Card,4.5,Spring,5536
+469,Cash,5.0,Fall,11543
+470,Debit Card,4.1,Fall,10320
+471,Cash,4.6,Summer,8703
+472,Bank Transfer,4.9,Winter,16089
+473,Bank Transfer,3.9,Winter,7213
+474,PayPal,3.9,Spring,16166
+475,Cash,2.6,Summer,7414
+476,Debit Card,2.7,Summer,16636
+477,Debit Card,3.5,Spring,7579
+478,Debit Card,3.7,Summer,723
+479,Venmo,3.2,Winter,12502
+480,Venmo,3.3,Winter,5318
+481,Debit Card,4.8,Summer,3830
+482,PayPal,3.2,Fall,2228
+483,Venmo,2.5,Winter,9443
+484,Debit Card,3.9,Fall,15979
+485,Bank Transfer,4.7,Summer,2019
+486,Debit Card,2.6,Spring,10776
+487,Venmo,2.8,Fall,17063
+488,Credit Card,4.4,Winter,14697
+489,Venmo,4.6,Spring,2022
+490,PayPal,3.2,Summer,11319
+491,Cash,4.2,Winter,10944
+492,Credit Card,3.7,Summer,3846
+493,Debit Card,3.9,Fall,3461
+494,Cash,4.7,Summer,15857
+495,Debit Card,4.5,Winter,16183
+496,Debit Card,3.3,Fall,13338
+497,Venmo,3.3,Fall,17264
+498,Cash,4.6,Winter,6950
+499,Bank Transfer,3.6,Spring,14374
+500,PayPal,4.8,Winter,3996
+501,Venmo,4.8,Fall,6853
+502,Venmo,2.9,Spring,12552
+503,PayPal,2.8,Fall,10547
+504,Bank Transfer,3.2,Summer,17110
+505,PayPal,3.9,Winter,17507
+506,Cash,4.3,Spring,10287
+507,Debit Card,2.7,Fall,9100
+508,Debit Card,5.0,Spring,9760
+509,PayPal,3.7,Winter,12002
+510,Debit Card,3.9,Summer,7805
+511,Venmo,3.9,Fall,3099
+512,PayPal,3.1,Fall,15537
+513,Bank Transfer,3.3,Winter,17142
+514,Venmo,3.6,Fall,4049
+515,PayPal,4.3,Winter,6069
+516,Cash,4.5,Spring,4249
+517,Debit Card,2.8,Fall,9534
+518,Cash,2.7,Fall,2770
+519,Venmo,2.9,Fall,1038
+520,Bank Transfer,4.4,Summer,2445
+521,Debit Card,3.9,Spring,12578
+522,Bank Transfer,3.5,Winter,7949
+523,Cash,2.5,Spring,9634
+524,PayPal,4.9,Spring,8986
+525,PayPal,4.8,Summer,11234
+526,Debit Card,3.2,Spring,16833
+527,Cash,4.9,Winter,3733
+528,Bank Transfer,4.3,Winter,8895
+529,Cash,3.2,Winter,9985
+530,Credit Card,3.7,Fall,4537
+531,Credit Card,3.2,Winter,17836
+532,Cash,3.4,Fall,3415
+533,Bank Transfer,4.1,Winter,10517
+534,Debit Card,4.5,Spring,15511
+535,PayPal,4.5,Fall,11314
+536,Bank Transfer,3.2,Spring,13831
+537,Debit Card,4.4,Fall,11413
+538,Debit Card,3.0,Summer,8996
+539,Cash,3.2,Spring,5866
+540,Debit Card,4.0,Winter,13510
+541,Cash,3.1,Spring,5306
+542,Cash,2.8,Fall,15633
+543,Cash,4.6,Spring,1600
+544,Credit Card,4.3,Spring,9497
+545,Bank Transfer,3.3,Summer,11159
+546,Debit Card,3.5,Summer,16476
+547,Venmo,3.4,Winter,14467
+548,Venmo,2.8,Winter,4956
+549,Debit Card,4.6,Winter,16837
+550,Venmo,3.6,Fall,7570
+551,PayPal,3.3,Summer,7745
+552,Cash,3.1,Fall,12469
+553,Bank Transfer,3.5,Fall,10513
+554,Credit Card,3.2,Winter,13922
+555,Bank Transfer,3.0,Summer,16210
+556,Venmo,4.8,Fall,2177
+557,Cash,5.0,Winter,11927
+558,Debit Card,2.9,Spring,11358
+559,Debit Card,3.2,Fall,1627
+560,Bank Transfer,2.9,Fall,12604
+561,Debit Card,3.3,Fall,8798
+562,PayPal,2.6,Fall,7835
+563,Debit Card,3.5,Summer,7415
+564,Debit Card,4.4,Fall,2932
+565,Bank Transfer,3.4,Winter,17796
+566,Venmo,4.2,Fall,15907
+567,Debit Card,3.6,Spring,720
+568,Venmo,3.0,Winter,3748
+569,PayPal,4.0,Summer,7205
+570,Credit Card,4.4,Fall,5917
+571,Cash,4.1,Fall,4780
+572,Venmo,3.6,Spring,14266
+573,Bank Transfer,4.6,Summer,5264
+574,Credit Card,3.2,Summer,9772
+575,Bank Transfer,4.8,Fall,9147
+576,PayPal,4.8,Fall,3098
+577,Credit Card,5.0,Winter,14294
+578,Venmo,3.7,Fall,14120
+579,Credit Card,4.6,Fall,1946
+580,Credit Card,3.7,Winter,3942
+581,PayPal,4.1,Spring,3021
+582,Bank Transfer,2.7,Winter,12433
+583,Bank Transfer,4.9,Spring,11119
+584,PayPal,4.0,Spring,13910
+585,Debit Card,4.7,Spring,3375
+586,Cash,2.8,Fall,7127
+587,Venmo,4.9,Winter,13714
+588,Debit Card,4.2,Fall,15400
+589,Debit Card,3.0,Fall,8243
+590,PayPal,3.4,Fall,14303
+591,Venmo,4.6,Fall,17358
+592,Debit Card,4.2,Fall,16520
+593,Venmo,3.2,Fall,4039
+594,PayPal,4.4,Winter,15579
+595,Debit Card,2.5,Winter,10751
+596,PayPal,3.6,Summer,3915
+597,Venmo,4.5,Summer,1905
+598,Bank Transfer,3.4,Summer,3382
+599,Cash,3.2,Winter,5900
+600,Debit Card,4.2,Spring,9770
+601,Venmo,5.0,Spring,9102
+602,Cash,4.7,Summer,9969
+603,Cash,4.2,Summer,6407
+604,PayPal,3.4,Winter,4360
+605,Credit Card,4.4,Fall,15380
+606,Bank Transfer,4.2,Winter,16694
+607,PayPal,4.5,Spring,11341
+608,Cash,2.8,Fall,4568
+609,Venmo,3.3,Fall,8242
+610,Credit Card,4.6,Fall,5384
+611,Bank Transfer,2.5,Summer,4259
+612,Cash,4.7,Winter,2387
+613,Credit Card,4.6,Fall,9582
+614,Cash,2.6,Fall,5647
+615,Credit Card,4.0,Winter,2337
+616,Venmo,2.6,Summer,1467
+617,Credit Card,4.6,Spring,6938
+618,Bank Transfer,2.6,Fall,10344
+619,Debit Card,4.0,Spring,9641
+620,Debit Card,4.6,Summer,11572
+621,Venmo,3.7,Fall,4922
+622,Credit Card,4.4,Fall,10260
+623,Bank Transfer,4.0,Spring,16725
+624,PayPal,4.7,Fall,9518
+625,PayPal,3.4,Fall,17809
+626,Venmo,4.0,Fall,6189
+627,Venmo,3.9,Spring,3948
+628,PayPal,4.1,Winter,7769
+629,Credit Card,3.7,Fall,6639
+630,Debit Card,4.7,Spring,14810
+631,Debit Card,4.3,Fall,8392
+632,Cash,4.1,Summer,17191
+633,Venmo,3.9,Winter,12334
+634,Debit Card,2.9,Spring,767
+635,PayPal,3.9,Summer,11310
+636,Cash,4.3,Fall,245
+637,Bank Transfer,2.8,Summer,6641
+638,Cash,3.4,Winter,6096
+639,PayPal,2.7,Summer,8451
+640,Credit Card,4.0,Spring,13880
+641,Debit Card,4.4,Summer,8697
+642,Credit Card,3.9,Winter,786
+643,Debit Card,2.8,Spring,2495
+644,Bank Transfer,3.2,Winter,5578
+645,Cash,4.3,Summer,8955
+646,Venmo,4.2,Summer,12496
+647,Venmo,4.9,Spring,3910
+648,Credit Card,3.7,Summer,9844
+649,Credit Card,4.1,Winter,11651
+650,PayPal,4.2,Spring,4756
+651,Bank Transfer,3.9,Spring,1602
+652,Venmo,2.9,Summer,17759
+653,Venmo,3.1,Winter,3647
+654,Cash,3.6,Winter,10874
+655,Venmo,4.4,Summer,4900
+656,Venmo,3.1,Fall,9164
+657,PayPal,3.9,Summer,11836
+658,PayPal,4.3,Winter,2973
+659,Venmo,4.9,Fall,3616
+660,Cash,3.6,Spring,4380
+661,Credit Card,5.0,Fall,10683
+662,Credit Card,4.1,Fall,3845
+663,Venmo,2.8,Fall,3109
+664,Credit Card,4.7,Fall,8066
+665,PayPal,4.4,Winter,17696
+666,Credit Card,4.9,Spring,3207
+667,Debit Card,3.1,Winter,14075
+668,Bank Transfer,2.6,Winter,7538
+669,Bank Transfer,2.9,Fall,5367
+670,Venmo,3.3,Spring,13586
+671,Cash,4.8,Spring,13905
+672,Cash,4.7,Winter,23
+673,Cash,3.3,Winter,3618
+674,Venmo,4.2,Spring,8719
+675,Bank Transfer,4.7,Winter,14654
+676,Cash,2.6,Spring,5040
+677,Venmo,2.9,Winter,10063
+678,PayPal,2.7,Summer,5059
+679,Debit Card,3.3,Fall,14110
+680,Venmo,3.4,Fall,1090
+681,PayPal,4.2,Spring,1389
+682,Credit Card,3.8,Winter,14750
+683,Credit Card,4.0,Summer,14900
+684,Bank Transfer,2.7,Winter,17753
+685,Debit Card,4.7,Summer,16792
+686,Cash,3.5,Winter,13221
+687,Venmo,3.0,Fall,14639
+688,Bank Transfer,3.3,Winter,3381
+689,Venmo,4.7,Summer,7370
+690,Credit Card,4.7,Summer,7765
+691,Bank Transfer,4.8,Spring,2868
+692,PayPal,2.9,Summer,12304
+693,Debit Card,4.0,Spring,10364
+694,Cash,3.1,Spring,14416
+695,Venmo,3.5,Fall,14631
+696,Debit Card,3.7,Summer,1121
+697,Cash,2.8,Fall,16039
+698,Debit Card,4.6,Summer,11816
+699,Debit Card,3.8,Winter,21
+700,PayPal,2.6,Fall,6504
+701,PayPal,4.1,Winter,15282
+702,Debit Card,3.3,Fall,16378
+703,Cash,3.4,Winter,15753
+704,Venmo,3.0,Summer,1973
+705,PayPal,3.2,Spring,16552
+706,Cash,4.5,Summer,13488
+707,Debit Card,4.8,Summer,15484
+708,Venmo,3.7,Spring,1104
+709,Cash,3.4,Summer,5145
+710,Debit Card,4.6,Summer,12198
+711,PayPal,4.1,Spring,2178
+712,Bank Transfer,3.5,Spring,5877
+713,Bank Transfer,3.8,Summer,16360
+714,Bank Transfer,2.6,Summer,5082
+715,Debit Card,4.4,Fall,17771
+716,Debit Card,2.6,Spring,15596
+717,Venmo,3.6,Spring,10483
+718,Venmo,4.2,Spring,17306
+719,Bank Transfer,4.6,Summer,11450
+720,Venmo,3.3,Summer,12632
+721,Debit Card,3.4,Fall,15772
+722,Debit Card,4.4,Summer,6857
+723,Cash,4.3,Summer,6710
+724,PayPal,3.5,Fall,5469
+725,Venmo,4.7,Fall,12800
+726,Debit Card,3.1,Winter,17634
+727,Bank Transfer,3.6,Summer,8192
+728,Venmo,4.8,Winter,13262
+729,PayPal,3.7,Winter,2874
+730,PayPal,3.2,Summer,8137
+731,Venmo,3.9,Summer,14400
+732,PayPal,3.5,Spring,2942
+733,Cash,2.8,Spring,14272
+734,Debit Card,2.7,Fall,4609
+735,Bank Transfer,3.1,Winter,2358
+736,Cash,3.6,Fall,10956
+737,Credit Card,2.9,Spring,8874
+738,PayPal,3.6,Spring,2124
+739,Venmo,3.5,Winter,1108
+740,Venmo,3.5,Summer,15532
+741,Credit Card,2.8,Summer,14943
+742,Bank Transfer,4.7,Summer,16378
+743,Debit Card,3.1,Summer,1350
+744,Cash,4.9,Fall,2904
+745,Debit Card,4.1,Spring,8308
+746,Venmo,4.7,Fall,16279
+747,Credit Card,2.5,Winter,9566
+748,Bank Transfer,4.4,Spring,2564
+749,Bank Transfer,3.9,Fall,8911
+750,Debit Card,3.7,Winter,17494
+751,Venmo,3.4,Fall,524
+752,Credit Card,4.8,Fall,3767
+753,PayPal,4.2,Fall,16529
+754,Venmo,3.4,Fall,14796
+755,Debit Card,2.9,Spring,190
+756,PayPal,3.3,Spring,13650
+757,Cash,4.8,Summer,7880
+758,Debit Card,3.8,Fall,1699
+759,Bank Transfer,4.6,Summer,4409
+760,Credit Card,2.6,Winter,9062
+761,Cash,3.4,Fall,7822
+762,Bank Transfer,4.2,Fall,14760
+763,Debit Card,3.9,Fall,12083
+764,Credit Card,2.9,Spring,6164
+765,Debit Card,4.2,Fall,1208
+766,Cash,3.0,Summer,291
+767,PayPal,3.6,Winter,3504
+768,Cash,2.5,Fall,4105
+769,Venmo,2.6,Spring,1125
+770,PayPal,4.3,Spring,10766
+771,Credit Card,3.3,Spring,707
+772,Bank Transfer,2.6,Fall,12999
+773,Debit Card,3.6,Fall,9124
+774,Debit Card,2.6,Winter,4582
+775,Credit Card,3.5,Summer,10297
+776,PayPal,3.0,Winter,12994
+777,Venmo,5.0,Spring,12414
+778,Venmo,2.5,Spring,5596
+779,Debit Card,2.9,Summer,3581
+780,Cash,4.6,Spring,5160
+781,Cash,3.6,Spring,5211
+782,Credit Card,3.0,Winter,2465
+783,Cash,4.5,Summer,6313
+784,PayPal,4.5,Winter,8810
+785,Bank Transfer,3.2,Winter,159
+786,PayPal,4.0,Spring,13494
+787,Bank Transfer,4.8,Winter,11015
+788,Venmo,3.7,Spring,16352
+789,Bank Transfer,3.8,Summer,11807
+790,Credit Card,2.7,Fall,6903
+791,Bank Transfer,4.9,Summer,457
+792,PayPal,3.1,Summer,9798
+793,Venmo,4.2,Spring,1536
+794,Credit Card,3.8,Summer,9728
+795,Debit Card,4.2,Winter,12200
+796,Venmo,4.6,Summer,7079
+797,Credit Card,4.0,Fall,4723
+798,Debit Card,4.0,Fall,9592
+799,PayPal,3.8,Spring,4118
+800,PayPal,3.3,Summer,2583
+801,Cash,2.6,Summer,9636
+802,Credit Card,4.9,Fall,14340
+803,Bank Transfer,3.5,Winter,985
+804,Venmo,2.8,Winter,16818
+805,Venmo,2.6,Summer,8974
+806,Debit Card,3.7,Summer,6967
+807,PayPal,2.7,Summer,8903
+808,Credit Card,3.3,Winter,12632
+809,Cash,4.6,Fall,16884
+810,PayPal,4.9,Fall,4075
+811,Debit Card,4.9,Fall,10531
+812,Venmo,2.7,Winter,14611
+813,Credit Card,3.2,Summer,17016
+814,Debit Card,2.9,Summer,1252
+815,PayPal,3.8,Winter,15973
+816,Venmo,3.0,Spring,12143
+817,Debit Card,3.9,Summer,1173
+818,PayPal,4.7,Spring,2284
+819,Debit Card,4.9,Winter,6218
+820,Debit Card,4.8,Winter,6388
+821,Debit Card,2.5,Spring,16375
+822,Credit Card,3.9,Spring,13776
+823,Bank Transfer,3.4,Winter,15500
+824,Credit Card,2.5,Winter,13087
+825,Cash,3.0,Spring,9738
+826,Cash,3.6,Fall,16111
+827,PayPal,3.6,Winter,16870
+828,Bank Transfer,4.1,Fall,2829
+829,PayPal,3.7,Fall,7256
+830,Credit Card,3.1,Spring,2478
+831,Credit Card,4.2,Fall,284
+832,Cash,4.3,Summer,6985
+833,Cash,2.5,Fall,17198
+834,Credit Card,3.5,Fall,14699
+835,Credit Card,3.1,Summer,9258
+836,Debit Card,2.5,Summer,3299
+837,Cash,3.9,Winter,17275
+838,Cash,4.9,Spring,9665
+839,Credit Card,4.3,Spring,7568
+840,Debit Card,2.6,Spring,4740
+841,PayPal,4.2,Summer,7240
+842,PayPal,2.6,Summer,11310
+843,PayPal,3.6,Spring,284
+844,PayPal,3.2,Summer,11640
+845,Venmo,4.4,Winter,10271
+846,Venmo,3.7,Winter,17752
+847,Debit Card,3.7,Spring,15772
+848,PayPal,4.1,Fall,11743
+849,Credit Card,3.6,Fall,12395
+850,PayPal,4.3,Spring,12387
+851,Venmo,2.6,Winter,6642
+852,Debit Card,2.9,Summer,12850
+853,Debit Card,4.2,Spring,13370
+854,Cash,4.0,Winter,7513
+855,Venmo,4.3,Spring,8729
+856,Credit Card,3.0,Spring,8605
+857,Debit Card,3.5,Summer,7751
+858,Debit Card,3.0,Fall,10154
+859,PayPal,3.1,Fall,907
+860,Debit Card,4.0,Winter,2529
+861,Cash,4.1,Spring,7641
+862,Credit Card,3.3,Spring,5023
+863,PayPal,4.9,Winter,11933
+864,PayPal,3.9,Summer,17482
+865,PayPal,3.9,Winter,2979
+866,Venmo,4.8,Winter,14153
+867,PayPal,2.7,Summer,16376
+868,Bank Transfer,3.1,Spring,8758
+869,Credit Card,3.2,Summer,5990
+870,PayPal,2.7,Spring,6027
+871,Bank Transfer,2.5,Fall,17068
+872,Debit Card,2.6,Spring,3524
+873,Cash,2.9,Spring,15243
+874,Venmo,4.2,Summer,15907
+875,Venmo,4.4,Fall,9271
+876,Bank Transfer,4.1,Summer,13056
+877,Debit Card,3.8,Summer,3557
+878,Venmo,4.9,Winter,7680
+879,Debit Card,4.9,Summer,12476
+880,PayPal,4.1,Spring,12689
+881,Debit Card,3.1,Spring,14859
+882,Venmo,2.7,Summer,14683
+883,Cash,3.8,Fall,12792
+884,Bank Transfer,4.3,Fall,4955
+885,Bank Transfer,4.1,Winter,1041
+886,Debit Card,4.4,Fall,16925
+887,Bank Transfer,3.6,Summer,10781
+888,PayPal,3.3,Winter,8176
+889,Cash,3.6,Spring,7528
+890,Venmo,2.8,Fall,6149
+891,Credit Card,4.3,Spring,9530
+892,PayPal,3.9,Summer,4941
+893,Debit Card,2.7,Summer,10121
+894,Venmo,4.7,Spring,7511
+895,Debit Card,3.8,Spring,2171
+896,Debit Card,4.7,Spring,347
+897,Cash,4.7,Spring,15046
+898,Venmo,3.4,Spring,3833
+899,Bank Transfer,3.5,Spring,5248
+900,PayPal,4.0,Summer,1227
+901,Bank Transfer,3.3,Fall,1424
+902,Cash,4.7,Summer,10435
+903,Cash,2.8,Summer,6364
+904,PayPal,3.3,Winter,2622
+905,PayPal,2.9,Spring,6240
+906,Venmo,2.8,Spring,4695
+907,Debit Card,4.2,Spring,7135
+908,Credit Card,4.4,Winter,9204
+909,PayPal,3.6,Winter,7375
+910,PayPal,2.7,Fall,15733
+911,Credit Card,3.4,Spring,13468
+912,Bank Transfer,2.8,Winter,13075
+913,Bank Transfer,3.4,Winter,16772
+914,Cash,2.6,Fall,14633
+915,Venmo,4.1,Summer,6239
+916,Credit Card,2.9,Winter,16053
+917,Venmo,2.7,Spring,5236
+918,Bank Transfer,3.7,Spring,359
+919,Cash,4.3,Spring,15515
+920,Debit Card,2.6,Winter,8831
+921,Cash,4.3,Summer,13049
+922,PayPal,4.1,Summer,9754
+923,Credit Card,4.2,Fall,4587
+924,PayPal,4.2,Spring,5702
+925,Cash,3.1,Winter,6309
+926,Cash,4.9,Winter,778
+927,Cash,4.4,Spring,3301
+928,Venmo,4.4,Summer,5972
+929,Cash,3.4,Winter,17311
+930,Debit Card,4.5,Fall,12846
+931,Credit Card,4.5,Fall,5166
+932,Bank Transfer,4.1,Winter,9787
+933,Debit Card,3.2,Winter,4478
+934,Debit Card,2.7,Spring,16418
+935,Bank Transfer,3.7,Spring,1586
+936,Bank Transfer,2.6,Fall,12491
+937,Cash,2.7,Summer,3459
+938,Venmo,2.7,Summer,16128
+939,Debit Card,4.8,Fall,9256
+940,Credit Card,4.8,Winter,4192
+941,PayPal,2.6,Spring,16083
+942,PayPal,4.5,Winter,9269
+943,PayPal,3.2,Winter,17421
+944,Venmo,3.8,Winter,9526
+945,Cash,4.8,Spring,10349
+946,Venmo,4.1,Summer,11879
+947,PayPal,2.8,Spring,1879
+948,Cash,3.9,Winter,14299
+949,Venmo,4.9,Summer,7645
+950,Venmo,3.4,Summer,10019
+951,PayPal,4.1,Winter,4763
+952,Bank Transfer,2.9,Summer,4667
+953,PayPal,3.1,Fall,11736
+954,Venmo,3.6,Spring,3906
+955,Credit Card,3.5,Fall,3455
+956,PayPal,3.4,Summer,3617
+957,Debit Card,2.9,Spring,7380
+958,Cash,4.7,Spring,15544
+959,Credit Card,4.4,Winter,8220
+960,Cash,2.6,Spring,13396
+961,Venmo,4.4,Spring,5090
+962,Debit Card,3.7,Fall,6967
+963,Debit Card,4.4,Spring,9177
+964,Credit Card,2.5,Spring,931
+965,Venmo,2.6,Spring,4278
+966,Credit Card,5.0,Spring,8852
+967,Cash,4.9,Spring,8154
+968,Cash,3.7,Summer,15725
+969,Bank Transfer,3.1,Summer,5504
+970,PayPal,3.2,Fall,15861
+971,Cash,4.4,Winter,2070
+972,Credit Card,4.3,Summer,10076
+973,Credit Card,3.0,Winter,7216
+974,Bank Transfer,3.5,Fall,16692
+975,Bank Transfer,3.6,Spring,12502
+976,Bank Transfer,3.8,Summer,4109
+977,Credit Card,3.6,Fall,10052
+978,Cash,4.6,Spring,14818
+979,Credit Card,2.5,Summer,11107
+980,Debit Card,3.5,Fall,11299
+981,PayPal,4.0,Spring,5036
+982,Credit Card,3.5,Spring,12666
+983,PayPal,3.2,Summer,7481
+984,Venmo,3.5,Winter,10839
+985,Credit Card,3.4,Summer,3644
+986,Bank Transfer,5.0,Fall,6592
+987,Bank Transfer,4.5,Spring,12800
+988,PayPal,2.8,Summer,10760
+989,PayPal,4.9,Winter,12341
+990,Bank Transfer,3.1,Spring,9749
+991,Cash,4.8,Spring,7831
+992,Bank Transfer,2.7,Spring,8048
+993,Debit Card,4.6,Winter,17244
+994,Cash,4.4,Winter,4802
+995,Debit Card,3.2,Fall,9503
+996,Venmo,3.0,Spring,4594
+997,Bank Transfer,4.9,Summer,17531
+998,Cash,3.6,Spring,16342
+999,Bank Transfer,3.8,Spring,14394
+1000,Debit Card,2.9,Spring,4596
+1001,Bank Transfer,3.9,Winter,10939
+1002,Debit Card,3.6,Fall,16008
+1003,Bank Transfer,3.5,Spring,11541
+1004,Cash,4.0,Fall,3699
+1005,Cash,4.8,Summer,6150
+1006,Debit Card,3.9,Winter,4834
+1007,Venmo,4.5,Summer,6439
+1008,Credit Card,4.8,Spring,7667
+1009,PayPal,2.6,Spring,17543
+1010,Venmo,3.1,Summer,1042
+1011,Credit Card,4.7,Spring,14532
+1012,Debit Card,2.9,Spring,1888
+1013,Credit Card,3.8,Summer,4431
+1014,Venmo,3.8,Summer,14531
+1015,Debit Card,3.0,Summer,13994
+1016,Cash,4.1,Summer,5493
+1017,Bank Transfer,3.4,Summer,12489
+1018,Credit Card,2.5,Fall,16973
+1019,Cash,4.9,Spring,3314
+1020,Venmo,2.8,Winter,8972
+1021,Debit Card,4.5,Fall,7052
+1022,PayPal,4.9,Winter,12545
+1023,Cash,4.9,Winter,9674
+1024,Bank Transfer,3.5,Winter,5227
+1025,Venmo,3.5,Summer,207
+1026,Credit Card,4.9,Winter,4181
+1027,PayPal,3.0,Winter,13993
+1028,Cash,2.8,Summer,14390
+1029,Cash,3.7,Summer,12178
+1030,Venmo,3.6,Spring,303
+1031,Debit Card,3.3,Winter,12134
+1032,Cash,3.4,Spring,14552
+1033,Credit Card,4.0,Fall,7038
+1034,Bank Transfer,4.6,Spring,839
+1035,Bank Transfer,4.2,Fall,2771
+1036,Venmo,2.8,Fall,10788
+1037,Bank Transfer,3.7,Fall,17160
+1038,Debit Card,3.4,Spring,10440
+1039,Bank Transfer,3.0,Fall,8569
+1040,Venmo,4.8,Fall,3926
+1041,Cash,4.0,Fall,13762
+1042,Cash,4.9,Summer,7338
+1043,Credit Card,4.9,Spring,9763
+1044,Debit Card,3.3,Spring,13546
+1045,Bank Transfer,4.4,Summer,6610
+1046,PayPal,3.5,Fall,15340
+1047,Venmo,4.2,Winter,12829
+1048,Credit Card,4.2,Fall,8284
+1049,Venmo,2.7,Fall,12028
+1050,Cash,2.8,Fall,8361
+1051,Venmo,3.8,Winter,5160
+1052,PayPal,2.6,Fall,11448
+1053,Credit Card,3.0,Fall,4661
+1054,Debit Card,3.3,Spring,15887
+1055,PayPal,4.9,Winter,16665
+1056,Debit Card,3.3,Spring,10720
+1057,Venmo,2.9,Winter,3375
+1058,Credit Card,4.4,Spring,8207
+1059,Bank Transfer,3.1,Summer,10978
+1060,Debit Card,2.5,Winter,14856
+1061,Debit Card,2.6,Summer,6339
+1062,Venmo,4.4,Summer,12106
+1063,Debit Card,2.6,Fall,10568
+1064,Cash,3.3,Summer,5118
+1065,Credit Card,3.5,Spring,3733
+1066,PayPal,4.1,Spring,9898
+1067,PayPal,4.0,Winter,15687
+1068,PayPal,2.7,Summer,3509
+1069,Credit Card,2.5,Fall,6400
+1070,Venmo,4.3,Fall,13844
+1071,Debit Card,3.3,Summer,13355
+1072,Credit Card,2.6,Summer,15613
+1073,Debit Card,3.5,Fall,14548
+1074,Credit Card,4.0,Spring,11025
+1075,Bank Transfer,2.6,Fall,16489
+1076,Debit Card,4.9,Summer,12356
+1077,Venmo,2.9,Spring,4793
+1078,PayPal,3.7,Winter,3237
+1079,Credit Card,4.4,Fall,6007
+1080,Bank Transfer,4.4,Summer,11455
+1081,Cash,3.8,Fall,2361
+1082,Credit Card,4.5,Spring,14746
+1083,Venmo,2.6,Winter,13922
+1084,Cash,3.3,Summer,12447
+1085,Cash,4.1,Fall,7997
+1086,Venmo,3.0,Winter,6315
+1087,PayPal,3.0,Winter,6179
+1088,Bank Transfer,3.4,Winter,16994
+1089,PayPal,2.7,Winter,4707
+1090,PayPal,3.8,Spring,12569
+1091,Cash,4.2,Spring,12852
+1092,Credit Card,4.7,Spring,11899
+1093,Venmo,4.1,Spring,14834
+1094,Venmo,4.2,Winter,3473
+1095,Cash,4.8,Winter,2072
+1096,Bank Transfer,3.0,Summer,8299
+1097,Credit Card,2.6,Fall,8584
+1098,Bank Transfer,3.2,Summer,6476
+1099,Credit Card,3.6,Spring,3097
+1100,Bank Transfer,2.6,Fall,6496
+1101,Credit Card,4.4,Spring,3792
+1102,Cash,3.0,Fall,15610
+1103,Cash,2.9,Fall,14930
+1104,Debit Card,4.3,Spring,15336
+1105,Bank Transfer,3.1,Fall,5469
+1106,Venmo,3.0,Spring,8975
+1107,Venmo,3.6,Winter,3705
+1108,Bank Transfer,2.8,Fall,8016
+1109,Cash,2.8,Fall,12257
+1110,Venmo,4.9,Winter,134
+1111,Cash,3.0,Fall,16930
+1112,Credit Card,4.1,Summer,3450
+1113,PayPal,4.6,Spring,4322
+1114,PayPal,4.8,Summer,13742
+1115,Bank Transfer,2.6,Fall,13654
+1116,Cash,4.0,Fall,84
+1117,PayPal,4.2,Winter,13583
+1118,Credit Card,4.5,Spring,1010
+1119,PayPal,4.9,Summer,4491
+1120,Credit Card,3.1,Spring,3993
+1121,Debit Card,4.0,Winter,7618
+1122,Cash,3.2,Fall,2089
+1123,Credit Card,4.3,Spring,7627
+1124,Cash,2.5,Fall,416
+1125,Cash,4.9,Spring,12561
+1126,Bank Transfer,2.7,Summer,5926
+1127,Venmo,3.4,Winter,17362
+1128,Debit Card,4.8,Spring,12277
+1129,Debit Card,4.7,Winter,7827
+1130,Venmo,4.7,Winter,1460
+1131,PayPal,3.9,Summer,14227
+1132,Bank Transfer,3.7,Spring,9130
+1133,Cash,4.3,Spring,5736
+1134,Cash,4.1,Winter,11683
+1135,Venmo,4.6,Summer,15254
+1136,Bank Transfer,3.6,Winter,1087
+1137,Cash,4.8,Summer,4315
+1138,Bank Transfer,2.8,Winter,16799
+1139,Venmo,4.7,Summer,6570
+1140,Debit Card,3.9,Spring,14825
+1141,Credit Card,2.6,Winter,10733
+1142,PayPal,4.7,Winter,12977
+1143,Venmo,3.5,Spring,8943
+1144,PayPal,4.4,Winter,6025
+1145,Bank Transfer,4.4,Fall,12067
+1146,Cash,3.0,Summer,6996
+1147,Bank Transfer,4.2,Summer,13298
+1148,Debit Card,4.3,Winter,1121
+1149,PayPal,2.6,Spring,14012
+1150,Venmo,3.3,Spring,9999
+1151,Venmo,2.7,Winter,2373
+1152,Credit Card,4.2,Spring,15927
+1153,PayPal,4.0,Fall,9386
+1154,Bank Transfer,4.0,Summer,17091
+1155,Credit Card,2.9,Spring,6349
+1156,PayPal,2.6,Fall,9183
+1157,Venmo,4.8,Summer,3749
+1158,Cash,4.4,Fall,2180
+1159,Bank Transfer,4.0,Summer,14693
+1160,Venmo,3.6,Fall,5782
+1161,Venmo,3.2,Summer,14102
+1162,PayPal,3.1,Fall,949
+1163,PayPal,4.2,Winter,11709
+1164,Debit Card,3.0,Summer,8133
+1165,PayPal,4.2,Winter,14167
+1166,Venmo,2.9,Winter,4621
+1167,Venmo,3.7,Winter,2289
+1168,PayPal,3.6,Summer,8071
+1169,Debit Card,3.6,Summer,6582
+1170,Cash,4.5,Fall,15180
+1171,Cash,3.2,Spring,8746
+1172,Debit Card,3.9,Spring,1827
+1173,Bank Transfer,4.6,Spring,13800
+1174,Cash,2.5,Winter,17839
+1175,Bank Transfer,4.3,Winter,8490
+1176,PayPal,4.1,Spring,12891
+1177,PayPal,4.6,Winter,5827
+1178,Debit Card,4.8,Spring,2780
+1179,Debit Card,4.9,Spring,17464
+1180,Bank Transfer,2.8,Summer,15579
+1181,Cash,4.9,Spring,11140
+1182,Bank Transfer,3.5,Summer,6986
+1183,PayPal,3.8,Spring,2907
+1184,Credit Card,4.5,Spring,15201
+1185,Credit Card,3.4,Fall,11784
+1186,Credit Card,3.9,Spring,13002
+1187,Credit Card,4.1,Summer,14873
+1188,Credit Card,3.0,Fall,714
+1189,Credit Card,3.3,Summer,17236
+1190,Debit Card,4.9,Summer,6528
+1191,Credit Card,4.3,Winter,13322
+1192,Venmo,4.1,Winter,10946
+1193,Venmo,4.0,Summer,17254
+1194,Credit Card,5.0,Fall,14037
+1195,Credit Card,3.1,Winter,4706
+1196,Venmo,4.0,Winter,13307
+1197,Bank Transfer,3.2,Winter,77
+1198,PayPal,3.9,Fall,12450
+1199,Cash,3.9,Summer,1759
+1200,Debit Card,4.5,Fall,638
+1201,PayPal,4.4,Winter,6067
+1202,Venmo,3.1,Summer,17812
+1203,Venmo,2.9,Spring,10811
+1204,Bank Transfer,3.7,Winter,17865
+1205,Credit Card,3.2,Spring,9020
+1206,Bank Transfer,3.5,Spring,1558
+1207,Venmo,3.0,Fall,3372
+1208,Credit Card,4.1,Summer,242
+1209,Debit Card,2.9,Winter,540
+1210,Bank Transfer,3.8,Winter,12160
+1211,Cash,4.1,Fall,3603
+1212,Venmo,4.6,Spring,4407
+1213,Credit Card,2.5,Summer,7103
+1214,Debit Card,3.7,Spring,6197
+1215,Cash,3.8,Fall,14744
+1216,Credit Card,2.6,Winter,6096
+1217,Venmo,3.7,Summer,4332
+1218,Cash,2.6,Fall,16741
+1219,Cash,3.1,Spring,15261
+1220,Credit Card,2.5,Winter,2971
+1221,Bank Transfer,4.9,Winter,11411
+1222,Cash,4.5,Winter,10797
+1223,Bank Transfer,3.4,Fall,16418
+1224,Bank Transfer,3.9,Winter,13498
+1225,Venmo,3.7,Summer,10096
+1226,Debit Card,2.6,Fall,1466
+1227,Venmo,3.4,Fall,13516
+1228,Bank Transfer,4.9,Spring,5453
+1229,Cash,3.9,Winter,12551
+1230,Bank Transfer,3.6,Winter,12674
+1231,Venmo,4.6,Spring,3964
+1232,Credit Card,4.0,Spring,11218
+1233,Debit Card,3.6,Summer,177
+1234,Venmo,3.5,Winter,3875
+1235,Bank Transfer,4.1,Fall,12661
+1236,PayPal,3.0,Spring,9345
+1237,Debit Card,4.4,Summer,13423
+1238,Credit Card,4.4,Spring,1598
+1239,Venmo,3.7,Winter,10813
+1240,Debit Card,4.8,Spring,9308
+1241,Debit Card,2.9,Winter,15896
+1242,Credit Card,3.1,Winter,1892
+1243,Bank Transfer,4.0,Summer,8477
+1244,Debit Card,3.0,Spring,8663
+1245,Cash,3.9,Summer,16149
+1246,Bank Transfer,3.4,Fall,1662
+1247,Cash,2.7,Winter,15426
+1248,Venmo,3.5,Spring,6923
+1249,Credit Card,3.0,Winter,5489
+1250,Venmo,4.5,Winter,11612
+1251,Cash,4.1,Winter,7122
+1252,Credit Card,5.0,Spring,15151
+1253,Cash,4.0,Fall,11619
+1254,PayPal,4.9,Winter,10923
+1255,Credit Card,3.3,Spring,11657
+1256,Cash,4.1,Fall,14625
+1257,Cash,3.6,Winter,461
+1258,Cash,3.0,Spring,16211
+1259,Debit Card,4.1,Spring,15425
+1260,Credit Card,3.9,Fall,15634
+1261,Debit Card,4.1,Spring,7537
+1262,Credit Card,2.8,Summer,5442
+1263,Venmo,4.8,Winter,4984
+1264,Credit Card,4.6,Winter,5966
+1265,Venmo,2.5,Winter,1780
+1266,Bank Transfer,2.7,Spring,6047
+1267,Debit Card,4.0,Fall,7146
+1268,Cash,2.7,Spring,7821
+1269,Debit Card,2.9,Winter,12634
+1270,PayPal,3.0,Spring,12634
+1271,Cash,3.3,Fall,12020
+1272,PayPal,4.3,Spring,2821
+1273,Bank Transfer,4.4,Winter,13889
+1274,Credit Card,4.1,Spring,17192
+1275,PayPal,3.1,Spring,8589
+1276,PayPal,4.5,Fall,3014
+1277,Bank Transfer,4.8,Spring,1123
+1278,Venmo,5.0,Spring,1697
+1279,Venmo,2.8,Fall,11892
+1280,Debit Card,3.7,Fall,7132
+1281,Venmo,4.4,Winter,6842
+1282,Venmo,4.5,Spring,3093
+1283,Venmo,3.0,Winter,12229
+1284,Debit Card,3.9,Winter,4926
+1285,PayPal,3.9,Spring,11816
+1286,Bank Transfer,3.5,Fall,9515
+1287,Debit Card,4.9,Winter,11757
+1288,PayPal,3.4,Winter,8339
+1289,PayPal,4.1,Winter,15213
+1290,PayPal,2.9,Fall,1422
+1291,PayPal,3.4,Spring,13684
+1292,Debit Card,3.2,Spring,11436
+1293,Bank Transfer,3.9,Summer,1396
+1294,Debit Card,4.1,Fall,16076
+1295,Cash,4.5,Summer,14476
+1296,PayPal,2.8,Fall,14157
+1297,Cash,2.8,Spring,12658
+1298,Venmo,4.6,Summer,10968
+1299,Bank Transfer,3.0,Summer,17593
+1300,Venmo,3.6,Fall,13590
+1301,Credit Card,4.5,Spring,8513
+1302,Debit Card,5.0,Fall,16188
+1303,Credit Card,2.9,Fall,15672
+1304,Credit Card,3.1,Summer,11498
+1305,PayPal,4.0,Spring,6841
+1306,PayPal,4.5,Spring,3874
+1307,PayPal,4.5,Winter,14393
+1308,PayPal,3.1,Summer,5306
+1309,Credit Card,4.4,Summer,12483
+1310,Cash,4.7,Summer,13365
+1311,Credit Card,3.1,Winter,485
+1312,Venmo,4.2,Fall,4037
+1313,Bank Transfer,3.0,Winter,2704
+1314,Credit Card,2.6,Summer,6179
+1315,Debit Card,3.4,Summer,4263
+1316,Debit Card,4.2,Spring,1350
+1317,Debit Card,4.6,Spring,4011
+1318,Cash,2.8,Spring,17250
+1319,Credit Card,2.7,Spring,14176
+1320,Bank Transfer,4.0,Spring,3144
+1321,Debit Card,3.1,Fall,17274
+1322,Bank Transfer,3.7,Winter,9389
+1323,Bank Transfer,4.0,Winter,6893
+1324,Debit Card,4.6,Spring,12723
+1325,Credit Card,3.8,Summer,1253
+1326,Cash,3.5,Summer,2162
+1327,Cash,4.6,Spring,15303
+1328,Cash,2.8,Winter,4377
+1329,Bank Transfer,3.7,Winter,13218
+1330,PayPal,3.3,Fall,15426
+1331,PayPal,2.9,Fall,15010
+1332,PayPal,3.2,Spring,10048
+1333,Bank Transfer,4.3,Spring,15714
+1334,Bank Transfer,2.7,Winter,3447
+1335,Venmo,4.2,Spring,14884
+1336,Credit Card,4.8,Fall,5125
+1337,Debit Card,4.8,Spring,7683
+1338,Credit Card,3.4,Spring,5716
+1339,PayPal,2.6,Winter,13422
+1340,Bank Transfer,5.0,Winter,7565
+1341,Debit Card,4.4,Fall,6790
+1342,Bank Transfer,2.9,Fall,1758
+1343,Bank Transfer,3.4,Summer,17599
+1344,Bank Transfer,3.4,Spring,9433
+1345,Cash,4.9,Fall,6529
+1346,Venmo,3.6,Fall,16475
+1347,Venmo,3.0,Winter,10561
+1348,Bank Transfer,3.9,Summer,13556
+1349,Credit Card,3.2,Spring,6118
+1350,Cash,3.2,Spring,2236
+1351,Cash,4.3,Fall,8328
+1352,Bank Transfer,2.8,Summer,14559
+1353,Credit Card,4.5,Spring,13614
+1354,Cash,4.1,Winter,14980
+1355,Bank Transfer,3.6,Spring,14970
+1356,PayPal,3.0,Summer,15305
+1357,Bank Transfer,4.0,Spring,4366
+1358,Cash,3.5,Summer,11049
+1359,Venmo,2.5,Spring,2907
+1360,Bank Transfer,4.3,Winter,16847
+1361,Bank Transfer,2.8,Fall,1665
+1362,Debit Card,3.7,Fall,4643
+1363,Cash,4.3,Fall,11077
+1364,PayPal,4.0,Summer,16459
+1365,Cash,4.7,Fall,11205
+1366,Bank Transfer,4.5,Winter,7757
+1367,Credit Card,3.1,Fall,8819
+1368,Cash,3.8,Fall,729
+1369,Cash,4.9,Summer,10664
+1370,Venmo,3.2,Winter,7806
+1371,Bank Transfer,2.9,Summer,2605
+1372,Credit Card,2.8,Spring,3064
+1373,PayPal,4.0,Fall,7945
+1374,Cash,2.6,Winter,14052
+1375,Bank Transfer,2.7,Fall,5259
+1376,Credit Card,4.1,Spring,3312
+1377,PayPal,5.0,Spring,17302
+1378,Venmo,3.0,Spring,16165
+1379,Venmo,3.6,Fall,666
+1380,Venmo,2.8,Fall,2085
+1381,Cash,4.6,Winter,16844
+1382,Venmo,2.9,Winter,13592
+1383,Bank Transfer,4.8,Winter,3818
+1384,Venmo,3.3,Spring,12365
+1385,Bank Transfer,4.6,Fall,11386
+1386,Bank Transfer,2.6,Fall,15769
+1387,Debit Card,4.0,Fall,13574
+1388,Credit Card,3.8,Winter,16443
+1389,Cash,3.9,Spring,5872
+1390,Debit Card,2.6,Fall,13123
+1391,Debit Card,4.3,Summer,9650
+1392,Credit Card,3.6,Winter,8290
+1393,Venmo,4.2,Spring,16979
+1394,PayPal,3.9,Spring,11668
+1395,Cash,4.7,Fall,9690
+1396,PayPal,2.8,Spring,14402
+1397,Debit Card,3.0,Winter,1263
+1398,PayPal,4.7,Summer,2212
+1399,Credit Card,2.5,Summer,6418
+1400,Venmo,3.1,Winter,6863
+1401,Credit Card,3.6,Fall,6503
+1402,PayPal,3.5,Fall,4634
+1403,PayPal,3.1,Summer,11159
+1404,Credit Card,3.6,Spring,14753
+1405,Debit Card,3.5,Winter,11322
+1406,Credit Card,2.7,Winter,12566
+1407,Debit Card,3.6,Spring,3507
+1408,Credit Card,4.5,Spring,13598
+1409,Venmo,4.1,Winter,16085
+1410,Cash,4.2,Spring,7941
+1411,Debit Card,4.0,Summer,7483
+1412,Venmo,2.8,Summer,14226
+1413,Venmo,2.6,Summer,12470
+1414,Bank Transfer,2.7,Fall,4028
+1415,Credit Card,4.5,Summer,9191
+1416,Credit Card,3.7,Winter,14656
+1417,Cash,3.4,Summer,5574
+1418,Debit Card,4.6,Spring,2779
+1419,Venmo,4.1,Summer,8891
+1420,Debit Card,2.6,Summer,11319
+1421,PayPal,4.6,Summer,9384
+1422,Bank Transfer,3.0,Spring,415
+1423,PayPal,3.4,Fall,6525
+1424,Venmo,3.5,Fall,7964
+1425,Bank Transfer,3.5,Fall,16563
+1426,Credit Card,3.7,Winter,6606
+1427,PayPal,4.8,Summer,1836
+1428,Credit Card,4.9,Summer,11356
+1429,PayPal,4.9,Summer,6311
+1430,Credit Card,4.7,Fall,1907
+1431,Credit Card,4.9,Summer,228
+1432,Venmo,2.9,Fall,2032
+1433,Debit Card,4.4,Winter,644
+1434,Debit Card,3.2,Winter,14861
+1435,Debit Card,4.6,Summer,2811
+1436,Cash,4.0,Fall,9339
+1437,PayPal,3.7,Winter,15048
+1438,Cash,4.2,Winter,1907
+1439,Debit Card,2.9,Spring,2581
+1440,Cash,4.8,Summer,13735
+1441,Venmo,4.4,Spring,6372
+1442,Venmo,3.4,Summer,2052
+1443,Credit Card,2.8,Spring,16792
+1444,Cash,4.2,Fall,10843
+1445,Cash,3.8,Fall,12838
+1446,Credit Card,3.1,Fall,15976
+1447,Credit Card,3.2,Summer,11077
+1448,PayPal,3.0,Summer,5655
+1449,Credit Card,3.6,Summer,14074
+1450,Cash,2.5,Winter,1118
+1451,Cash,3.4,Winter,232
+1452,PayPal,2.5,Fall,2846
+1453,Bank Transfer,4.7,Spring,1800
+1454,Bank Transfer,3.2,Winter,4555
+1455,Credit Card,2.9,Winter,17263
+1456,PayPal,4.9,Fall,12200
+1457,PayPal,2.7,Spring,7441
+1458,Venmo,4.7,Spring,1466
+1459,Venmo,2.9,Spring,14490
+1460,Venmo,4.8,Winter,12703
+1461,Venmo,4.6,Fall,2940
+1462,Venmo,5.0,Summer,14775
+1463,Venmo,4.8,Summer,13314
+1464,Bank Transfer,4.9,Summer,16649
+1465,Bank Transfer,4.6,Winter,1981
+1466,Cash,3.9,Winter,6636
+1467,PayPal,4.5,Summer,12866
+1468,Debit Card,4.7,Winter,16118
+1469,Cash,3.9,Fall,13932
+1470,PayPal,4.4,Winter,1199
+1471,Cash,3.9,Spring,5291
+1472,Venmo,2.8,Spring,11931
+1473,Cash,3.5,Spring,16232
+1474,Credit Card,4.3,Fall,3423
+1475,Credit Card,3.9,Fall,13052
+1476,Cash,4.0,Spring,1717
+1477,Credit Card,4.1,Fall,5093
+1478,PayPal,4.3,Summer,1927
+1479,Venmo,4.2,Summer,7629
+1480,Bank Transfer,4.0,Spring,12487
+1481,Cash,3.6,Fall,5703
+1482,PayPal,3.3,Spring,7594
+1483,Bank Transfer,4.1,Spring,16888
+1484,Debit Card,4.7,Summer,2083
+1485,Venmo,4.4,Summer,2775
+1486,Cash,3.4,Spring,8919
+1487,Venmo,5.0,Spring,4521
+1488,PayPal,4.6,Summer,15625
+1489,Credit Card,4.0,Winter,2569
+1490,Venmo,4.1,Summer,17321
+1491,Venmo,4.9,Spring,17265
+1492,Bank Transfer,2.7,Summer,15026
+1493,Venmo,4.5,Summer,11926
+1494,Credit Card,2.7,Fall,14354
+1495,Bank Transfer,3.0,Spring,11917
+1496,PayPal,4.5,Winter,17759
+1497,Venmo,5.0,Winter,15802
+1498,Debit Card,3.8,Spring,3540
+1499,Venmo,3.1,Summer,125
+1500,Credit Card,3.4,Fall,1467
+1501,Debit Card,4.8,Summer,8813
+1502,Debit Card,2.7,Spring,14879
+1503,Cash,3.2,Summer,9899
+1504,Cash,3.9,Fall,2222
+1505,Bank Transfer,4.2,Winter,1932
+1506,Cash,3.0,Summer,1018
+1507,PayPal,3.0,Fall,9226
+1508,Venmo,3.7,Winter,15472
+1509,Cash,4.4,Spring,11950
+1510,Debit Card,4.6,Summer,14595
+1511,Venmo,3.0,Fall,7663
+1512,Credit Card,3.6,Winter,4520
+1513,PayPal,3.9,Winter,10678
+1514,Cash,4.1,Spring,7113
+1515,Venmo,3.9,Winter,13373
+1516,Cash,3.9,Fall,6657
+1517,Bank Transfer,4.5,Winter,942
+1518,Cash,3.4,Spring,4100
+1519,Venmo,4.1,Winter,14385
+1520,PayPal,4.9,Fall,14305
+1521,Cash,4.4,Summer,15985
+1522,Bank Transfer,2.7,Summer,5276
+1523,Debit Card,4.8,Spring,17753
+1524,Debit Card,3.3,Summer,6867
+1525,Cash,4.4,Summer,8120
+1526,Cash,4.6,Winter,15589
+1527,PayPal,3.1,Summer,5246
+1528,Debit Card,4.5,Fall,10211
+1529,Venmo,4.0,Spring,13419
+1530,Credit Card,3.1,Winter,12564
+1531,Bank Transfer,3.9,Spring,1420
+1532,PayPal,4.5,Spring,17839
+1533,PayPal,4.4,Winter,709
+1534,Bank Transfer,3.6,Summer,11592
+1535,Venmo,3.4,Summer,16407
+1536,Venmo,4.0,Fall,1047
+1537,Cash,2.6,Summer,3740
+1538,Venmo,3.2,Spring,1797
+1539,Venmo,3.2,Fall,16918
+1540,Cash,5.0,Spring,12777
+1541,Bank Transfer,2.9,Winter,3199
+1542,Cash,2.9,Winter,14720
+1543,PayPal,3.5,Winter,1649
+1544,Venmo,4.0,Fall,12293
+1545,Debit Card,3.9,Spring,17452
+1546,Bank Transfer,4.9,Winter,7006
+1547,Bank Transfer,3.8,Summer,4017
+1548,Cash,3.5,Summer,16499
+1549,Bank Transfer,3.7,Summer,7752
+1550,Debit Card,2.9,Spring,13199
+1551,Bank Transfer,2.8,Summer,13915
+1552,Credit Card,3.7,Summer,6548
+1553,Credit Card,3.0,Spring,10125
+1554,Debit Card,4.8,Spring,10678
+1555,Cash,2.7,Winter,13103
+1556,Cash,4.5,Winter,10286
+1557,Credit Card,2.7,Fall,9133
+1558,PayPal,3.5,Fall,4018
+1559,Credit Card,3.5,Fall,12105
+1560,PayPal,4.5,Fall,3622
+1561,Debit Card,3.8,Winter,16250
+1562,Bank Transfer,3.8,Summer,13923
+1563,Venmo,3.2,Winter,5193
+1564,Cash,4.3,Fall,6558
+1565,Debit Card,4.5,Summer,16414
+1566,PayPal,4.2,Fall,8546
+1567,Cash,3.0,Winter,6929
+1568,Cash,4.1,Spring,17802
+1569,Debit Card,4.6,Spring,9348
+1570,Debit Card,2.9,Summer,15954
+1571,Bank Transfer,4.8,Winter,17560
+1572,Bank Transfer,4.5,Winter,241
+1573,Debit Card,3.4,Summer,5607
+1574,Debit Card,4.3,Summer,12641
+1575,PayPal,4.2,Spring,8570
+1576,Cash,3.6,Spring,2111
+1577,PayPal,3.7,Spring,10748
+1578,Venmo,4.0,Spring,16136
+1579,PayPal,4.9,Winter,1897
+1580,Bank Transfer,3.1,Summer,5957
+1581,Cash,3.7,Summer,12047
+1582,Cash,4.2,Fall,11856
+1583,Cash,2.5,Spring,278
+1584,Venmo,4.3,Summer,4050
+1585,Credit Card,3.1,Spring,9835
+1586,Debit Card,3.0,Fall,11318
+1587,Bank Transfer,4.0,Fall,3472
+1588,Credit Card,3.5,Summer,2059
+1589,Venmo,3.2,Winter,10924
+1590,Cash,2.7,Summer,9687
+1591,PayPal,3.0,Winter,2697
+1592,PayPal,2.9,Winter,7126
+1593,Bank Transfer,3.3,Summer,10068
+1594,Bank Transfer,4.9,Spring,1873
+1595,Cash,3.7,Summer,14637
+1596,Debit Card,3.5,Spring,17110
+1597,Debit Card,4.7,Fall,14793
+1598,Bank Transfer,2.6,Winter,10550
+1599,Venmo,4.1,Fall,2576
+1600,Debit Card,2.8,Winter,5135
+1601,PayPal,4.7,Spring,4569
+1602,Credit Card,2.9,Spring,15877
+1603,Venmo,2.8,Winter,15294
+1604,Debit Card,4.3,Summer,7676
+1605,Credit Card,4.8,Summer,6437
+1606,Credit Card,3.4,Winter,14434
+1607,PayPal,4.3,Spring,13279
+1608,Debit Card,2.7,Fall,14075
+1609,Bank Transfer,4.6,Fall,14355
+1610,Venmo,4.1,Fall,6058
+1611,PayPal,3.4,Spring,7114
+1612,Debit Card,4.5,Winter,15778
+1613,Venmo,4.4,Summer,10484
+1614,Credit Card,4.0,Summer,9621
+1615,Cash,3.4,Summer,1847
+1616,Cash,3.2,Fall,2561
+1617,Cash,3.4,Spring,12904
+1618,Credit Card,4.3,Winter,8432
+1619,Debit Card,5.0,Summer,17566
+1620,Venmo,3.5,Winter,17335
+1621,PayPal,3.1,Winter,17764
+1622,Debit Card,3.9,Summer,1203
+1623,Bank Transfer,4.0,Winter,13768
+1624,Debit Card,3.5,Summer,11285
+1625,PayPal,3.6,Winter,9770
+1626,PayPal,3.0,Winter,10711
+1627,Credit Card,2.6,Summer,8269
+1628,Credit Card,2.9,Winter,9941
+1629,Cash,3.1,Winter,14137
+1630,Venmo,3.3,Spring,7907
+1631,Venmo,2.9,Summer,10683
+1632,Bank Transfer,3.9,Summer,8285
+1633,Debit Card,4.7,Summer,16910
+1634,Debit Card,4.4,Spring,15407
+1635,Cash,3.6,Summer,4967
+1636,Cash,3.2,Summer,2700
+1637,Cash,4.0,Fall,13402
+1638,Venmo,3.5,Spring,6871
+1639,Venmo,4.6,Spring,4332
+1640,PayPal,3.3,Summer,4575
+1641,PayPal,4.0,Spring,11441
+1642,Bank Transfer,3.4,Summer,5396
+1643,PayPal,4.2,Spring,12791
+1644,PayPal,3.9,Summer,11251
+1645,Debit Card,3.9,Summer,4302
+1646,Venmo,2.8,Summer,16565
+1647,Bank Transfer,3.7,Summer,15686
+1648,Debit Card,4.9,Summer,10374
+1649,Credit Card,2.6,Summer,16216
+1650,Credit Card,4.9,Summer,8716
+1651,Credit Card,3.4,Winter,16344
+1652,Debit Card,3.9,Winter,14317
+1653,Bank Transfer,4.0,Summer,17836
+1654,Debit Card,3.0,Winter,12777
+1655,Credit Card,2.6,Spring,631
+1656,PayPal,3.2,Spring,13063
+1657,PayPal,2.6,Spring,11322
+1658,Debit Card,3.2,Spring,3797
+1659,Cash,4.1,Spring,17282
+1660,Venmo,3.9,Fall,3001
+1661,Venmo,4.1,Winter,17315
+1662,Debit Card,2.7,Summer,13336
+1663,Debit Card,4.6,Winter,13180
+1664,Cash,3.5,Summer,3025
+1665,PayPal,5.0,Spring,12894
+1666,Venmo,3.4,Fall,7950
+1667,PayPal,3.1,Summer,6915
+1668,Bank Transfer,3.4,Winter,16628
+1669,Debit Card,4.0,Summer,12825
+1670,Bank Transfer,2.7,Winter,12451
+1671,Cash,3.6,Fall,7232
+1672,Bank Transfer,4.0,Winter,8531
+1673,Venmo,3.8,Fall,1958
+1674,Venmo,3.4,Fall,7094
+1675,Debit Card,3.2,Winter,10551
+1676,Credit Card,4.7,Spring,14969
+1677,Bank Transfer,3.1,Winter,7370
+1678,Debit Card,3.3,Summer,5806
+1679,Venmo,4.8,Summer,14667
+1680,Debit Card,4.5,Fall,11237
+1681,Credit Card,3.4,Summer,7247
+1682,Credit Card,3.7,Winter,7487
+1683,Credit Card,4.9,Fall,4318
+1684,Venmo,3.5,Spring,10235
+1685,PayPal,4.6,Spring,3285
+1686,PayPal,4.6,Winter,8136
+1687,Cash,4.2,Fall,4851
+1688,PayPal,3.7,Winter,10404
+1689,Venmo,3.0,Winter,14992
+1690,Bank Transfer,4.6,Winter,2694
+1691,Cash,3.2,Summer,5553
+1692,Cash,3.5,Summer,4208
+1693,Cash,2.6,Winter,15329
+1694,Bank Transfer,4.9,Fall,445
+1695,Debit Card,2.7,Summer,14643
+1696,PayPal,4.7,Fall,15501
+1697,Credit Card,4.0,Spring,6336
+1698,Credit Card,3.5,Fall,953
+1699,Bank Transfer,4.8,Winter,11288
+1700,Debit Card,4.0,Spring,5102
+1701,Bank Transfer,4.1,Fall,2859
+1702,Debit Card,3.8,Winter,10617
+1703,Bank Transfer,5.0,Summer,695
+1704,Bank Transfer,4.0,Spring,6897
+1705,Cash,3.9,Summer,11179
+1706,Venmo,3.4,Summer,11270
+1707,Venmo,3.0,Spring,12114
+1708,Cash,4.9,Fall,4926
+1709,Credit Card,3.2,Spring,29
+1710,Bank Transfer,3.8,Winter,14707
+1711,Credit Card,3.8,Fall,4400
+1712,Credit Card,4.7,Spring,11245
+1713,Cash,3.8,Fall,2089
+1714,PayPal,4.6,Winter,3787
+1715,Cash,4.4,Summer,1809
+1716,PayPal,3.4,Spring,2910
+1717,Cash,4.7,Winter,15565
+1718,Debit Card,2.9,Summer,13007
+1719,PayPal,3.4,Winter,12288
+1720,Venmo,3.2,Winter,11814
+1721,Debit Card,2.8,Winter,15094
+1722,Credit Card,4.3,Spring,11844
+1723,Cash,3.3,Summer,11633
+1724,PayPal,3.3,Spring,4756
+1725,PayPal,3.3,Winter,5858
+1726,Venmo,3.0,Spring,10252
+1727,Debit Card,2.8,Summer,1710
+1728,PayPal,4.0,Spring,7514
+1729,Debit Card,4.3,Fall,4258
+1730,Venmo,3.8,Winter,570
+1731,Credit Card,4.2,Fall,15045
+1732,Cash,3.1,Fall,10799
+1733,Cash,2.6,Winter,2354
+1734,Credit Card,3.4,Summer,8535
+1735,PayPal,3.1,Spring,5361
+1736,Venmo,3.6,Winter,13396
+1737,Cash,2.6,Summer,16300
+1738,Venmo,4.2,Summer,4901
+1739,Credit Card,2.9,Spring,5304
+1740,Cash,4.2,Winter,10211
+1741,Bank Transfer,3.3,Fall,14875
+1742,Bank Transfer,3.6,Winter,15560
+1743,Venmo,4.3,Spring,7381
+1744,Bank Transfer,3.3,Winter,16316
+1745,PayPal,3.0,Winter,12870
+1746,Cash,3.6,Winter,6595
+1747,Bank Transfer,3.1,Summer,8914
+1748,Venmo,2.9,Winter,5111
+1749,Bank Transfer,3.9,Winter,4850
+1750,Debit Card,3.2,Fall,3737
+1751,Venmo,3.1,Fall,11732
+1752,Cash,3.2,Winter,10927
+1753,Venmo,3.3,Winter,3188
+1754,Credit Card,4.8,Fall,15100
+1755,Credit Card,3.8,Fall,17510
+1756,Cash,4.6,Spring,7067
+1757,Bank Transfer,2.8,Fall,15935
+1758,Debit Card,3.6,Fall,16999
+1759,Venmo,4.3,Winter,14305
+1760,PayPal,4.0,Spring,11635
+1761,PayPal,3.5,Spring,13340
+1762,Cash,4.9,Fall,17238
+1763,Bank Transfer,3.1,Summer,6670
+1764,PayPal,3.9,Winter,2436
+1765,Venmo,3.0,Summer,16216
+1766,Venmo,4.1,Spring,15052
+1767,Cash,4.3,Winter,6556
+1768,Debit Card,3.8,Fall,17685
+1769,PayPal,3.9,Summer,2532
+1770,Cash,4.3,Winter,16276
+1771,Bank Transfer,4.3,Fall,16809
+1772,Credit Card,4.7,Fall,5027
+1773,Bank Transfer,3.1,Summer,3585
+1774,PayPal,2.7,Summer,16034
+1775,PayPal,3.7,Spring,17446
+1776,Cash,3.3,Spring,13524
+1777,Venmo,3.4,Summer,1847
+1778,Cash,4.7,Winter,8869
+1779,Debit Card,4.9,Winter,6316
+1780,Venmo,4.3,Winter,11981
+1781,Credit Card,4.2,Summer,11107
+1782,Bank Transfer,3.7,Fall,930
+1783,Bank Transfer,2.7,Fall,9413
+1784,Credit Card,3.3,Winter,883
+1785,Debit Card,4.8,Summer,14417
+1786,Venmo,4.1,Fall,6808
+1787,Venmo,4.6,Spring,14469
+1788,Bank Transfer,4.9,Fall,13920
+1789,Cash,3.1,Summer,2445
+1790,Debit Card,3.0,Spring,6289
+1791,PayPal,3.7,Summer,8152
+1792,Cash,4.0,Winter,5954
+1793,Debit Card,3.0,Fall,11462
+1794,Cash,3.8,Fall,16634
+1795,Debit Card,3.7,Spring,13949
+1796,Debit Card,4.0,Fall,8976
+1797,Venmo,3.1,Spring,3250
+1798,Venmo,3.9,Spring,1340
+1799,Cash,3.7,Winter,15691
+1800,Venmo,3.9,Fall,4574
+1801,Credit Card,2.7,Winter,16803
+1802,Debit Card,3.9,Spring,7188
+1803,Venmo,2.6,Winter,4709
+1804,Venmo,3.5,Summer,5430
+1805,Credit Card,4.4,Winter,6309
+1806,Debit Card,4.9,Spring,134
+1807,Venmo,3.9,Fall,1855
+1808,Venmo,3.5,Summer,9003
+1809,Debit Card,4.3,Spring,2872
+1810,Debit Card,3.4,Fall,11508
+1811,Cash,2.7,Fall,727
+1812,Bank Transfer,3.6,Summer,16774
+1813,PayPal,4.9,Summer,8624
+1814,PayPal,3.5,Spring,8744
+1815,Cash,3.8,Summer,2421
+1816,Credit Card,4.5,Winter,7895
+1817,Cash,4.0,Summer,7337
+1818,Cash,4.7,Summer,206
+1819,Debit Card,3.8,Fall,5921
+1820,Cash,4.5,Spring,7791
+1821,PayPal,5.0,Fall,11232
+1822,PayPal,2.8,Spring,6234
+1823,Cash,4.4,Summer,3018
+1824,Bank Transfer,4.7,Fall,4230
+1825,Cash,3.8,Winter,1253
+1826,Credit Card,4.9,Winter,10339
+1827,Debit Card,4.2,Winter,3339
+1828,Bank Transfer,4.9,Spring,11512
+1829,Cash,3.9,Spring,2217
+1830,Credit Card,4.9,Spring,5008
+1831,Venmo,4.8,Winter,966
+1832,Bank Transfer,3.3,Summer,5345
+1833,Cash,4.6,Fall,934
+1834,PayPal,4.5,Spring,13845
+1835,Venmo,4.1,Summer,2132
+1836,Credit Card,3.2,Fall,14838
+1837,Credit Card,4.2,Fall,16969
+1838,Venmo,4.8,Winter,14960
+1839,Credit Card,4.1,Fall,6825
+1840,Cash,3.7,Winter,3051
+1841,Bank Transfer,2.6,Winter,13139
+1842,PayPal,3.0,Winter,11746
+1843,Debit Card,4.4,Summer,1393
+1844,Credit Card,4.7,Fall,6332
+1845,Credit Card,2.7,Spring,15261
+1846,Bank Transfer,2.8,Winter,2689
+1847,Venmo,2.9,Summer,14352
+1848,Credit Card,4.4,Summer,15432
+1849,Cash,2.7,Winter,12024
+1850,Bank Transfer,4.5,Winter,17541
+1851,Debit Card,2.8,Winter,12504
+1852,Bank Transfer,3.1,Fall,9882
+1853,Cash,3.8,Winter,6756
+1854,PayPal,2.9,Spring,17592
+1855,Credit Card,3.8,Spring,10887
+1856,Cash,4.7,Spring,4163
+1857,PayPal,3.2,Summer,595
+1858,Cash,4.0,Summer,9852
+1859,Debit Card,4.9,Spring,2466
+1860,Debit Card,3.7,Summer,6463
+1861,Credit Card,4.8,Summer,2819
+1862,Debit Card,3.6,Fall,13895
+1863,PayPal,4.6,Winter,12438
+1864,Debit Card,4.3,Spring,7004
+1865,Venmo,3.2,Fall,16512
+1866,Bank Transfer,3.8,Summer,5142
+1867,Credit Card,4.2,Winter,14027
+1868,Venmo,3.4,Fall,10328
+1869,Cash,4.7,Spring,795
+1870,Debit Card,3.9,Spring,13314
+1871,Debit Card,4.3,Spring,16206
+1872,Cash,2.7,Fall,13614
+1873,Credit Card,4.6,Summer,4743
+1874,Bank Transfer,2.9,Fall,5062
+1875,Cash,3.6,Fall,13539
+1876,Credit Card,3.9,Winter,15671
+1877,Venmo,2.6,Fall,12880
+1878,Credit Card,3.6,Fall,1274
+1879,Credit Card,3.4,Summer,8143
+1880,Cash,3.5,Spring,14374
+1881,Debit Card,3.1,Fall,16042
+1882,Cash,4.3,Winter,12627
+1883,Bank Transfer,5.0,Winter,14410
+1884,Debit Card,4.9,Spring,7883
+1885,Bank Transfer,4.3,Summer,12971
+1886,Cash,4.4,Winter,14350
+1887,Cash,4.4,Spring,3499
+1888,PayPal,3.5,Fall,8300
+1889,Credit Card,3.4,Winter,8749
+1890,Bank Transfer,2.5,Spring,6194
+1891,Credit Card,3.4,Spring,4732
+1892,Debit Card,2.6,Summer,10680
+1893,Venmo,4.6,Fall,11403
+1894,PayPal,3.7,Summer,16444
+1895,Debit Card,2.5,Fall,8653
+1896,Debit Card,4.5,Fall,3639
+1897,Venmo,2.9,Fall,13696
+1898,Debit Card,2.9,Winter,5174
+1899,Venmo,3.5,Fall,7909
+1900,PayPal,4.2,Winter,9580
+1901,Cash,3.3,Summer,12163
+1902,Cash,3.9,Winter,5609
+1903,Venmo,5.0,Spring,1348
+1904,Bank Transfer,3.3,Summer,12736
+1905,Cash,4.2,Spring,5635
+1906,Bank Transfer,4.9,Summer,4333
+1907,PayPal,4.6,Spring,8276
+1908,Credit Card,4.8,Fall,16484
+1909,Debit Card,2.7,Winter,567
+1910,Credit Card,4.3,Spring,10875
+1911,Debit Card,3.8,Fall,6176
+1912,Debit Card,4.9,Spring,13729
+1913,Credit Card,3.4,Winter,17061
+1914,Cash,3.6,Winter,17894
+1915,Credit Card,3.4,Fall,10583
+1916,Cash,4.7,Fall,5223
+1917,Debit Card,3.0,Winter,7821
+1918,PayPal,3.4,Winter,11796
+1919,Debit Card,4.6,Summer,1693
+1920,PayPal,3.1,Summer,6481
+1921,Cash,2.8,Spring,7583
+1922,Venmo,3.5,Fall,13827
+1923,PayPal,4.6,Summer,14297
+1924,Cash,4.3,Summer,14815
+1925,PayPal,4.8,Fall,14854
+1926,Credit Card,2.9,Winter,15626
+1927,PayPal,3.0,Spring,7761
+1928,Cash,2.9,Summer,11943
+1929,PayPal,3.7,Summer,154
+1930,Venmo,4.7,Fall,3213
+1931,Cash,3.5,Spring,4687
+1932,Debit Card,2.7,Spring,4887
+1933,Credit Card,5.0,Spring,13588
+1934,Venmo,4.1,Summer,8127
+1935,Bank Transfer,2.7,Winter,1222
+1936,Cash,4.8,Spring,9024
+1937,PayPal,4.3,Summer,853
+1938,Bank Transfer,4.5,Summer,5506
+1939,Debit Card,3.8,Spring,17050
+1940,PayPal,3.7,Winter,3941
+1941,PayPal,3.9,Fall,17203
+1942,Credit Card,3.3,Winter,17849
+1943,PayPal,3.4,Fall,3804
+1944,Cash,3.8,Summer,8438
+1945,Cash,2.7,Winter,14181
+1946,Credit Card,2.9,Winter,11678
+1947,Credit Card,4.5,Summer,734
+1948,PayPal,2.6,Summer,4871
+1949,PayPal,3.1,Winter,12824
+1950,PayPal,4.7,Winter,7853
+1951,PayPal,4.6,Summer,8022
+1952,Bank Transfer,2.7,Summer,11868
+1953,Cash,4.6,Summer,5386
+1954,PayPal,4.8,Spring,13254
+1955,Venmo,4.2,Winter,14415
+1956,Cash,4.9,Winter,14985
+1957,Credit Card,4.9,Winter,2061
+1958,Cash,4.5,Spring,2426
+1959,Cash,2.7,Winter,7810
+1960,Credit Card,3.1,Fall,17791
+1961,Credit Card,3.3,Summer,6296
+1962,Debit Card,2.6,Summer,6157
+1963,PayPal,4.4,Fall,6971
+1964,Credit Card,3.9,Spring,7965
+1965,Debit Card,4.6,Summer,13214
+1966,Debit Card,4.9,Fall,8180
+1967,Credit Card,3.7,Winter,10387
+1968,Venmo,3.7,Fall,2659
+1969,Credit Card,4.2,Spring,9182
+1970,Bank Transfer,3.5,Winter,13221
+1971,Credit Card,2.9,Spring,11803
+1972,Venmo,3.4,Spring,15524
+1973,PayPal,3.3,Summer,7354
+1974,Venmo,4.5,Fall,4615
+1975,PayPal,4.6,Winter,11481
+1976,Cash,2.9,Fall,8843
+1977,PayPal,3.2,Spring,12297
+1978,Bank Transfer,2.6,Summer,15365
+1979,Cash,3.8,Spring,8459
+1980,Debit Card,2.8,Spring,3628
+1981,PayPal,4.4,Winter,8695
+1982,PayPal,4.7,Summer,4552
+1983,PayPal,2.7,Summer,10546
+1984,Debit Card,2.6,Summer,6339
+1985,PayPal,3.4,Summer,4188
+1986,Credit Card,3.9,Spring,2623
+1987,Venmo,3.4,Summer,4679
+1988,Cash,3.4,Summer,8093
+1989,Bank Transfer,3.9,Winter,7371
+1990,PayPal,4.0,Spring,1475
+1991,PayPal,3.4,Spring,2983
+1992,Venmo,3.7,Summer,5020
+1993,Venmo,4.9,Winter,11748
+1994,Cash,5.0,Spring,10093
+1995,Credit Card,2.9,Fall,5367
+1996,Debit Card,3.0,Spring,1948
+1997,Cash,3.3,Summer,252
+1998,Debit Card,4.7,Fall,7076
+1999,Cash,3.4,Fall,6736
+2000,Debit Card,4.6,Winter,17801
+2001,Cash,3.6,Winter,3298
+2002,Debit Card,2.6,Winter,5351
+2003,PayPal,2.7,Summer,3324
+2004,Cash,3.1,Spring,2538
+2005,Cash,3.2,Fall,6211
+2006,PayPal,3.4,Winter,16267
+2007,Credit Card,4.4,Fall,15600
+2008,PayPal,3.2,Summer,14818
+2009,PayPal,2.5,Spring,6902
+2010,Venmo,3.8,Summer,5723
+2011,Debit Card,4.4,Summer,2768
+2012,Bank Transfer,3.7,Spring,14336
+2013,Cash,3.2,Fall,6458
+2014,Debit Card,4.9,Winter,10494
+2015,PayPal,3.9,Summer,12034
+2016,Credit Card,4.5,Summer,10092
+2017,Debit Card,3.4,Winter,15311
+2018,Bank Transfer,4.1,Winter,2427
+2019,Bank Transfer,4.5,Fall,3860
+2020,Cash,4.7,Winter,14067
+2021,Cash,4.8,Winter,12243
+2022,Venmo,4.4,Winter,3981
+2023,Cash,4.0,Winter,17214
+2024,Cash,4.1,Winter,9879
+2025,PayPal,3.7,Fall,14368
+2026,Debit Card,3.0,Summer,11617
+2027,Bank Transfer,3.6,Winter,11548
+2028,Credit Card,4.8,Fall,7798
+2029,Venmo,3.7,Fall,7703
+2030,PayPal,4.6,Spring,16575
+2031,Credit Card,2.8,Summer,1669
+2032,Credit Card,4.0,Spring,1447
+2033,Cash,4.2,Winter,2320
+2034,Venmo,3.6,Summer,4189
+2035,PayPal,2.9,Spring,15861
+2036,Bank Transfer,4.1,Summer,1103
+2037,Cash,3.1,Winter,9375
+2038,Venmo,4.3,Summer,3920
+2039,Credit Card,4.4,Spring,1523
+2040,Debit Card,3.1,Spring,11241
+2041,Venmo,2.9,Spring,12394
+2042,PayPal,3.2,Winter,4306
+2043,Venmo,4.0,Spring,9645
+2044,PayPal,2.7,Summer,14932
+2045,PayPal,3.0,Spring,9851
+2046,PayPal,4.4,Fall,5932
+2047,Cash,2.8,Winter,3603
+2048,Cash,3.1,Summer,6037
+2049,Bank Transfer,3.9,Winter,4788
+2050,Venmo,2.7,Fall,14768
+2051,Debit Card,3.4,Summer,17860
+2052,Credit Card,3.8,Spring,9020
+2053,Bank Transfer,3.7,Winter,766
+2054,Credit Card,4.5,Spring,7037
+2055,PayPal,2.9,Spring,8616
+2056,Bank Transfer,3.4,Fall,2556
+2057,PayPal,4.4,Spring,1923
+2058,PayPal,4.2,Spring,12116
+2059,Bank Transfer,3.3,Winter,3522
+2060,PayPal,3.7,Spring,8025
+2061,Bank Transfer,3.2,Fall,10309
+2062,Debit Card,2.6,Summer,1151
+2063,Cash,2.8,Fall,6807
+2064,Cash,2.9,Fall,12109
+2065,Bank Transfer,4.0,Summer,878
+2066,Bank Transfer,2.9,Spring,7464
+2067,Debit Card,4.7,Fall,154
+2068,Cash,3.1,Fall,1568
+2069,Venmo,3.9,Summer,7137
+2070,Debit Card,3.4,Fall,1433
+2071,Cash,3.1,Spring,7339
+2072,PayPal,4.8,Fall,3720
+2073,Bank Transfer,3.9,Winter,3706
+2074,PayPal,3.5,Winter,6287
+2075,Debit Card,3.1,Summer,2313
+2076,Debit Card,4.7,Fall,9603
+2077,Debit Card,4.6,Fall,5819
+2078,Bank Transfer,3.3,Fall,8376
+2079,Debit Card,3.2,Spring,13398
+2080,PayPal,3.1,Summer,15541
+2081,Debit Card,3.5,Fall,5102
+2082,Bank Transfer,4.3,Spring,12228
+2083,Venmo,2.9,Summer,5841
+2084,Credit Card,2.7,Fall,6936
+2085,Bank Transfer,4.0,Summer,8008
+2086,Debit Card,4.6,Fall,3408
+2087,Cash,4.7,Summer,11232
+2088,Credit Card,4.7,Summer,5032
+2089,Debit Card,4.0,Spring,2683
+2090,Credit Card,3.6,Spring,2148
+2091,Debit Card,3.4,Winter,5561
+2092,Bank Transfer,3.0,Fall,7742
+2093,Bank Transfer,2.6,Fall,3358
+2094,Debit Card,4.2,Spring,9361
+2095,Venmo,3.4,Spring,14567
+2096,Bank Transfer,4.0,Fall,8764
+2097,Debit Card,4.7,Summer,10526
+2098,Credit Card,3.9,Winter,725
+2099,Venmo,3.3,Summer,1928
+2100,PayPal,2.9,Summer,8420
+2101,Cash,4.4,Spring,8048
+2102,Bank Transfer,3.6,Winter,16984
+2103,Cash,4.5,Spring,5657
+2104,Venmo,3.7,Summer,3115
+2105,Venmo,2.8,Spring,7148
+2106,Venmo,4.5,Spring,6195
+2107,Credit Card,4.4,Fall,138
+2108,PayPal,3.3,Winter,4366
+2109,Credit Card,4.2,Winter,17449
+2110,Venmo,2.7,Fall,15080
+2111,Debit Card,3.9,Spring,4321
+2112,Bank Transfer,2.6,Spring,995
+2113,Cash,4.5,Fall,5078
+2114,PayPal,2.7,Spring,4460
+2115,Debit Card,2.9,Winter,2397
+2116,Bank Transfer,3.4,Winter,11580
+2117,Debit Card,2.9,Summer,7695
+2118,Debit Card,3.8,Summer,9333
+2119,Debit Card,4.2,Fall,16487
+2120,Venmo,3.5,Spring,15837
+2121,PayPal,3.1,Fall,3177
+2122,Bank Transfer,3.5,Winter,11016
+2123,Debit Card,4.0,Fall,10460
+2124,Debit Card,3.7,Spring,4804
+2125,Venmo,4.2,Fall,9370
+2126,PayPal,4.8,Fall,11737
+2127,Credit Card,4.1,Winter,6982
+2128,Debit Card,4.5,Spring,3198
+2129,PayPal,2.7,Fall,15307
+2130,PayPal,2.8,Fall,15695
+2131,Credit Card,3.7,Summer,11564
+2132,Bank Transfer,3.6,Fall,2103
+2133,Debit Card,4.7,Fall,11064
+2134,Bank Transfer,3.8,Summer,7165
+2135,Credit Card,2.9,Winter,9627
+2136,Debit Card,4.6,Winter,6003
+2137,Bank Transfer,2.8,Summer,10977
+2138,Credit Card,4.6,Winter,7435
+2139,Venmo,2.8,Fall,5366
+2140,Cash,3.0,Winter,2174
+2141,Cash,3.7,Fall,14930
+2142,PayPal,4.1,Winter,3960
+2143,Venmo,4.3,Winter,7229
+2144,Venmo,3.8,Fall,8235
+2145,PayPal,3.7,Winter,11675
+2146,PayPal,4.8,Winter,15101
+2147,PayPal,4.6,Summer,11402
+2148,Cash,4.8,Fall,16985
+2149,PayPal,4.6,Winter,5050
+2150,Bank Transfer,4.0,Winter,4981
+2151,Cash,2.6,Spring,8680
+2152,Venmo,2.6,Fall,8898
+2153,Bank Transfer,4.5,Summer,12499
+2154,PayPal,4.2,Fall,2621
+2155,Cash,3.4,Spring,11863
+2156,PayPal,3.7,Fall,12266
+2157,Debit Card,3.6,Winter,8403
+2158,Venmo,4.0,Winter,12830
+2159,Bank Transfer,4.6,Spring,6303
+2160,Cash,3.0,Fall,7584
+2161,PayPal,3.3,Winter,2405
+2162,Debit Card,3.8,Summer,14216
+2163,PayPal,2.7,Summer,920
+2164,Bank Transfer,4.5,Spring,1451
+2165,PayPal,4.8,Winter,11704
+2166,Credit Card,4.2,Summer,16002
+2167,Credit Card,3.5,Spring,16305
+2168,Venmo,4.9,Winter,11747
+2169,Cash,4.1,Spring,17533
+2170,Bank Transfer,2.9,Fall,16076
+2171,Venmo,4.0,Fall,1288
+2172,Cash,4.6,Summer,10733
+2173,PayPal,2.8,Fall,16990
+2174,Venmo,5.0,Summer,4831
+2175,Cash,2.9,Spring,11471
+2176,Credit Card,3.3,Spring,17608
+2177,Debit Card,3.4,Winter,13439
+2178,PayPal,3.0,Winter,10754
+2179,Venmo,4.7,Summer,6883
+2180,PayPal,2.9,Fall,16933
+2181,Cash,4.1,Summer,17256
+2182,Bank Transfer,3.2,Fall,767
+2183,Venmo,2.7,Winter,9048
+2184,Cash,4.7,Spring,907
+2185,PayPal,3.2,Spring,17520
+2186,Debit Card,2.5,Winter,3031
+2187,PayPal,4.3,Winter,14151
+2188,PayPal,4.4,Spring,7793
+2189,Credit Card,4.7,Winter,1392
+2190,Credit Card,4.0,Fall,15742
+2191,Credit Card,4.6,Spring,6059
+2192,Cash,3.8,Summer,15557
+2193,Credit Card,3.2,Winter,5389
+2194,PayPal,5.0,Spring,10195
+2195,Bank Transfer,3.5,Summer,3054
+2196,Cash,3.7,Fall,12092
+2197,PayPal,4.8,Spring,17338
+2198,Venmo,3.7,Summer,16029
+2199,Venmo,3.5,Summer,2173
+2200,Debit Card,4.9,Summer,15830
+2201,Debit Card,4.7,Summer,12558
+2202,Venmo,4.9,Spring,1694
+2203,Credit Card,4.3,Summer,6003
+2204,Cash,3.1,Winter,9226
+2205,Debit Card,3.4,Winter,8374
+2206,PayPal,2.7,Fall,12824
+2207,Bank Transfer,2.6,Spring,11751
+2208,Credit Card,2.9,Fall,9368
+2209,PayPal,2.7,Summer,5871
+2210,Bank Transfer,4.5,Summer,3913
+2211,PayPal,3.1,Summer,4062
+2212,Debit Card,3.2,Winter,17098
+2213,Bank Transfer,3.3,Winter,15587
+2214,Debit Card,2.9,Fall,14668
+2215,Debit Card,4.1,Fall,10723
+2216,Credit Card,2.7,Winter,6064
+2217,Venmo,4.0,Winter,6531
+2218,Bank Transfer,2.6,Fall,6911
+2219,Debit Card,3.5,Winter,1493
+2220,Bank Transfer,2.8,Fall,7984
+2221,Cash,4.5,Fall,9870
+2222,Credit Card,3.0,Fall,10276
+2223,Credit Card,4.4,Summer,6640
+2224,PayPal,4.7,Fall,4147
+2225,Cash,4.3,Winter,28
+2226,Credit Card,4.8,Spring,7489
+2227,Cash,4.8,Spring,4254
+2228,Credit Card,4.4,Summer,13269
+2229,Credit Card,3.7,Fall,5534
+2230,Venmo,3.9,Fall,9711
+2231,Venmo,3.8,Spring,9124
+2232,Credit Card,4.1,Fall,4441
+2233,Cash,4.0,Spring,13903
+2234,Credit Card,4.5,Summer,7212
+2235,Cash,4.0,Winter,13424
+2236,Credit Card,4.5,Spring,11449
+2237,Debit Card,2.7,Winter,15103
+2238,Venmo,3.8,Summer,2907
+2239,Debit Card,3.8,Winter,16979
+2240,Credit Card,3.8,Summer,2845
+2241,Debit Card,4.3,Winter,2535
+2242,Bank Transfer,3.5,Summer,9360
+2243,Credit Card,3.8,Spring,13987
+2244,Debit Card,3.7,Winter,16193
+2245,PayPal,4.8,Summer,3378
+2246,PayPal,4.9,Fall,9321
+2247,PayPal,4.3,Fall,3913
+2248,Venmo,4.4,Summer,11406
+2249,PayPal,3.4,Winter,4499
+2250,Debit Card,4.3,Spring,9278
+2251,Credit Card,4.6,Summer,13431
+2252,Debit Card,3.8,Fall,11858
+2253,Bank Transfer,3.9,Summer,969
+2254,PayPal,2.6,Spring,5896
+2255,PayPal,4.2,Winter,7124
+2256,Bank Transfer,4.6,Spring,17265
+2257,Credit Card,5.0,Fall,12858
+2258,Bank Transfer,4.2,Fall,9153
+2259,Credit Card,4.3,Winter,15537
+2260,Cash,3.3,Spring,3567
+2261,PayPal,4.9,Fall,7448
+2262,Bank Transfer,4.4,Spring,2681
+2263,PayPal,3.1,Winter,15228
+2264,Cash,3.5,Winter,13649
+2265,PayPal,3.9,Summer,15956
+2266,PayPal,3.9,Fall,2362
+2267,Debit Card,4.3,Fall,1676
+2268,Venmo,3.8,Spring,12677
+2269,Bank Transfer,2.7,Spring,17165
+2270,Credit Card,4.4,Fall,13096
+2271,Venmo,3.5,Spring,8058
+2272,PayPal,3.4,Summer,10468
+2273,PayPal,4.0,Spring,15066
+2274,PayPal,4.8,Winter,10415
+2275,PayPal,4.5,Spring,15931
+2276,Debit Card,4.4,Winter,9179
+2277,Debit Card,4.1,Summer,9631
+2278,Credit Card,4.6,Summer,6153
+2279,Cash,3.8,Fall,130
+2280,Bank Transfer,2.9,Spring,12283
+2281,Credit Card,2.8,Summer,1900
+2282,Bank Transfer,3.0,Summer,4977
+2283,Credit Card,4.2,Fall,3071
+2284,Credit Card,4.1,Winter,13190
+2285,Venmo,4.1,Fall,13868
+2286,PayPal,4.6,Summer,8289
+2287,Venmo,2.5,Spring,12428
+2288,Debit Card,3.0,Summer,10099
+2289,PayPal,3.8,Fall,15794
+2290,Venmo,4.1,Fall,11467
+2291,PayPal,3.3,Winter,7966
+2292,Credit Card,5.0,Spring,10257
+2293,Debit Card,3.8,Spring,676
+2294,Debit Card,3.3,Fall,6635
+2295,Debit Card,5.0,Winter,11803
+2296,PayPal,2.9,Spring,4470
+2297,Venmo,2.5,Fall,17655
+2298,Bank Transfer,4.7,Summer,17890
+2299,Cash,2.9,Spring,8956
+2300,Credit Card,3.7,Summer,6760
+2301,Credit Card,4.4,Summer,10439
+2302,Debit Card,2.9,Winter,7738
+2303,Venmo,3.6,Summer,6543
+2304,Credit Card,4.8,Spring,10832
+2305,Debit Card,4.7,Winter,16839
+2306,Cash,2.6,Summer,13011
+2307,Cash,3.4,Winter,1514
+2308,Debit Card,3.5,Fall,867
+2309,Bank Transfer,3.4,Winter,8707
+2310,Bank Transfer,5.0,Fall,1554
+2311,PayPal,4.6,Spring,12535
+2312,Bank Transfer,4.8,Spring,1881
+2313,Cash,3.7,Summer,9462
+2314,Bank Transfer,4.7,Summer,5407
+2315,Bank Transfer,4.4,Winter,14211
+2316,Debit Card,3.5,Winter,16567
+2317,Debit Card,3.8,Winter,4910
+2318,Bank Transfer,4.7,Summer,12671
+2319,Credit Card,3.1,Spring,14316
+2320,PayPal,5.0,Winter,1855
+2321,Debit Card,3.7,Spring,9051
+2322,Debit Card,3.0,Winter,8800
+2323,Venmo,4.5,Spring,9858
+2324,Credit Card,4.7,Winter,14171
+2325,Debit Card,3.5,Winter,10059
+2326,Cash,4.4,Summer,15584
+2327,Bank Transfer,2.6,Winter,6413
+2328,Venmo,4.2,Winter,15901
+2329,Venmo,2.6,Fall,6235
+2330,Bank Transfer,4.8,Spring,5422
+2331,PayPal,2.9,Summer,2755
+2332,Credit Card,4.3,Spring,1786
+2333,Venmo,2.6,Fall,3876
+2334,PayPal,3.8,Spring,16896
+2335,Credit Card,4.2,Summer,15862
+2336,Venmo,3.9,Summer,10951
+2337,Credit Card,3.1,Winter,2592
+2338,Cash,3.6,Fall,3554
+2339,PayPal,4.0,Fall,283
+2340,Bank Transfer,3.4,Spring,9489
+2341,Credit Card,2.6,Summer,17026
+2342,Venmo,4.5,Summer,2190
+2343,Debit Card,4.9,Fall,11892
+2344,PayPal,4.4,Summer,10467
+2345,Venmo,3.5,Fall,4319
+2346,Bank Transfer,3.3,Winter,4379
+2347,Debit Card,3.1,Winter,2644
+2348,Cash,4.2,Fall,3356
+2349,PayPal,4.9,Spring,2763
+2350,Credit Card,3.9,Fall,1226
+2351,Cash,4.2,Winter,6853
+2352,PayPal,4.9,Fall,9108
+2353,Bank Transfer,2.8,Fall,13449
+2354,Debit Card,4.1,Fall,12245
+2355,Venmo,4.8,Summer,17664
+2356,Cash,4.1,Winter,16626
+2357,Debit Card,3.0,Summer,6691
+2358,Credit Card,4.2,Fall,4244
+2359,Credit Card,3.8,Spring,12084
+2360,Bank Transfer,3.3,Spring,17819
+2361,Venmo,4.7,Fall,13639
+2362,Credit Card,4.3,Spring,1661
+2363,Credit Card,2.7,Fall,16887
+2364,Cash,4.2,Winter,8029
+2365,PayPal,4.2,Winter,7434
+2366,Venmo,2.5,Winter,11929
+2367,Credit Card,3.6,Winter,15525
+2368,Bank Transfer,3.4,Winter,2864
+2369,Debit Card,3.3,Summer,14022
+2370,PayPal,4.6,Winter,11136
+2371,Venmo,3.9,Spring,17606
+2372,Debit Card,3.7,Winter,14816
+2373,PayPal,3.1,Spring,6758
+2374,Debit Card,4.9,Spring,9183
+2375,Debit Card,4.7,Winter,2090
+2376,Credit Card,2.9,Fall,10684
+2377,Cash,4.1,Spring,11320
+2378,Cash,4.0,Fall,14599
+2379,PayPal,2.7,Summer,3106
+2380,Debit Card,4.0,Spring,8622
+2381,PayPal,2.5,Fall,11281
+2382,PayPal,4.5,Summer,8348
+2383,Debit Card,3.9,Spring,1452
+2384,Bank Transfer,4.9,Spring,9215
+2385,PayPal,3.3,Winter,2692
+2386,PayPal,3.8,Fall,9700
+2387,Venmo,2.9,Summer,9622
+2388,Debit Card,4.0,Summer,10575
+2389,Debit Card,4.1,Fall,14398
+2390,Bank Transfer,3.1,Spring,2263
+2391,Debit Card,4.6,Winter,4603
+2392,Bank Transfer,4.6,Winter,6802
+2393,Cash,2.6,Spring,11839
+2394,PayPal,5.0,Winter,6652
+2395,Debit Card,2.9,Fall,2082
+2396,PayPal,3.5,Winter,8392
+2397,Venmo,3.7,Spring,13138
+2398,Venmo,2.9,Fall,615
+2399,Bank Transfer,4.3,Winter,8643
+2400,Cash,3.2,Spring,9991
+2401,Credit Card,4.2,Winter,7453
+2402,PayPal,4.2,Winter,16268
+2403,Cash,3.8,Winter,8905
+2404,Debit Card,4.4,Fall,12497
+2405,Credit Card,3.1,Winter,4133
+2406,Debit Card,5.0,Fall,15866
+2407,PayPal,4.7,Winter,3536
+2408,Credit Card,3.0,Summer,7163
+2409,Debit Card,4.2,Fall,1825
+2410,Cash,3.0,Spring,202
+2411,PayPal,3.7,Summer,5850
+2412,Cash,2.7,Summer,15107
+2413,Bank Transfer,4.3,Winter,13440
+2414,Bank Transfer,2.7,Fall,12444
+2415,Credit Card,3.7,Summer,6620
+2416,Bank Transfer,4.3,Fall,14828
+2417,Credit Card,4.0,Summer,11620
+2418,Venmo,3.3,Fall,5190
+2419,Cash,4.0,Fall,11658
+2420,Credit Card,2.7,Fall,8352
+2421,PayPal,4.2,Winter,11142
+2422,Debit Card,4.6,Spring,7788
+2423,Credit Card,4.8,Winter,15488
+2424,Credit Card,2.8,Summer,11221
+2425,Bank Transfer,4.5,Winter,8586
+2426,Bank Transfer,3.0,Summer,13122
+2427,Debit Card,4.6,Fall,948
+2428,Cash,3.3,Spring,461
+2429,Debit Card,4.4,Spring,17144
+2430,Credit Card,4.4,Summer,1919
+2431,Cash,4.3,Summer,8651
+2432,Bank Transfer,3.4,Fall,5055
+2433,Venmo,2.8,Winter,5662
+2434,Cash,3.4,Spring,11105
+2435,Credit Card,5.0,Spring,13945
+2436,Cash,4.5,Fall,3066
+2437,Credit Card,2.7,Fall,8496
+2438,Credit Card,3.4,Winter,10903
+2439,Venmo,3.4,Winter,13976
+2440,Bank Transfer,2.8,Summer,1626
+2441,Bank Transfer,4.7,Spring,9009
+2442,Credit Card,4.7,Fall,5766
+2443,Debit Card,4.7,Winter,9606
+2444,Bank Transfer,3.4,Spring,4067
+2445,Debit Card,3.7,Fall,16639
+2446,Cash,4.1,Summer,4091
+2447,Credit Card,2.9,Spring,16867
+2448,Venmo,3.2,Fall,8415
+2449,PayPal,3.0,Fall,13534
+2450,Venmo,4.1,Fall,10656
+2451,Venmo,4.5,Fall,213
+2452,Venmo,3.4,Fall,1737
+2453,Bank Transfer,4.1,Winter,2513
+2454,Cash,4.6,Spring,11043
+2455,Venmo,4.6,Winter,14396
+2456,Cash,3.4,Spring,10729
+2457,PayPal,3.3,Winter,658
+2458,Cash,3.6,Fall,5165
+2459,Bank Transfer,4.6,Fall,547
+2460,Cash,4.3,Fall,11786
+2461,Credit Card,4.0,Winter,14592
+2462,Credit Card,4.8,Summer,11375
+2463,Bank Transfer,4.3,Spring,4024
+2464,Cash,3.3,Summer,4732
+2465,Cash,2.8,Winter,6497
+2466,Bank Transfer,4.4,Spring,4987
+2467,Cash,3.7,Summer,3960
+2468,Credit Card,3.6,Spring,1287
+2469,Venmo,3.7,Winter,6663
+2470,PayPal,5.0,Fall,5646
+2471,Credit Card,2.7,Fall,985
+2472,Cash,4.3,Spring,14168
+2473,Credit Card,4.1,Summer,17318
+2474,Cash,2.6,Winter,12131
+2475,Bank Transfer,3.2,Fall,2768
+2476,Venmo,3.5,Summer,4059
+2477,Cash,3.7,Summer,956
+2478,PayPal,3.8,Spring,916
+2479,Bank Transfer,4.8,Winter,4737
+2480,Credit Card,4.2,Fall,2281
+2481,Credit Card,2.9,Summer,14767
+2482,Debit Card,2.9,Fall,6092
+2483,Credit Card,4.8,Winter,3438
+2484,Debit Card,2.9,Fall,2729
+2485,Cash,4.8,Summer,186
+2486,Bank Transfer,4.6,Spring,1405
+2487,Credit Card,4.4,Spring,14451
+2488,PayPal,3.0,Spring,5966
+2489,PayPal,4.4,Summer,1858
+2490,Venmo,3.9,Winter,17088
+2491,Cash,4.0,Spring,13690
+2492,Bank Transfer,2.5,Spring,11133
+2493,Bank Transfer,4.1,Summer,7659
+2494,Venmo,4.8,Fall,11597
+2495,Debit Card,2.6,Winter,120
+2496,Credit Card,3.1,Spring,9600
+2497,Credit Card,3.2,Summer,13261
+2498,Bank Transfer,4.2,Summer,902
+2499,Cash,2.6,Fall,15940
+2500,Cash,3.1,Summer,6843
+2501,Cash,2.9,Fall,8267
+2502,Venmo,4.6,Fall,4549
+2503,PayPal,4.1,Spring,3208
+2504,Debit Card,2.5,Summer,15285
+2505,Cash,4.0,Winter,10052
+2506,PayPal,3.5,Summer,13945
+2507,Venmo,4.4,Spring,4614
+2508,Credit Card,2.9,Fall,1065
+2509,Debit Card,3.1,Spring,1404
+2510,Bank Transfer,4.4,Spring,14550
+2511,Credit Card,4.4,Winter,7288
+2512,PayPal,2.7,Summer,13922
+2513,Credit Card,4.9,Summer,7830
+2514,Cash,3.5,Winter,4854
+2515,PayPal,4.8,Spring,4628
+2516,Cash,4.2,Summer,3281
+2517,Debit Card,4.6,Spring,12171
+2518,Venmo,2.9,Spring,1111
+2519,Venmo,4.0,Fall,12170
+2520,Credit Card,4.9,Spring,456
+2521,Cash,3.1,Summer,13111
+2522,PayPal,4.4,Fall,1712
+2523,Debit Card,2.5,Winter,10036
+2524,Bank Transfer,3.4,Spring,13819
+2525,Credit Card,3.7,Spring,3817
+2526,PayPal,4.2,Winter,2657
+2527,PayPal,3.4,Spring,4617
+2528,Bank Transfer,3.6,Fall,10507
+2529,Debit Card,4.7,Fall,16097
+2530,Bank Transfer,4.7,Spring,1373
+2531,Debit Card,3.6,Spring,11629
+2532,Cash,4.6,Summer,15416
+2533,Debit Card,2.6,Summer,15951
+2534,Cash,3.1,Summer,3796
+2535,Cash,3.2,Fall,14654
+2536,Bank Transfer,3.9,Winter,16008
+2537,PayPal,4.9,Spring,15605
+2538,PayPal,4.1,Summer,11058
+2539,Credit Card,4.2,Summer,14758
+2540,Cash,4.1,Fall,9752
+2541,Debit Card,3.9,Summer,14401
+2542,Venmo,2.7,Spring,12309
+2543,PayPal,3.7,Winter,1277
+2544,PayPal,2.7,Spring,12868
+2545,Venmo,2.5,Spring,13705
+2546,Debit Card,3.9,Spring,15570
+2547,Credit Card,3.0,Summer,2370
+2548,Cash,3.2,Summer,15570
+2549,Credit Card,3.8,Winter,16411
+2550,Debit Card,2.7,Fall,2778
+2551,Debit Card,3.0,Fall,1236
+2552,Debit Card,4.1,Winter,8126
+2553,Credit Card,3.2,Spring,5485
+2554,Venmo,4.5,Summer,4185
+2555,Debit Card,4.3,Summer,2200
+2556,Credit Card,3.5,Fall,16088
+2557,Bank Transfer,3.1,Fall,3712
+2558,PayPal,3.9,Spring,3732
+2559,PayPal,2.7,Fall,8967
+2560,Debit Card,4.0,Winter,10013
+2561,Debit Card,2.7,Spring,8965
+2562,Debit Card,2.7,Spring,14175
+2563,Cash,4.7,Spring,14030
+2564,Venmo,4.5,Winter,5060
+2565,Bank Transfer,3.0,Winter,399
+2566,Venmo,3.6,Fall,4390
+2567,PayPal,3.3,Fall,8837
+2568,Cash,4.3,Spring,10162
+2569,PayPal,4.3,Winter,15521
+2570,Bank Transfer,4.8,Spring,13566
+2571,PayPal,4.0,Spring,11795
+2572,Cash,3.5,Winter,433
+2573,Bank Transfer,3.9,Fall,11011
+2574,Bank Transfer,4.4,Summer,8344
+2575,Credit Card,4.6,Summer,11558
+2576,PayPal,4.0,Fall,12638
+2577,Debit Card,4.2,Winter,1553
+2578,Bank Transfer,4.5,Fall,3596
+2579,Cash,3.9,Fall,10341
+2580,Venmo,3.7,Summer,4115
+2581,Bank Transfer,3.6,Summer,4136
+2582,Credit Card,4.7,Winter,7182
+2583,Venmo,3.6,Fall,7684
+2584,Cash,2.5,Fall,79
+2585,Bank Transfer,2.9,Summer,15942
+2586,Debit Card,4.4,Fall,16620
+2587,Credit Card,4.6,Winter,4632
+2588,PayPal,3.7,Winter,17826
+2589,Venmo,3.2,Summer,16667
+2590,PayPal,4.9,Winter,135
+2591,Venmo,5.0,Summer,17818
+2592,Cash,3.3,Spring,14729
+2593,Venmo,4.4,Summer,2661
+2594,Bank Transfer,4.7,Fall,11226
+2595,Cash,3.6,Fall,14568
+2596,Bank Transfer,3.2,Summer,6777
+2597,Credit Card,3.0,Spring,12397
+2598,Venmo,4.4,Summer,3897
+2599,Debit Card,3.3,Fall,9544
+2600,Credit Card,3.4,Winter,6971
+2601,Bank Transfer,3.9,Fall,6266
+2602,Cash,2.9,Winter,8622
+2603,Venmo,2.9,Fall,7142
+2604,Cash,2.7,Spring,9487
+2605,Debit Card,3.4,Spring,1627
+2606,Venmo,3.7,Spring,13651
+2607,Bank Transfer,4.7,Spring,2744
+2608,PayPal,3.1,Spring,7669
+2609,Credit Card,4.2,Fall,1627
+2610,Debit Card,3.0,Summer,14330
+2611,Cash,3.1,Spring,16474
+2612,Cash,4.2,Fall,14112
+2613,Venmo,3.8,Winter,14122
+2614,Bank Transfer,2.9,Fall,4445
+2615,Bank Transfer,4.2,Spring,7518
+2616,Debit Card,3.1,Fall,13081
+2617,Cash,3.6,Spring,14240
+2618,Bank Transfer,4.8,Spring,15434
+2619,Venmo,4.1,Fall,9666
+2620,Credit Card,3.9,Winter,3571
+2621,Debit Card,3.0,Winter,2537
+2622,Bank Transfer,3.0,Winter,110
+2623,Credit Card,4.9,Spring,10927
+2624,Cash,4.8,Fall,11508
+2625,Credit Card,3.3,Summer,4260
+2626,Credit Card,2.7,Summer,5321
+2627,Credit Card,4.2,Fall,15748
+2628,Bank Transfer,3.6,Fall,5815
+2629,Credit Card,3.8,Summer,5870
+2630,Venmo,3.8,Winter,13565
+2631,Cash,4.2,Spring,1603
+2632,Cash,2.7,Summer,16743
+2633,Cash,5.0,Fall,12827
+2634,Credit Card,4.7,Fall,14271
+2635,PayPal,3.2,Summer,843
+2636,PayPal,2.9,Spring,1289
+2637,Venmo,4.2,Winter,17494
+2638,PayPal,3.7,Spring,17218
+2639,Credit Card,4.2,Spring,3455
+2640,Debit Card,2.6,Winter,6496
+2641,Venmo,4.0,Summer,1860
+2642,Bank Transfer,2.7,Winter,6681
+2643,Bank Transfer,4.0,Summer,10925
+2644,Cash,2.9,Spring,12905
+2645,Bank Transfer,3.3,Spring,12294
+2646,Bank Transfer,4.0,Spring,17796
+2647,Debit Card,3.9,Summer,15308
+2648,Debit Card,3.3,Summer,6379
+2649,PayPal,3.9,Spring,10296
+2650,Bank Transfer,3.9,Fall,4566
+2651,Credit Card,4.2,Summer,8992
+2652,PayPal,4.6,Summer,636
+2653,Credit Card,3.3,Summer,8454
+2654,Venmo,4.8,Fall,327
+2655,PayPal,4.1,Fall,866
+2656,Credit Card,3.4,Summer,14339
+2657,Bank Transfer,3.6,Winter,1060
+2658,Credit Card,2.7,Summer,13915
+2659,PayPal,3.2,Summer,9689
+2660,Credit Card,4.4,Summer,9594
+2661,Venmo,4.9,Spring,6382
+2662,Bank Transfer,4.8,Fall,1058
+2663,PayPal,2.8,Summer,9112
+2664,Bank Transfer,2.9,Fall,16012
+2665,PayPal,3.2,Winter,12174
+2666,Venmo,3.5,Winter,228
+2667,Venmo,4.1,Winter,16717
+2668,Cash,4.1,Summer,12778
+2669,PayPal,4.8,Summer,14787
+2670,Credit Card,2.8,Spring,11481
+2671,Bank Transfer,4.7,Fall,15874
+2672,PayPal,4.8,Winter,15577
+2673,Cash,2.9,Spring,11236
+2674,Cash,2.6,Summer,9226
+2675,Cash,3.3,Fall,6731
+2676,Cash,3.4,Winter,10000
+2677,Cash,3.6,Spring,16287
+2678,PayPal,3.8,Spring,16069
+2679,Credit Card,3.4,Spring,13307
+2680,Debit Card,3.8,Spring,1521
+2681,Venmo,3.3,Fall,1006
+2682,Debit Card,4.8,Summer,11633
+2683,Venmo,3.9,Winter,13438
+2684,Cash,4.2,Summer,1160
+2685,Credit Card,4.7,Summer,9370
+2686,Credit Card,2.7,Winter,17135
+2687,Cash,3.8,Winter,8783
+2688,Debit Card,3.6,Fall,8449
+2689,Credit Card,2.9,Spring,8936
+2690,PayPal,3.9,Fall,132
+2691,Bank Transfer,4.7,Summer,6401
+2692,Cash,3.3,Winter,9350
+2693,Debit Card,4.2,Spring,3905
+2694,Cash,2.6,Summer,8948
+2695,Credit Card,4.9,Spring,9318
+2696,PayPal,3.6,Fall,8030
+2697,Debit Card,4.7,Spring,5957
+2698,Bank Transfer,3.2,Winter,5720
+2699,Venmo,3.6,Summer,10235
+2700,Debit Card,3.6,Fall,5561
+2701,Cash,3.2,Winter,12515
+2702,Bank Transfer,2.8,Summer,451
+2703,Debit Card,4.0,Fall,1720
+2704,PayPal,4.4,Winter,14881
+2705,Debit Card,3.4,Spring,889
+2706,Credit Card,5.0,Spring,7248
+2707,Debit Card,3.1,Spring,9
+2708,Cash,4.2,Fall,9889
+2709,Debit Card,3.3,Summer,8749
+2710,Credit Card,2.9,Winter,8068
+2711,Bank Transfer,4.7,Summer,13917
+2712,Venmo,4.0,Spring,2974
+2713,Debit Card,4.6,Fall,4393
+2714,Debit Card,3.8,Fall,4920
+2715,Credit Card,3.6,Winter,13908
+2716,PayPal,4.1,Winter,17392
+2717,Debit Card,2.7,Spring,12548
+2718,Credit Card,4.3,Winter,2056
+2719,Venmo,4.9,Winter,2416
+2720,Bank Transfer,4.2,Fall,16055
+2721,Bank Transfer,2.8,Spring,5317
+2722,PayPal,4.9,Spring,16184
+2723,PayPal,2.8,Spring,3573
+2724,PayPal,2.9,Summer,3081
+2725,Debit Card,2.5,Spring,9952
+2726,Debit Card,2.7,Summer,12249
+2727,PayPal,3.3,Winter,2191
+2728,Credit Card,3.7,Winter,5738
+2729,Debit Card,4.0,Winter,16734
+2730,Credit Card,4.1,Summer,14210
+2731,Bank Transfer,4.1,Winter,17685
+2732,Bank Transfer,2.5,Summer,12365
+2733,Debit Card,4.2,Winter,1262
+2734,PayPal,4.7,Summer,229
+2735,Cash,2.7,Summer,5194
+2736,PayPal,3.0,Spring,5700
+2737,Credit Card,4.8,Spring,15764
+2738,Cash,4.4,Spring,12892
+2739,Venmo,4.3,Summer,5532
+2740,Credit Card,2.5,Winter,758
+2741,Bank Transfer,4.9,Summer,3653
+2742,Venmo,4.9,Fall,1240
+2743,Debit Card,3.9,Spring,11500
+2744,Venmo,4.1,Fall,16974
+2745,Credit Card,3.3,Winter,15348
+2746,PayPal,4.1,Summer,9026
+2747,PayPal,3.7,Fall,7217
+2748,Credit Card,3.1,Winter,14252
+2749,Venmo,3.0,Spring,15191
+2750,Bank Transfer,3.4,Spring,12626
+2751,PayPal,2.7,Spring,9048
+2752,Venmo,3.1,Fall,12496
+2753,Venmo,4.0,Winter,4753
+2754,PayPal,3.6,Spring,4184
+2755,Venmo,3.6,Summer,3857
+2756,Credit Card,3.3,Winter,462
+2757,PayPal,4.1,Winter,11334
+2758,Venmo,4.3,Fall,1273
+2759,Bank Transfer,3.2,Summer,11317
+2760,Cash,3.9,Summer,15180
+2761,Credit Card,5.0,Fall,3348
+2762,Credit Card,3.4,Fall,15529
+2763,Debit Card,3.8,Fall,14411
+2764,Venmo,2.9,Fall,1079
+2765,Debit Card,2.6,Spring,10149
+2766,Credit Card,4.3,Summer,13292
+2767,Credit Card,2.8,Winter,3960
+2768,Cash,4.5,Spring,4150
+2769,PayPal,3.8,Spring,1684
+2770,Cash,3.0,Fall,17511
+2771,Bank Transfer,3.3,Fall,9312
+2772,Bank Transfer,3.1,Summer,5229
+2773,Bank Transfer,3.5,Spring,16125
+2774,Bank Transfer,4.6,Spring,3001
+2775,Credit Card,4.1,Fall,17058
+2776,Debit Card,3.6,Fall,13128
+2777,Bank Transfer,2.9,Fall,8937
+2778,Credit Card,4.8,Fall,11454
+2779,Credit Card,3.2,Spring,11350
+2780,Credit Card,4.3,Winter,5184
+2781,PayPal,4.1,Winter,17184
+2782,PayPal,4.6,Spring,17844
+2783,PayPal,3.8,Spring,12860
+2784,Credit Card,4.5,Spring,82
+2785,PayPal,3.1,Winter,15082
+2786,Bank Transfer,2.9,Summer,3609
+2787,Debit Card,3.8,Spring,10642
+2788,Venmo,4.1,Spring,4476
+2789,Credit Card,3.1,Summer,7862
+2790,Credit Card,5.0,Fall,6259
+2791,Debit Card,4.5,Spring,616
+2792,Venmo,2.8,Fall,17685
+2793,Credit Card,3.2,Winter,983
+2794,Debit Card,3.1,Spring,9749
+2795,Cash,3.3,Fall,15618
+2796,PayPal,3.4,Winter,2245
+2797,Cash,3.8,Winter,9125
+2798,Venmo,3.5,Winter,16488
+2799,PayPal,4.8,Winter,8861
+2800,Bank Transfer,3.9,Spring,3110
+2801,Cash,3.4,Fall,1998
+2802,PayPal,2.6,Winter,15916
+2803,Credit Card,3.1,Fall,876
+2804,Bank Transfer,3.3,Winter,7294
+2805,Bank Transfer,2.8,Spring,14844
+2806,Cash,4.3,Fall,1413
+2807,Credit Card,2.7,Spring,17427
+2808,Debit Card,4.4,Spring,4048
+2809,PayPal,3.9,Spring,17731
+2810,Debit Card,3.0,Summer,1294
+2811,Debit Card,4.0,Summer,15429
+2812,Credit Card,3.7,Fall,232
+2813,Credit Card,3.8,Fall,16802
+2814,Debit Card,3.3,Summer,11971
+2815,Bank Transfer,3.6,Winter,14177
+2816,Venmo,3.9,Fall,17023
+2817,Venmo,3.5,Spring,14067
+2818,Venmo,3.4,Winter,4318
+2819,Debit Card,4.7,Fall,6209
+2820,Cash,3.0,Spring,17090
+2821,Cash,3.9,Summer,16110
+2822,Venmo,4.5,Summer,6887
+2823,PayPal,4.1,Fall,6038
+2824,Debit Card,4.5,Summer,5503
+2825,Debit Card,4.0,Fall,12045
+2826,Bank Transfer,4.3,Winter,5588
+2827,Venmo,3.6,Fall,11425
+2828,Bank Transfer,3.1,Fall,11225
+2829,PayPal,2.6,Fall,11299
+2830,Cash,3.4,Fall,7998
+2831,Venmo,2.9,Spring,17577
+2832,Credit Card,5.0,Winter,5694
+2833,PayPal,4.6,Summer,8405
+2834,Cash,3.3,Fall,5658
+2835,Credit Card,2.9,Fall,6104
+2836,Venmo,4.9,Winter,17777
+2837,Cash,5.0,Winter,5991
+2838,PayPal,4.5,Summer,13262
+2839,Bank Transfer,3.7,Fall,14021
+2840,Bank Transfer,2.8,Summer,8150
+2841,Cash,3.5,Spring,8091
+2842,Cash,3.0,Winter,6808
+2843,Debit Card,4.3,Fall,9359
+2844,Venmo,3.6,Summer,1323
+2845,Venmo,4.4,Summer,2747
+2846,Debit Card,4.1,Summer,2714
+2847,PayPal,2.8,Fall,4386
+2848,PayPal,2.8,Winter,13992
+2849,Bank Transfer,4.9,Fall,9235
+2850,PayPal,4.1,Spring,14335
+2851,Debit Card,3.0,Spring,13875
+2852,Debit Card,3.0,Summer,4121
+2853,Venmo,3.0,Spring,1781
+2854,PayPal,3.2,Winter,14131
+2855,Venmo,2.7,Fall,674
+2856,PayPal,3.8,Winter,14191
+2857,Credit Card,3.5,Winter,13332
+2858,Debit Card,3.8,Spring,13486
+2859,Bank Transfer,3.8,Summer,2978
+2860,Bank Transfer,3.4,Fall,17408
+2861,Bank Transfer,2.9,Spring,2770
+2862,Credit Card,3.4,Fall,10691
+2863,Bank Transfer,4.7,Summer,12731
+2864,Venmo,3.9,Fall,100
+2865,Venmo,3.6,Fall,11152
+2866,Cash,3.7,Fall,7331
+2867,Cash,3.1,Summer,15920
+2868,Cash,4.9,Summer,2205
+2869,PayPal,2.6,Winter,8051
+2870,Bank Transfer,4.2,Summer,13956
+2871,Debit Card,4.8,Winter,4743
+2872,Venmo,2.7,Summer,6492
+2873,Cash,2.6,Fall,349
+2874,Bank Transfer,2.6,Spring,12841
+2875,Debit Card,3.1,Summer,7365
+2876,Debit Card,2.6,Fall,5902
+2877,Bank Transfer,3.4,Spring,16261
+2878,Venmo,3.6,Summer,8418
+2879,Bank Transfer,4.3,Summer,480
+2880,Venmo,4.9,Winter,10166
+2881,PayPal,4.8,Winter,86
+2882,Bank Transfer,4.2,Winter,15446
+2883,Credit Card,2.6,Winter,10308
+2884,PayPal,3.2,Spring,16794
+2885,Credit Card,3.4,Summer,17006
+2886,Credit Card,3.5,Summer,5288
+2887,PayPal,4.2,Spring,2846
+2888,Cash,2.8,Winter,3235
+2889,Debit Card,5.0,Spring,4923
+2890,Venmo,3.3,Fall,6475
+2891,Credit Card,3.7,Winter,12898
+2892,PayPal,2.5,Winter,11173
+2893,Credit Card,3.2,Spring,9715
+2894,Debit Card,3.1,Spring,12989
+2895,Venmo,3.5,Spring,8174
+2896,Bank Transfer,4.6,Summer,434
+2897,Venmo,3.3,Summer,6665
+2898,Cash,2.5,Fall,16977
+2899,Credit Card,4.6,Summer,7251
+2900,Bank Transfer,4.2,Spring,17805
+2901,Cash,4.0,Winter,17338
+2902,Credit Card,2.6,Winter,3814
+2903,PayPal,4.6,Spring,735
+2904,Credit Card,3.5,Spring,14590
+2905,Venmo,4.0,Spring,12796
+2906,Debit Card,4.8,Winter,15295
+2907,Venmo,3.9,Spring,13936
+2908,PayPal,3.7,Summer,10681
+2909,Debit Card,3.1,Winter,3720
+2910,Credit Card,3.0,Winter,17177
+2911,Credit Card,2.9,Summer,15240
+2912,Venmo,2.9,Fall,9135
+2913,Cash,4.0,Winter,6597
+2914,Cash,3.5,Winter,538
+2915,Debit Card,3.8,Fall,10856
+2916,Debit Card,4.5,Fall,6098
+2917,Credit Card,2.7,Winter,8383
+2918,Venmo,2.9,Winter,11429
+2919,Cash,4.9,Fall,11088
+2920,Debit Card,3.8,Winter,11819
+2921,Debit Card,4.9,Spring,14833
+2922,Cash,4.6,Fall,17738
+2923,PayPal,3.5,Winter,12824
+2924,Cash,4.2,Spring,10799
+2925,Debit Card,3.7,Winter,15875
+2926,Credit Card,2.8,Spring,17242
+2927,Cash,4.8,Winter,12164
+2928,Venmo,2.7,Summer,485
+2929,Credit Card,3.6,Spring,7677
+2930,Venmo,4.5,Winter,14933
+2931,Venmo,4.0,Spring,12517
+2932,Credit Card,4.5,Fall,8722
+2933,PayPal,3.9,Spring,8583
+2934,Venmo,3.8,Summer,3921
+2935,Bank Transfer,4.7,Fall,14673
+2936,Venmo,4.6,Spring,3513
+2937,PayPal,3.6,Spring,15668
+2938,Credit Card,4.3,Spring,17835
+2939,Cash,3.0,Fall,7279
+2940,Venmo,4.3,Winter,14740
+2941,Cash,4.8,Summer,2604
+2942,PayPal,3.7,Spring,2830
+2943,Bank Transfer,2.6,Summer,10215
+2944,Credit Card,3.4,Spring,1330
+2945,Venmo,3.9,Summer,4313
+2946,Credit Card,4.8,Summer,14210
+2947,Bank Transfer,2.8,Spring,9073
+2948,Venmo,4.4,Spring,5091
+2949,Debit Card,3.1,Winter,7901
+2950,PayPal,3.8,Spring,15319
+2951,Debit Card,4.1,Winter,1271
+2952,Cash,4.6,Fall,16376
+2953,Debit Card,4.9,Spring,7607
+2954,Credit Card,4.8,Summer,2982
+2955,Credit Card,3.9,Winter,17681
+2956,Credit Card,2.6,Winter,12711
+2957,Venmo,3.7,Fall,12224
+2958,Cash,4.7,Fall,3950
+2959,PayPal,4.5,Summer,7425
+2960,PayPal,4.7,Summer,1181
+2961,Credit Card,3.6,Spring,11015
+2962,Debit Card,2.8,Fall,9935
+2963,Credit Card,4.0,Fall,14253
+2964,Credit Card,3.6,Spring,9359
+2965,Venmo,3.8,Fall,17367
+2966,PayPal,4.4,Summer,13550
+2967,Debit Card,2.8,Fall,12648
+2968,Venmo,3.4,Summer,17777
+2969,Cash,4.9,Fall,10394
+2970,Cash,4.3,Fall,7990
+2971,Credit Card,3.4,Winter,16911
+2972,PayPal,3.9,Fall,8427
+2973,Venmo,4.2,Fall,3567
+2974,Bank Transfer,2.7,Summer,15674
+2975,Credit Card,4.1,Summer,1158
+2976,Cash,4.5,Winter,14321
+2977,Cash,2.8,Summer,15013
+2978,Venmo,3.4,Winter,6842
+2979,Bank Transfer,3.9,Spring,1800
+2980,PayPal,2.6,Fall,8538
+2981,Bank Transfer,4.4,Fall,11231
+2982,Venmo,4.9,Winter,5459
+2983,Credit Card,3.6,Summer,16342
+2984,Credit Card,2.8,Winter,11960
+2985,Debit Card,4.3,Spring,2786
+2986,Cash,3.0,Summer,9689
+2987,Credit Card,3.3,Summer,7052
+2988,Cash,2.5,Winter,5097
+2989,Debit Card,5.0,Spring,8766
+2990,Credit Card,4.3,Summer,15597
+2991,Venmo,4.2,Fall,5247
+2992,PayPal,3.9,Summer,17331
+2993,Venmo,3.9,Spring,9279
+2994,Cash,4.2,Spring,11103
+2995,Bank Transfer,3.5,Winter,8177
+2996,Debit Card,2.5,Summer,5537
+2997,Venmo,2.9,Spring,5462
+2998,Venmo,2.7,Spring,4758
+2999,Debit Card,4.7,Summer,17517
+3000,Cash,3.8,Winter,8388
+3001,PayPal,3.7,Winter,2006
+3002,Credit Card,4.7,Summer,10254
+3003,Bank Transfer,3.6,Fall,8487
+3004,Credit Card,2.8,Fall,5208
+3005,Venmo,3.7,Winter,14047
+3006,Venmo,3.5,Spring,12819
+3007,Venmo,3.7,Summer,17422
+3008,Venmo,3.0,Winter,3903
+3009,PayPal,4.9,Winter,4688
+3010,Venmo,4.6,Winter,5803
+3011,Credit Card,3.3,Winter,1344
+3012,Credit Card,3.0,Summer,16339
+3013,PayPal,3.5,Fall,5537
+3014,Cash,4.2,Summer,3483
+3015,PayPal,4.5,Spring,15996
+3016,Bank Transfer,2.8,Spring,12522
+3017,Bank Transfer,4.9,Summer,10777
+3018,Cash,3.3,Summer,6624
+3019,Debit Card,3.0,Summer,8473
+3020,PayPal,3.9,Winter,3797
+3021,Venmo,2.8,Fall,15333
+3022,Cash,4.5,Summer,2927
+3023,PayPal,4.0,Fall,16211
+3024,PayPal,2.9,Summer,1627
+3025,Credit Card,4.0,Spring,224
+3026,PayPal,3.4,Summer,16452
+3027,Credit Card,2.5,Fall,521
+3028,Credit Card,2.8,Winter,16640
+3029,PayPal,3.0,Summer,15689
+3030,Debit Card,3.1,Summer,16283
+3031,Credit Card,2.6,Spring,3726
+3032,Credit Card,4.9,Summer,5378
+3033,Credit Card,3.5,Summer,16345
+3034,PayPal,2.6,Spring,3334
+3035,Credit Card,3.5,Spring,16327
+3036,Cash,4.5,Spring,17459
+3037,Venmo,4.3,Spring,11622
+3038,Cash,4.8,Summer,16342
+3039,Debit Card,4.2,Summer,104
+3040,PayPal,3.2,Spring,10122
+3041,Cash,4.1,Fall,9761
+3042,PayPal,4.0,Winter,17705
+3043,PayPal,2.9,Winter,11315
+3044,Credit Card,2.6,Fall,16579
+3045,Bank Transfer,2.7,Winter,5836
+3046,PayPal,4.6,Winter,10843
+3047,Cash,3.2,Spring,9774
+3048,PayPal,4.1,Fall,902
+3049,Venmo,3.9,Summer,10482
+3050,Bank Transfer,3.0,Summer,16176
+3051,Venmo,3.6,Spring,3520
+3052,Debit Card,4.6,Summer,9158
+3053,Bank Transfer,4.5,Spring,4289
+3054,Bank Transfer,3.2,Winter,9165
+3055,Venmo,4.9,Summer,12320
+3056,Debit Card,5.0,Fall,15820
+3057,Cash,3.8,Spring,9409
+3058,Bank Transfer,3.4,Spring,13255
+3059,Bank Transfer,3.8,Winter,17499
+3060,Credit Card,3.2,Spring,8075
+3061,Venmo,4.7,Summer,15281
+3062,PayPal,4.5,Fall,3083
+3063,PayPal,3.3,Fall,2749
+3064,Credit Card,3.9,Winter,12541
+3065,Bank Transfer,3.6,Winter,645
+3066,Venmo,2.8,Fall,14608
+3067,Venmo,4.3,Summer,2414
+3068,Cash,3.5,Spring,6748
+3069,Debit Card,4.2,Winter,2808
+3070,Debit Card,4.6,Spring,4927
+3071,PayPal,2.6,Fall,17684
+3072,PayPal,3.4,Spring,17103
+3073,PayPal,3.1,Spring,5404
+3074,Debit Card,3.6,Winter,8765
+3075,Debit Card,4.2,Winter,1074
+3076,PayPal,3.6,Winter,10745
+3077,Venmo,3.6,Summer,17585
+3078,Debit Card,3.0,Spring,5653
+3079,Bank Transfer,2.5,Spring,5833
+3080,Bank Transfer,4.0,Fall,5726
+3081,Cash,4.1,Spring,12920
+3082,Credit Card,4.9,Winter,11536
+3083,Bank Transfer,4.0,Spring,16744
+3084,PayPal,3.5,Summer,5811
+3085,PayPal,3.2,Spring,9404
+3086,Venmo,2.8,Winter,1522
+3087,Venmo,3.5,Summer,1009
+3088,Bank Transfer,3.1,Spring,9347
+3089,Bank Transfer,3.3,Spring,15728
+3090,Cash,4.6,Fall,7683
+3091,Bank Transfer,4.9,Summer,219
+3092,Credit Card,3.4,Winter,9471
+3093,Bank Transfer,3.5,Fall,16974
+3094,Cash,4.8,Summer,6743
+3095,Cash,2.7,Summer,14108
+3096,Venmo,3.4,Fall,14213
+3097,Bank Transfer,3.5,Winter,16494
+3098,Bank Transfer,3.7,Fall,14743
+3099,Bank Transfer,3.3,Summer,16794
+3100,Bank Transfer,2.9,Fall,16571
+3101,Bank Transfer,3.9,Winter,1087
+3102,PayPal,2.7,Summer,17856
+3103,Cash,4.3,Summer,14946
+3104,Bank Transfer,3.0,Winter,14499
+3105,Debit Card,5.0,Summer,14938
+3106,Debit Card,2.7,Fall,1009
+3107,PayPal,4.7,Winter,14387
+3108,Credit Card,4.6,Winter,11245
+3109,PayPal,3.2,Fall,9364
+3110,Bank Transfer,4.3,Winter,10444
+3111,Bank Transfer,4.6,Fall,9700
+3112,Debit Card,4.9,Spring,15394
+3113,Venmo,3.8,Fall,13629
+3114,Debit Card,2.6,Summer,11853
+3115,Venmo,4.7,Spring,16290
+3116,Bank Transfer,4.1,Fall,6163
+3117,Venmo,3.7,Spring,3614
+3118,PayPal,3.0,Fall,9584
+3119,Debit Card,4.7,Summer,12428
+3120,Credit Card,4.7,Winter,17121
+3121,Debit Card,4.0,Fall,16508
+3122,Venmo,2.6,Fall,17013
+3123,Credit Card,3.0,Fall,1134
+3124,Venmo,3.3,Fall,12925
+3125,Cash,3.4,Summer,9266
+3126,Cash,4.0,Spring,3700
+3127,Bank Transfer,2.6,Winter,7548
+3128,Credit Card,3.4,Winter,10391
+3129,Cash,4.4,Fall,14200
+3130,Venmo,4.7,Summer,17176
+3131,Venmo,4.5,Summer,15411
+3132,Bank Transfer,2.9,Fall,6049
+3133,Cash,4.2,Summer,14815
+3134,Cash,4.1,Spring,3793
+3135,Bank Transfer,4.4,Spring,5356
+3136,Venmo,4.7,Spring,17092
+3137,Cash,3.1,Fall,8558
+3138,Bank Transfer,2.7,Spring,17094
+3139,Cash,4.6,Fall,14309
+3140,Venmo,4.4,Winter,3720
+3141,Bank Transfer,4.6,Summer,13137
+3142,Credit Card,4.9,Winter,17671
+3143,Venmo,4.0,Winter,8937
+3144,Cash,2.9,Summer,14646
+3145,Debit Card,2.6,Spring,5370
+3146,PayPal,4.6,Spring,3888
+3147,PayPal,4.9,Winter,10550
+3148,Credit Card,4.3,Winter,9495
+3149,Venmo,4.3,Fall,13234
+3150,Venmo,4.6,Winter,14391
+3151,Bank Transfer,2.6,Spring,17316
+3152,Bank Transfer,3.1,Fall,14416
+3153,PayPal,3.1,Fall,12041
+3154,Venmo,3.1,Fall,7772
+3155,Cash,4.4,Winter,3440
+3156,Cash,4.3,Fall,13872
+3157,Cash,3.1,Winter,237
+3158,Debit Card,3.1,Fall,9395
+3159,Credit Card,4.9,Winter,11394
+3160,Bank Transfer,2.9,Winter,775
+3161,Cash,3.8,Fall,10054
+3162,Cash,4.2,Winter,7592
+3163,Bank Transfer,3.9,Winter,4577
+3164,Cash,2.8,Summer,5572
+3165,Credit Card,2.6,Winter,2930
+3166,Bank Transfer,3.0,Spring,10798
+3167,Bank Transfer,2.7,Winter,15818
+3168,Cash,2.8,Fall,6783
+3169,PayPal,2.9,Spring,17057
+3170,Venmo,3.8,Fall,6947
+3171,Credit Card,4.4,Spring,15708
+3172,Bank Transfer,3.1,Spring,9271
+3173,Debit Card,3.7,Fall,15330
+3174,PayPal,4.9,Summer,1384
+3175,PayPal,3.8,Winter,1796
+3176,Debit Card,3.4,Fall,12933
+3177,Credit Card,4.6,Spring,9922
+3178,Credit Card,3.2,Fall,6870
+3179,Credit Card,2.7,Spring,6899
+3180,Debit Card,4.3,Spring,3787
+3181,PayPal,3.8,Fall,4623
+3182,PayPal,4.4,Summer,12955
+3183,Credit Card,3.6,Fall,13835
+3184,Cash,3.5,Winter,1032
+3185,Venmo,4.2,Spring,8413
+3186,PayPal,4.7,Fall,5848
+3187,Venmo,4.8,Winter,7762
+3188,Debit Card,3.2,Winter,17608
+3189,Bank Transfer,3.5,Winter,17456
+3190,PayPal,4.2,Summer,14530
+3191,Credit Card,3.4,Fall,16286
+3192,Credit Card,4.7,Winter,10786
+3193,Cash,3.0,Fall,3162
+3194,Credit Card,4.0,Winter,15899
+3195,Credit Card,4.6,Summer,7999
+3196,Credit Card,4.9,Spring,830
+3197,Debit Card,2.8,Winter,17734
+3198,Credit Card,3.2,Spring,6510
+3199,Debit Card,2.8,Winter,7647
+3200,PayPal,4.2,Winter,6049
+3201,Credit Card,4.8,Spring,125
+3202,Cash,2.8,Fall,17721
+3203,Venmo,4.5,Fall,8115
+3204,Venmo,4.1,Spring,15767
+3205,Debit Card,4.3,Fall,7688
+3206,Bank Transfer,4.4,Fall,6366
+3207,PayPal,3.0,Winter,6857
+3208,PayPal,2.7,Summer,13460
+3209,PayPal,3.3,Winter,11445
+3210,Debit Card,4.3,Fall,13301
+3211,Venmo,2.9,Summer,15754
+3212,Cash,4.9,Winter,8914
+3213,Debit Card,3.6,Winter,6788
+3214,Credit Card,3.3,Winter,11567
+3215,Debit Card,3.1,Spring,10569
+3216,PayPal,2.7,Summer,10070
+3217,Cash,3.4,Winter,15285
+3218,Venmo,3.4,Fall,13576
+3219,PayPal,3.9,Fall,17469
+3220,Credit Card,3.5,Summer,14207
+3221,Cash,4.1,Fall,2097
+3222,Cash,3.2,Winter,7672
+3223,PayPal,4.6,Fall,8392
+3224,Venmo,3.9,Spring,282
+3225,PayPal,2.7,Winter,7719
+3226,Credit Card,3.0,Fall,14142
+3227,Bank Transfer,3.3,Spring,15778
+3228,Debit Card,2.7,Fall,11753
+3229,PayPal,4.6,Spring,6840
+3230,Cash,2.7,Fall,4965
+3231,Debit Card,2.5,Summer,11897
+3232,Credit Card,4.4,Winter,502
+3233,Bank Transfer,4.0,Spring,8633
+3234,Debit Card,3.8,Fall,7000
+3235,Debit Card,2.5,Winter,17163
+3236,Venmo,4.0,Summer,5602
+3237,Cash,4.1,Fall,6875
+3238,Cash,2.8,Summer,12424
+3239,Cash,3.4,Fall,11993
+3240,Cash,2.7,Fall,1550
+3241,Bank Transfer,3.8,Fall,9055
+3242,PayPal,4.4,Summer,9987
+3243,Venmo,2.8,Fall,6185
+3244,Bank Transfer,5.0,Summer,8712
+3245,Credit Card,4.7,Fall,11043
+3246,Cash,3.2,Fall,10384
+3247,Cash,2.9,Summer,9380
+3248,PayPal,3.7,Summer,9485
+3249,Bank Transfer,4.2,Summer,800
+3250,Credit Card,3.4,Summer,4599
+3251,Venmo,2.9,Spring,13861
+3252,Venmo,3.7,Winter,12490
+3253,Credit Card,2.7,Spring,7966
+3254,Venmo,3.2,Fall,4334
+3255,Bank Transfer,4.9,Winter,11264
+3256,Bank Transfer,2.8,Fall,14993
+3257,Venmo,4.7,Winter,15110
+3258,Venmo,3.3,Fall,11915
+3259,Credit Card,4.3,Spring,8219
+3260,Debit Card,3.7,Fall,697
+3261,Credit Card,4.5,Summer,2593
+3262,Debit Card,3.4,Winter,7273
+3263,Cash,2.7,Spring,5811
+3264,Debit Card,4.4,Fall,14264
+3265,Cash,4.0,Winter,10217
+3266,Credit Card,3.2,Winter,14972
+3267,Bank Transfer,4.2,Winter,10404
+3268,Credit Card,3.0,Winter,1009
+3269,Bank Transfer,2.8,Fall,15973
+3270,Cash,4.9,Winter,16259
+3271,PayPal,4.7,Winter,17184
+3272,Credit Card,4.4,Spring,15836
+3273,PayPal,3.1,Winter,1458
+3274,PayPal,2.6,Summer,2948
+3275,Cash,3.9,Spring,4634
+3276,Debit Card,2.6,Summer,17453
+3277,PayPal,4.0,Summer,3781
+3278,Credit Card,4.9,Spring,251
+3279,Bank Transfer,3.3,Summer,2211
+3280,Debit Card,3.0,Fall,130
+3281,PayPal,2.7,Winter,1598
+3282,Bank Transfer,3.1,Winter,1509
+3283,Credit Card,4.8,Fall,1099
+3284,Debit Card,2.9,Spring,6952
+3285,Venmo,4.5,Spring,17414
+3286,Cash,4.6,Fall,672
+3287,Venmo,5.0,Winter,14228
+3288,Credit Card,4.3,Spring,13711
+3289,Credit Card,4.9,Spring,5236
+3290,Venmo,4.0,Summer,2219
+3291,PayPal,3.1,Spring,183
+3292,Cash,2.6,Fall,11384
+3293,Bank Transfer,4.9,Spring,16147
+3294,Credit Card,3.5,Spring,9108
+3295,Bank Transfer,4.5,Spring,5510
+3296,Cash,2.8,Summer,4726
+3297,Venmo,4.2,Spring,12466
+3298,PayPal,4.1,Fall,4909
+3299,Bank Transfer,3.5,Fall,5594
+3300,Venmo,4.0,Spring,14152
+3301,Bank Transfer,4.0,Spring,1656
+3302,Credit Card,2.5,Summer,14975
+3303,Venmo,4.2,Winter,73
+3304,Credit Card,3.4,Summer,9254
+3305,Bank Transfer,4.8,Fall,7931
+3306,PayPal,4.9,Summer,17758
+3307,Venmo,3.6,Summer,1731
+3308,Cash,4.0,Winter,46
+3309,Cash,2.6,Fall,1322
+3310,PayPal,3.1,Summer,17314
+3311,PayPal,3.6,Winter,11735
+3312,Bank Transfer,4.0,Summer,3357
+3313,Cash,3.9,Summer,2324
+3314,Credit Card,3.9,Fall,13643
+3315,Credit Card,3.3,Spring,14888
+3316,PayPal,2.9,Summer,14774
+3317,Debit Card,3.1,Summer,5485
+3318,Cash,4.7,Summer,4292
+3319,PayPal,3.9,Summer,6605
+3320,Credit Card,4.3,Summer,3242
+3321,Cash,4.2,Fall,4292
+3322,Venmo,4.3,Winter,4462
+3323,PayPal,4.6,Winter,8614
+3324,Credit Card,3.8,Winter,4078
+3325,Venmo,3.3,Fall,5394
+3326,Venmo,3.7,Fall,16768
+3327,Debit Card,4.3,Summer,8083
+3328,Debit Card,4.1,Spring,13475
+3329,Cash,3.2,Spring,4967
+3330,Debit Card,3.8,Winter,6476
+3331,Bank Transfer,3.2,Spring,17274
+3332,PayPal,3.5,Summer,1611
+3333,PayPal,3.1,Summer,949
+3334,PayPal,4.2,Spring,58
+3335,Credit Card,3.4,Summer,11625
+3336,Bank Transfer,3.5,Winter,2062
+3337,Debit Card,4.0,Fall,5740
+3338,Bank Transfer,4.4,Winter,14130
+3339,Credit Card,2.9,Winter,1754
+3340,Cash,3.6,Fall,2563
+3341,Credit Card,4.4,Fall,6773
+3342,Credit Card,4.5,Summer,5968
+3343,Credit Card,3.8,Spring,1739
+3344,Cash,3.6,Winter,9334
+3345,Cash,4.3,Fall,17702
+3346,Venmo,4.0,Summer,16400
+3347,Venmo,3.4,Summer,10549
+3348,PayPal,4.4,Summer,17056
+3349,Cash,2.8,Winter,334
+3350,PayPal,2.8,Fall,6406
+3351,Cash,4.9,Fall,3952
+3352,Bank Transfer,4.2,Spring,9972
+3353,Bank Transfer,2.9,Summer,2694
+3354,Credit Card,4.6,Fall,3646
+3355,PayPal,2.8,Fall,7797
+3356,Bank Transfer,2.6,Spring,6318
+3357,PayPal,3.5,Summer,4314
+3358,Credit Card,3.5,Winter,13227
+3359,Cash,3.4,Fall,5802
+3360,Debit Card,3.9,Fall,3212
+3361,Cash,3.3,Spring,4562
+3362,Credit Card,4.1,Spring,5394
+3363,Venmo,3.0,Summer,1304
+3364,Bank Transfer,3.0,Winter,1664
+3365,Credit Card,3.2,Fall,6445
+3366,Credit Card,3.9,Fall,780
+3367,Debit Card,3.6,Spring,1004
+3368,Venmo,3.1,Summer,10718
+3369,Bank Transfer,4.8,Spring,16525
+3370,Cash,3.8,Winter,16425
+3371,Cash,2.8,Summer,14134
+3372,PayPal,4.0,Winter,4013
+3373,Credit Card,4.6,Winter,5828
+3374,Debit Card,3.5,Spring,3249
+3375,Debit Card,3.7,Spring,14912
+3376,Credit Card,4.9,Fall,560
+3377,Cash,4.1,Winter,13357
+3378,PayPal,4.6,Winter,8838
+3379,Cash,4.5,Fall,198
+3380,Cash,5.0,Summer,11249
+3381,PayPal,3.8,Summer,458
+3382,Credit Card,4.7,Winter,7567
+3383,Bank Transfer,2.8,Spring,12986
+3384,Venmo,2.6,Fall,4213
+3385,Venmo,3.8,Summer,16826
+3386,Credit Card,2.8,Winter,8404
+3387,Cash,2.6,Fall,86
+3388,Credit Card,3.4,Spring,4092
+3389,Credit Card,4.5,Spring,2970
+3390,Venmo,3.8,Fall,13806
+3391,PayPal,3.0,Summer,8547
+3392,Debit Card,3.7,Fall,3536
+3393,Venmo,4.4,Winter,16505
+3394,Debit Card,3.1,Fall,10770
+3395,PayPal,4.2,Spring,5494
+3396,Debit Card,3.1,Winter,11965
+3397,PayPal,5.0,Winter,16057
+3398,Bank Transfer,2.7,Summer,17829
+3399,Cash,3.8,Winter,14712
+3400,Debit Card,3.3,Winter,1871
+3401,Venmo,4.8,Fall,7935
+3402,Credit Card,3.4,Winter,15947
+3403,PayPal,4.4,Spring,17541
+3404,Cash,3.9,Summer,11516
+3405,Credit Card,3.9,Fall,10236
+3406,Bank Transfer,4.2,Summer,5414
+3407,Venmo,4.0,Spring,6069
+3408,Cash,2.6,Spring,2717
+3409,Bank Transfer,4.4,Summer,1316
+3410,Credit Card,3.2,Summer,3286
+3411,Bank Transfer,4.3,Summer,6971
+3412,Cash,4.9,Winter,1292
+3413,Venmo,3.8,Fall,11049
+3414,PayPal,2.5,Winter,5525
+3415,Bank Transfer,4.9,Spring,1030
+3416,Bank Transfer,3.0,Fall,15279
+3417,Bank Transfer,3.2,Spring,11564
+3418,Debit Card,2.9,Summer,6655
+3419,Debit Card,2.8,Summer,1070
+3420,Venmo,3.1,Winter,2003
+3421,PayPal,3.4,Winter,7710
+3422,PayPal,2.9,Summer,17286
+3423,Venmo,3.2,Winter,5880
+3424,PayPal,3.8,Spring,14855
+3425,Credit Card,3.6,Summer,1479
+3426,Debit Card,4.3,Summer,14870
+3427,Credit Card,4.8,Fall,4554
+3428,Cash,2.5,Winter,10697
+3429,Venmo,2.5,Fall,6143
+3430,Debit Card,4.6,Winter,13958
+3431,Bank Transfer,4.2,Winter,16852
+3432,Venmo,4.2,Summer,2182
+3433,PayPal,4.8,Summer,14237
+3434,PayPal,4.5,Spring,13662
+3435,Venmo,3.3,Summer,1627
+3436,Debit Card,2.7,Summer,5788
+3437,Bank Transfer,2.8,Winter,2721
+3438,PayPal,3.5,Winter,17305
+3439,Credit Card,3.0,Fall,10074
+3440,Venmo,4.5,Summer,42
+3441,PayPal,4.3,Fall,17316
+3442,Credit Card,4.1,Fall,8600
+3443,PayPal,4.3,Spring,6090
+3444,Cash,5.0,Summer,1685
+3445,Bank Transfer,3.8,Summer,218
+3446,Debit Card,4.9,Fall,3166
+3447,Cash,5.0,Spring,17529
+3448,Bank Transfer,4.3,Fall,1401
+3449,Bank Transfer,4.1,Winter,4335
+3450,Cash,4.5,Spring,16457
+3451,PayPal,3.6,Spring,15020
+3452,Credit Card,3.0,Fall,17738
+3453,Venmo,3.7,Spring,14855
+3454,Venmo,4.3,Winter,3850
+3455,PayPal,4.6,Fall,8365
+3456,Venmo,4.7,Fall,7034
+3457,Venmo,4.6,Fall,17535
+3458,Cash,3.0,Summer,13582
+3459,Venmo,3.4,Spring,13453
+3460,PayPal,3.8,Fall,8406
+3461,Bank Transfer,3.1,Spring,3042
+3462,Cash,4.4,Spring,6120
+3463,Credit Card,4.5,Spring,3524
+3464,PayPal,2.8,Fall,19
+3465,PayPal,2.7,Winter,8646
+3466,Debit Card,3.4,Spring,10817
+3467,Bank Transfer,4.6,Summer,3676
+3468,Credit Card,5.0,Fall,2636
+3469,Debit Card,3.5,Winter,13032
+3470,Cash,3.3,Fall,8228
+3471,Cash,4.5,Summer,1525
+3472,Cash,3.1,Spring,6627
+3473,Debit Card,4.0,Summer,8788
+3474,Cash,2.5,Spring,6544
+3475,Venmo,4.4,Winter,12238
+3476,Cash,4.4,Spring,9676
+3477,Cash,3.2,Summer,8675
+3478,Debit Card,3.8,Spring,4225
+3479,PayPal,4.6,Fall,15385
+3480,Cash,4.9,Summer,2102
+3481,PayPal,3.5,Winter,6735
+3482,Debit Card,3.4,Summer,2366
+3483,Debit Card,3.9,Winter,15222
+3484,Credit Card,3.9,Winter,2892
+3485,Credit Card,4.2,Fall,3410
+3486,Debit Card,3.4,Winter,4406
+3487,PayPal,4.9,Winter,8373
+3488,Bank Transfer,2.9,Fall,16302
+3489,Cash,4.9,Spring,1525
+3490,PayPal,4.6,Summer,11351
+3491,Credit Card,3.6,Spring,17395
+3492,Cash,4.3,Winter,10159
+3493,Bank Transfer,4.6,Fall,9105
+3494,Credit Card,4.7,Winter,10692
+3495,PayPal,3.5,Winter,17651
+3496,Cash,2.8,Spring,2498
+3497,PayPal,4.0,Summer,1262
+3498,Venmo,4.3,Spring,1594
+3499,Bank Transfer,3.8,Summer,6685
+3500,PayPal,3.0,Fall,736
+3501,Debit Card,4.6,Fall,8010
+3502,Bank Transfer,4.8,Fall,14317
+3503,Bank Transfer,4.7,Fall,13229
+3504,Cash,3.9,Spring,10712
+3505,Venmo,4.0,Fall,10948
+3506,Bank Transfer,3.7,Winter,990
+3507,Cash,3.7,Winter,8084
+3508,Credit Card,4.2,Spring,7138
+3509,Bank Transfer,4.7,Fall,6740
+3510,Venmo,4.3,Winter,8783
+3511,Venmo,4.9,Fall,569
+3512,Credit Card,3.9,Summer,12550
+3513,Debit Card,3.4,Fall,14024
+3514,Credit Card,4.2,Spring,9455
+3515,Cash,4.7,Winter,13325
+3516,Debit Card,4.0,Winter,2731
+3517,PayPal,4.0,Summer,2435
+3518,Debit Card,3.1,Winter,10427
+3519,PayPal,4.2,Spring,5657
+3520,Bank Transfer,3.7,Winter,1621
+3521,Bank Transfer,3.1,Spring,6614
+3522,Venmo,3.7,Winter,4012
+3523,Cash,3.2,Spring,13708
+3524,Cash,2.8,Summer,15701
+3525,Credit Card,2.9,Summer,9371
+3526,Bank Transfer,3.5,Winter,6097
+3527,PayPal,3.8,Spring,7947
+3528,Cash,4.7,Spring,17840
+3529,PayPal,4.5,Summer,14915
+3530,Bank Transfer,3.9,Winter,13308
+3531,PayPal,3.4,Spring,13701
+3532,Cash,4.6,Winter,9274
+3533,Credit Card,4.6,Fall,10891
+3534,Venmo,4.7,Fall,10463
+3535,Cash,3.2,Fall,16885
+3536,Debit Card,5.0,Summer,2755
+3537,Venmo,4.5,Spring,8579
+3538,Credit Card,3.5,Spring,407
+3539,Venmo,4.5,Spring,15999
+3540,Credit Card,3.2,Spring,8028
+3541,Bank Transfer,4.6,Spring,4965
+3542,PayPal,4.0,Winter,12523
+3543,Venmo,4.2,Spring,15993
+3544,PayPal,4.1,Winter,13333
+3545,Cash,3.6,Fall,17836
+3546,Debit Card,3.7,Spring,4382
+3547,Bank Transfer,3.6,Summer,13114
+3548,Credit Card,3.8,Summer,5438
+3549,Debit Card,3.0,Fall,7666
+3550,Bank Transfer,3.4,Summer,8000
+3551,Cash,4.8,Winter,12093
+3552,Venmo,2.6,Spring,553
+3553,PayPal,2.9,Winter,16472
+3554,Bank Transfer,4.9,Spring,7708
+3555,Credit Card,5.0,Spring,14111
+3556,Cash,4.6,Spring,1923
+3557,Cash,4.2,Fall,6190
+3558,PayPal,4.9,Summer,1999
+3559,Venmo,4.8,Summer,9681
+3560,Venmo,3.0,Fall,4488
+3561,Credit Card,3.5,Fall,11442
+3562,Credit Card,3.4,Spring,7596
+3563,Bank Transfer,3.4,Winter,6124
+3564,Credit Card,4.9,Summer,1713
+3565,Venmo,4.4,Summer,6861
+3566,PayPal,4.2,Spring,3004
+3567,Venmo,3.1,Spring,2979
+3568,Credit Card,4.0,Summer,8216
+3569,PayPal,4.8,Spring,16792
+3570,Bank Transfer,3.3,Fall,6773
+3571,Debit Card,4.7,Winter,8325
+3572,Bank Transfer,3.2,Summer,10919
+3573,Credit Card,5.0,Spring,16838
+3574,PayPal,4.9,Fall,970
+3575,Bank Transfer,4.9,Fall,3048
+3576,Venmo,3.7,Fall,2752
+3577,Venmo,3.0,Spring,12111
+3578,Bank Transfer,2.6,Winter,6643
+3579,Bank Transfer,2.6,Winter,10076
+3580,Credit Card,4.8,Fall,4619
+3581,Cash,3.2,Summer,14871
+3582,Credit Card,4.9,Fall,3189
+3583,PayPal,3.4,Summer,7328
+3584,Credit Card,2.7,Summer,11960
+3585,Debit Card,4.8,Fall,10099
+3586,Venmo,4.1,Winter,8416
+3587,PayPal,4.6,Winter,5322
+3588,Debit Card,4.4,Summer,11026
+3589,Cash,3.5,Spring,11342
+3590,Cash,4.8,Spring,5049
+3591,Venmo,2.9,Fall,474
+3592,Bank Transfer,3.2,Winter,11448
+3593,Venmo,4.4,Spring,5408
+3594,PayPal,4.6,Spring,10576
+3595,Venmo,2.6,Summer,11830
+3596,PayPal,3.1,Spring,1970
+3597,Cash,4.3,Spring,12662
+3598,Bank Transfer,3.1,Summer,13663
+3599,Bank Transfer,4.6,Spring,11970
+3600,Cash,4.6,Spring,17373
+3601,Cash,2.7,Spring,16151
+3602,PayPal,3.0,Summer,4231
+3603,Debit Card,3.3,Summer,3734
+3604,Cash,2.7,Spring,1107
+3605,Debit Card,3.3,Fall,2696
+3606,Bank Transfer,4.3,Fall,12145
+3607,Venmo,4.8,Fall,12898
+3608,Venmo,3.3,Fall,4589
+3609,Cash,4.3,Fall,71
+3610,Debit Card,3.0,Summer,8321
+3611,Bank Transfer,4.8,Fall,15506
+3612,Credit Card,2.9,Spring,17798
+3613,Cash,3.6,Summer,16836
+3614,Venmo,3.5,Fall,6001
+3615,Bank Transfer,4.7,Spring,5753
+3616,Credit Card,4.4,Winter,8344
+3617,Debit Card,3.3,Winter,9800
+3618,Debit Card,4.3,Fall,3863
+3619,PayPal,4.0,Fall,4021
+3620,Venmo,4.9,Winter,15539
+3621,Credit Card,2.9,Summer,16342
+3622,Cash,4.0,Summer,16333
+3623,Credit Card,4.3,Fall,12853
+3624,PayPal,2.7,Winter,6897
+3625,Bank Transfer,5.0,Fall,6310
+3626,PayPal,4.4,Winter,3012
+3627,Venmo,3.5,Fall,12617
+3628,Cash,3.3,Winter,15543
+3629,Credit Card,3.8,Summer,3780
+3630,Debit Card,4.5,Summer,4388
+3631,Cash,4.8,Winter,7055
+3632,Credit Card,2.9,Fall,11843
+3633,Debit Card,3.2,Spring,10176
+3634,Bank Transfer,2.8,Spring,5883
+3635,PayPal,3.3,Winter,13563
+3636,Credit Card,3.3,Fall,5335
+3637,Cash,4.2,Summer,4993
+3638,Credit Card,3.6,Winter,9511
+3639,PayPal,4.6,Spring,11496
+3640,Venmo,3.6,Summer,12351
+3641,PayPal,4.0,Spring,3714
+3642,Bank Transfer,2.7,Fall,10398
+3643,PayPal,4.4,Summer,9332
+3644,Debit Card,3.2,Fall,11525
+3645,Venmo,2.6,Winter,11815
+3646,Credit Card,3.4,Summer,11033
+3647,Debit Card,5.0,Spring,11718
+3648,Bank Transfer,2.9,Winter,9894
+3649,Cash,5.0,Winter,4351
+3650,Credit Card,4.4,Fall,6716
+3651,PayPal,3.5,Summer,5723
+3652,Venmo,3.8,Spring,2807
+3653,Debit Card,3.8,Fall,10930
+3654,Credit Card,3.9,Spring,5615
+3655,Credit Card,3.3,Winter,2452
+3656,Credit Card,2.9,Fall,6201
+3657,Credit Card,3.7,Spring,13869
+3658,Debit Card,3.7,Winter,17253
+3659,PayPal,4.6,Fall,16427
+3660,Bank Transfer,4.9,Fall,9961
+3661,Bank Transfer,3.1,Winter,2613
+3662,Credit Card,3.5,Winter,10070
+3663,Debit Card,4.9,Spring,1998
+3664,Credit Card,4.4,Summer,10557
+3665,Debit Card,4.4,Fall,12801
+3666,Credit Card,3.4,Fall,15374
+3667,Cash,3.0,Winter,14488
+3668,Venmo,2.6,Fall,638
+3669,Venmo,3.2,Summer,7943
+3670,PayPal,4.6,Fall,4762
+3671,PayPal,3.8,Winter,2585
+3672,Venmo,4.8,Summer,2569
+3673,PayPal,4.5,Fall,8905
+3674,Bank Transfer,4.2,Summer,4159
+3675,Venmo,2.7,Winter,13913
+3676,Bank Transfer,4.5,Winter,4705
+3677,PayPal,4.9,Spring,15639
+3678,Cash,2.8,Fall,115
+3679,Bank Transfer,3.5,Fall,17048
+3680,Cash,2.5,Summer,8537
+3681,Debit Card,2.9,Winter,13969
+3682,Debit Card,4.2,Fall,15397
+3683,Venmo,4.6,Fall,5300
+3684,Venmo,3.0,Winter,15844
+3685,Credit Card,4.4,Spring,4854
+3686,Cash,2.6,Summer,684
+3687,Cash,4.8,Spring,15139
+3688,Bank Transfer,2.9,Summer,6933
+3689,Cash,3.0,Spring,11569
+3690,Bank Transfer,4.5,Fall,10725
+3691,Bank Transfer,3.7,Fall,11151
+3692,PayPal,4.8,Summer,1753
+3693,Cash,4.8,Spring,1980
+3694,Venmo,4.7,Summer,14112
+3695,PayPal,2.6,Winter,14076
+3696,Bank Transfer,4.6,Fall,5591
+3697,Bank Transfer,3.4,Fall,2857
+3698,Cash,3.0,Winter,12020
+3699,Venmo,4.0,Spring,8531
+3700,Bank Transfer,2.6,Fall,11551
+3701,Bank Transfer,3.4,Summer,10869
+3702,Cash,4.5,Spring,540
+3703,Venmo,2.7,Spring,437
+3704,PayPal,2.9,Fall,15792
+3705,Credit Card,4.0,Winter,12744
+3706,Debit Card,3.2,Summer,4652
+3707,Cash,4.0,Spring,9066
+3708,Venmo,3.4,Fall,5060
+3709,PayPal,4.9,Fall,16957
+3710,PayPal,3.6,Fall,12652
+3711,Bank Transfer,3.6,Summer,1539
+3712,Cash,3.2,Fall,2000
+3713,PayPal,3.7,Spring,12564
+3714,Debit Card,2.6,Spring,16283
+3715,Credit Card,3.9,Winter,4307
+3716,Bank Transfer,3.4,Fall,4492
+3717,Debit Card,3.4,Fall,8052
+3718,Bank Transfer,4.2,Summer,1066
+3719,Bank Transfer,2.9,Fall,2586
+3720,Bank Transfer,4.1,Summer,2859
+3721,Credit Card,3.6,Fall,14499
+3722,Cash,4.0,Fall,14546
+3723,Credit Card,4.0,Fall,5789
+3724,Debit Card,3.6,Spring,13441
+3725,Bank Transfer,3.1,Winter,1533
+3726,PayPal,4.4,Winter,12896
+3727,Debit Card,4.3,Fall,3983
+3728,Debit Card,3.5,Summer,9293
+3729,Debit Card,3.0,Winter,3859
+3730,Cash,4.7,Spring,12996
+3731,Credit Card,2.5,Summer,8636
+3732,PayPal,3.1,Spring,3463
+3733,PayPal,3.3,Spring,5698
+3734,Debit Card,4.7,Fall,3104
+3735,Debit Card,3.4,Spring,10343
+3736,PayPal,3.1,Spring,6916
+3737,PayPal,4.6,Spring,2382
+3738,PayPal,4.9,Winter,10937
+3739,Cash,2.7,Spring,13243
+3740,Credit Card,4.2,Fall,7990
+3741,Debit Card,2.6,Summer,1619
+3742,Debit Card,3.2,Spring,15316
+3743,Credit Card,4.4,Fall,14022
+3744,Debit Card,3.6,Fall,199
+3745,Bank Transfer,2.7,Summer,14280
+3746,Debit Card,4.3,Spring,8191
+3747,PayPal,2.6,Summer,11787
+3748,Bank Transfer,4.3,Spring,3060
+3749,Venmo,3.9,Fall,12328
+3750,Venmo,2.9,Winter,13983
+3751,PayPal,3.1,Fall,8796
+3752,Credit Card,4.2,Fall,7488
+3753,Venmo,4.1,Winter,2359
+3754,Bank Transfer,4.2,Winter,1059
+3755,Cash,4.4,Summer,243
+3756,Credit Card,3.4,Fall,13822
+3757,Debit Card,4.8,Spring,2130
+3758,Cash,4.5,Fall,17274
+3759,Bank Transfer,2.7,Spring,562
+3760,Venmo,3.5,Spring,8226
+3761,PayPal,3.1,Fall,14018
+3762,Venmo,2.8,Summer,3371
+3763,PayPal,2.9,Fall,6734
+3764,Cash,4.5,Winter,6250
+3765,Venmo,3.5,Fall,2525
+3766,Bank Transfer,4.3,Summer,5253
+3767,Debit Card,4.9,Fall,16923
+3768,Bank Transfer,3.1,Summer,5157
+3769,Bank Transfer,4.0,Winter,3726
+3770,Venmo,3.6,Summer,11263
+3771,Bank Transfer,4.0,Summer,9796
+3772,Venmo,2.6,Winter,2740
+3773,Cash,3.1,Fall,15441
+3774,Cash,3.5,Summer,11573
+3775,PayPal,3.9,Winter,14031
+3776,Cash,2.7,Spring,8880
+3777,Credit Card,4.1,Spring,13543
+3778,Cash,4.3,Fall,15554
+3779,Debit Card,2.9,Fall,9972
+3780,PayPal,4.0,Spring,17385
+3781,Venmo,4.1,Fall,11567
+3782,PayPal,3.7,Winter,7453
+3783,PayPal,2.8,Spring,3239
+3784,Debit Card,3.2,Summer,791
+3785,Venmo,4.5,Winter,16044
+3786,Cash,3.8,Winter,5192
+3787,Venmo,3.6,Fall,6105
+3788,PayPal,3.6,Fall,15909
+3789,Debit Card,3.2,Spring,14306
+3790,Bank Transfer,3.8,Summer,9307
+3791,Credit Card,4.4,Summer,1733
+3792,Venmo,3.7,Spring,2592
+3793,PayPal,2.6,Summer,11275
+3794,Bank Transfer,4.0,Fall,15857
+3795,Venmo,3.6,Summer,2270
+3796,Cash,2.5,Spring,8454
+3797,Bank Transfer,3.2,Fall,2951
+3798,Cash,2.5,Summer,9386
+3799,Credit Card,3.2,Winter,1785
+3800,Credit Card,2.6,Winter,14495
+3801,Venmo,4.8,Fall,8548
+3802,PayPal,5.0,Spring,11579
+3803,Bank Transfer,3.2,Spring,7122
+3804,Debit Card,3.6,Spring,15776
+3805,Cash,2.7,Fall,12304
+3806,Credit Card,3.1,Fall,16272
+3807,PayPal,3.0,Spring,16336
+3808,PayPal,2.9,Spring,17023
+3809,Debit Card,4.7,Winter,9302
+3810,Credit Card,3.7,Winter,6564
+3811,Venmo,3.9,Fall,6092
+3812,Cash,4.0,Winter,12678
+3813,Bank Transfer,2.8,Spring,14857
+3814,Venmo,4.1,Summer,2680
+3815,Bank Transfer,4.2,Winter,17186
+3816,Venmo,4.3,Fall,15214
+3817,Credit Card,4.3,Summer,4677
+3818,PayPal,2.6,Fall,15638
+3819,Cash,3.8,Winter,7771
+3820,Cash,2.9,Spring,3603
+3821,Debit Card,5.0,Winter,17434
+3822,Credit Card,4.6,Summer,8754
+3823,PayPal,3.2,Spring,14023
+3824,Bank Transfer,3.0,Summer,5462
+3825,Credit Card,4.0,Summer,6005
+3826,Debit Card,4.1,Fall,14171
+3827,Bank Transfer,4.0,Summer,5020
+3828,Cash,4.1,Summer,13344
+3829,Cash,3.4,Spring,8003
+3830,Debit Card,2.9,Spring,9163
+3831,Bank Transfer,3.0,Summer,16073
+3832,Debit Card,4.0,Spring,5857
+3833,Cash,4.8,Winter,8985
+3834,PayPal,4.6,Summer,16127
+3835,Cash,4.1,Winter,16575
+3836,PayPal,2.6,Winter,11404
+3837,PayPal,2.5,Spring,2726
+3838,Bank Transfer,4.8,Spring,8268
+3839,Venmo,4.2,Summer,3832
+3840,Venmo,3.9,Spring,2307
+3841,Venmo,3.7,Spring,17002
+3842,Bank Transfer,4.2,Fall,8330
+3843,Debit Card,4.2,Winter,3737
+3844,Venmo,4.0,Winter,10075
+3845,Venmo,5.0,Fall,14083
+3846,Venmo,4.9,Winter,358
+3847,PayPal,4.0,Summer,5376
+3848,PayPal,3.2,Fall,14337
+3849,Cash,3.0,Winter,3227
+3850,PayPal,2.6,Winter,17795
+3851,Debit Card,4.4,Summer,9635
+3852,Debit Card,3.9,Summer,3183
+3853,PayPal,4.0,Fall,5018
+3854,Debit Card,4.0,Fall,13639
+3855,Venmo,4.2,Spring,12394
+3856,Cash,4.4,Summer,5849
+3857,Debit Card,2.5,Summer,3627
+3858,Credit Card,3.1,Summer,871
+3859,Credit Card,3.5,Winter,2439
+3860,Bank Transfer,3.0,Fall,10427
+3861,Cash,4.4,Summer,5763
+3862,Credit Card,4.9,Spring,1244
+3863,Venmo,2.8,Winter,5805
+3864,Cash,3.3,Summer,13652
+3865,Debit Card,4.9,Winter,13938
+3866,Cash,4.2,Spring,17718
+3867,Credit Card,3.3,Winter,1812
+3868,Credit Card,2.7,Summer,12714
+3869,Cash,3.3,Winter,8471
+3870,Bank Transfer,3.8,Spring,11042
+3871,Cash,3.2,Fall,9111
+3872,Bank Transfer,4.1,Fall,3598
+3873,Cash,4.3,Spring,2217
+3874,Credit Card,4.0,Summer,11704
+3875,Credit Card,3.9,Summer,3941
+3876,Credit Card,3.3,Winter,14801
+3877,Cash,2.6,Fall,16369
+3878,Debit Card,4.2,Spring,5514
+3879,Credit Card,3.4,Summer,13824
+3880,Debit Card,4.1,Winter,11257
+3881,PayPal,3.9,Winter,17495
+3882,Debit Card,2.8,Spring,15919
+3883,Cash,2.6,Fall,17179
+3884,Cash,4.0,Fall,11226
+3885,PayPal,4.9,Fall,719
+3886,Cash,3.2,Winter,992
+3887,Debit Card,3.9,Summer,13718
+3888,Credit Card,2.7,Spring,455
+3889,Venmo,3.4,Spring,11318
+3890,Bank Transfer,3.5,Spring,16966
+3891,Debit Card,2.6,Winter,12511
+3892,Bank Transfer,4.7,Winter,9082
+3893,PayPal,3.5,Summer,8537
+3894,Bank Transfer,3.3,Fall,5996
+3895,Credit Card,3.9,Spring,12979
+3896,Venmo,4.2,Summer,5545
+3897,Bank Transfer,4.5,Spring,8042
+3898,Venmo,2.9,Spring,9296
+3899,Venmo,3.8,Summer,1685
+3900,Venmo,3.1,Spring,11027

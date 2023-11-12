@@ -1,0 +1,3901 @@
+customer_id,age,gender,location,payment_method,review_rating,season
+1,55,Male,teruel,Venmo,3.1,Winter
+2,19,Male,cadiz,Cash,3.1,Winter
+3,50,Male,barcelona,Credit Card,3.1,Spring
+4,21,Male,ciudad_real,PayPal,3.5,Spring
+5,45,Male,alava,PayPal,2.7,Spring
+6,46,Male,gerona,Venmo,2.9,Summer
+7,63,Male,burgos,Cash,3.2,Fall
+8,27,Male,cadiz,Credit Card,3.2,Winter
+9,26,Male,badajoz,Venmo,2.6,Summer
+10,57,Male,pontevedra,Cash,4.8,Spring
+11,53,Male,almeria,Bank Transfer,4.1,Fall
+12,30,Male,teruel,Bank Transfer,4.9,Winter
+13,61,Male,leon,Venmo,4.5,Winter
+14,65,Male,gipuzkoa,PayPal,4.7,Spring
+15,64,Male,sevilla,Debit Card,4.7,Winter
+16,64,Male,salamanca,PayPal,2.8,Winter
+17,25,Male,cuenca,Debit Card,4.1,Spring
+18,53,Male,burgos,Venmo,4.7,Winter
+19,52,Male,toledo,Cash,4.6,Summer
+20,66,Male,sevilla,Debit Card,3.3,Summer
+21,21,Male,la_coruna,Cash,2.8,Winter
+22,31,Male,gerona,Debit Card,4.1,Winter
+23,56,Male,las_palmas,Debit Card,3.2,Summer
+24,31,Male,cordoba,Credit Card,4.4,Winter
+25,18,Male,malaga,Debit Card,2.9,Fall
+26,18,Male,ciudad_real,PayPal,3.6,Summer
+27,38,Male,navarra,Credit Card,3.6,Spring
+28,56,Male,cuenca,Bank Transfer,5.0,Summer
+29,54,Male,santa_cruz_de_tenerife,PayPal,4.4,Fall
+30,31,Male,zaragoza,Credit Card,4.1,Fall
+31,57,Male,lugo,Credit Card,4.7,Winter
+32,33,Male,alava,Venmo,4.7,Winter
+33,36,Male,ciudad_real,Venmo,4.9,Summer
+34,54,Male,bizkaia,Cash,3.3,Summer
+35,36,Male,valencia,PayPal,4.6,Spring
+36,54,Male,guadalajara,Credit Card,4.0,Summer
+37,35,Male,cantabria,PayPal,4.6,Winter
+38,35,Male,cadiz,PayPal,2.8,Summer
+39,29,Male,alava,Venmo,3.7,Winter
+40,70,Male,bizkaia,Credit Card,4.2,Summer
+41,69,Male,teruel,Debit Card,4.6,Winter
+42,67,Male,gerona,Venmo,4.5,Spring
+43,20,Male,malaga,PayPal,4.1,Spring
+44,25,Male,valencia,PayPal,3.7,Fall
+45,39,Male,lleida,PayPal,4.6,Summer
+46,50,Male,zaragoza,PayPal,2.9,Fall
+47,57,Male,cadiz,Cash,2.9,Summer
+48,55,Male,teruel,Cash,4.5,Winter
+49,42,Male,cadiz,Cash,2.7,Summer
+50,68,Male,castellon,Debit Card,4.6,Spring
+51,49,Male,la_rioja,Debit Card,3.7,Spring
+52,59,Male,la_rioja,Credit Card,4.7,Winter
+53,42,Male,murcia,Credit Card,2.6,Summer
+54,29,Male,segovia,Credit Card,3.9,Winter
+55,47,Male,pontevedra,Debit Card,4.2,Summer
+56,40,Male,valladolid,Credit Card,3.0,Winter
+57,41,Male,la_coruna,Credit Card,4.7,Summer
+58,21,Male,la_coruna,Debit Card,4.4,Summer
+59,69,Male,asturias,Venmo,4.2,Summer
+60,63,Male,castellon,Debit Card,4.6,Spring
+61,50,Male,tarragona,Cash,4.0,Summer
+62,55,Male,castellon,Credit Card,4.7,Winter
+63,30,Male,palencia,Credit Card,3.8,Spring
+64,33,Male,guadalajara,Credit Card,2.7,Winter
+65,65,Male,cadiz,Debit Card,4.8,Fall
+66,65,Male,ciudad_real,Venmo,4.8,Spring
+67,31,Male,baleares,Venmo,4.7,Winter
+68,45,Male,lugo,Debit Card,4.4,Winter
+69,57,Male,leon,Cash,3.9,Summer
+70,48,Male,guadalajara,Cash,4.4,Summer
+71,22,Male,santa_cruz_de_tenerife,Debit Card,4.2,Fall
+72,36,Male,jaen,Bank Transfer,2.9,Summer
+73,18,Male,la_rioja,Bank Transfer,2.9,Winter
+74,48,Male,valladolid,Bank Transfer,2.7,Spring
+75,49,Male,burgos,Cash,4.5,Spring
+76,64,Male,soria,Credit Card,2.7,Summer
+77,50,Male,badajoz,Venmo,4.2,Summer
+78,22,Male,cordoba,Debit Card,3.3,Summer
+79,50,Male,zaragoza,Venmo,4.7,Spring
+80,38,Male,sevilla,Bank Transfer,2.6,Winter
+81,19,Male,gerona,Credit Card,3.3,Summer
+82,67,Male,tarragona,Credit Card,2.6,Summer
+83,19,Male,zamora,Credit Card,4.0,Spring
+84,36,Male,lleida,Bank Transfer,4.1,Summer
+85,52,Male,zamora,Bank Transfer,4.4,Spring
+86,53,Male,huesca,Debit Card,4.5,Winter
+87,24,Male,lleida,Cash,3.7,Spring
+88,52,Male,caceres,Debit Card,3.7,Fall
+89,33,Male,alava,Credit Card,3.5,Fall
+90,47,Male,las_palmas,Cash,3.6,Fall
+91,25,Male,las_palmas,Credit Card,2.9,Summer
+92,44,Male,bizkaia,Credit Card,4.6,Winter
+93,61,Male,albacete,Venmo,4.4,Winter
+94,37,Male,madrid,Credit Card,4.5,Fall
+95,58,Male,lugo,Credit Card,4.6,Spring
+96,37,Male,teruel,PayPal,3.8,Fall
+97,32,Male,lleida,Venmo,3.6,Spring
+98,21,Male,valencia,Cash,4.8,Winter
+99,20,Male,ciudad_real,Bank Transfer,2.6,Spring
+100,26,Male,toledo,Debit Card,3.7,Summer
+101,62,Male,alava,Cash,2.7,Fall
+102,27,Male,zaragoza,Credit Card,4.6,Spring
+103,51,Male,madrid,Credit Card,4.8,Winter
+104,54,Male,madrid,Venmo,4.0,Winter
+105,55,Male,alava,PayPal,4.4,Spring
+106,69,Male,segovia,Bank Transfer,3.6,Fall
+107,64,Male,asturias,Credit Card,3.7,Summer
+108,28,Male,cantabria,PayPal,3.1,Winter
+109,70,Male,guadalajara,Bank Transfer,3.4,Spring
+110,58,Male,guadalajara,Bank Transfer,2.6,Spring
+111,56,Male,barcelona,Venmo,4.0,Summer
+112,26,Male,malaga,Credit Card,5.0,Summer
+113,37,Male,zaragoza,PayPal,4.3,Spring
+114,44,Male,huelva,PayPal,3.1,Winter
+115,70,Male,valencia,Cash,3.7,Summer
+116,53,Male,santa_cruz_de_tenerife,Debit Card,3.8,Spring
+117,55,Male,lugo,Venmo,3.4,Spring
+118,50,Male,gipuzkoa,Cash,4.6,Summer
+119,50,Male,las_palmas,Cash,4.8,Fall
+120,38,Male,barcelona,Cash,4.3,Fall
+121,64,Male,santa_cruz_de_tenerife,Bank Transfer,4.0,Summer
+122,19,Male,alicante,Cash,4.2,Winter
+123,40,Male,castellon,Cash,4.8,Spring
+124,57,Male,orense,Cash,3.1,Fall
+125,44,Male,santa_cruz_de_tenerife,PayPal,3.1,Spring
+126,49,Male,las_palmas,Venmo,3.6,Winter
+127,43,Male,albacete,Cash,3.9,Spring
+128,24,Male,barcelona,Credit Card,4.8,Winter
+129,20,Male,toledo,Credit Card,4.7,Spring
+130,24,Male,palencia,PayPal,4.2,Summer
+131,44,Male,almeria,PayPal,3.7,Fall
+132,28,Male,segovia,Credit Card,3.9,Summer
+133,30,Male,malaga,PayPal,4.7,Fall
+134,52,Male,guadalajara,Venmo,2.5,Winter
+135,43,Male,ciudad_real,Cash,4.9,Fall
+136,43,Male,cordoba,PayPal,4.1,Fall
+137,39,Male,guadalajara,Debit Card,3.3,Winter
+138,68,Male,soria,PayPal,4.7,Spring
+139,68,Male,badajoz,Bank Transfer,4.4,Winter
+140,49,Male,baleares,Venmo,3.8,Fall
+141,63,Male,madrid,Credit Card,3.9,Fall
+142,56,Male,barcelona,PayPal,4.9,Fall
+143,37,Male,cordoba,Credit Card,3.1,Fall
+144,30,Male,gipuzkoa,PayPal,2.7,Fall
+145,19,Male,tarragona,Cash,3.2,Fall
+146,24,Male,segovia,Debit Card,4.5,Fall
+147,52,Male,valencia,Venmo,4.0,Fall
+148,63,Male,caceres,Bank Transfer,3.5,Summer
+149,37,Male,ciudad_real,Debit Card,2.6,Fall
+150,38,Male,la_rioja,PayPal,3.2,Summer
+151,35,Male,valencia,Debit Card,4.9,Fall
+152,28,Male,caceres,Venmo,4.5,Fall
+153,30,Male,burgos,Venmo,4.3,Summer
+154,69,Male,ciudad_real,Debit Card,3.2,Winter
+155,41,Male,salamanca,Venmo,3.6,Fall
+156,63,Male,navarra,Bank Transfer,4.3,Spring
+157,35,Male,valladolid,Debit Card,4.0,Fall
+158,36,Male,cuenca,Bank Transfer,3.0,Fall
+159,25,Male,toledo,Bank Transfer,4.1,Fall
+160,58,Male,sevilla,Bank Transfer,3.8,Fall
+161,27,Male,jaen,Venmo,4.6,Summer
+162,65,Male,tarragona,Venmo,3.0,Fall
+163,54,Male,salamanca,PayPal,3.0,Summer
+164,54,Male,castellon,Debit Card,3.4,Summer
+165,59,Male,navarra,Credit Card,2.6,Spring
+166,42,Male,burgos,Cash,2.8,Winter
+167,46,Male,gipuzkoa,Cash,4.0,Fall
+168,33,Male,malaga,Credit Card,4.0,Fall
+169,34,Male,valencia,Cash,3.0,Summer
+170,27,Male,segovia,PayPal,3.3,Summer
+171,52,Male,guadalajara,Venmo,2.6,Fall
+172,29,Male,santa_cruz_de_tenerife,Credit Card,3.6,Summer
+173,54,Male,santa_cruz_de_tenerife,Credit Card,3.9,Summer
+174,25,Male,lleida,Cash,3.4,Fall
+175,41,Male,palencia,Venmo,3.5,Winter
+176,53,Male,malaga,Bank Transfer,2.8,Fall
+177,53,Male,bizkaia,Credit Card,2.7,Spring
+178,21,Male,pontevedra,Bank Transfer,3.7,Fall
+179,61,Male,alava,PayPal,4.3,Fall
+180,64,Male,jaen,Bank Transfer,4.9,Fall
+181,51,Male,badajoz,Debit Card,3.3,Fall
+182,32,Male,baleares,Bank Transfer,4.7,Summer
+183,38,Male,zamora,Debit Card,2.8,Summer
+184,58,Male,gipuzkoa,Credit Card,3.6,Spring
+185,32,Male,las_palmas,Cash,3.0,Spring
+186,46,Male,la_rioja,Bank Transfer,4.5,Summer
+187,39,Male,salamanca,Debit Card,2.9,Summer
+188,19,Male,soria,Bank Transfer,3.3,Spring
+189,50,Male,pontevedra,Bank Transfer,3.1,Spring
+190,36,Male,caceres,Credit Card,4.4,Fall
+191,65,Male,leon,Venmo,3.0,Fall
+192,64,Male,lleida,Cash,3.9,Fall
+193,46,Male,toledo,PayPal,2.9,Summer
+194,36,Male,leon,Venmo,3.0,Fall
+195,51,Male,barcelona,Debit Card,3.1,Spring
+196,51,Male,malaga,Credit Card,4.3,Fall
+197,38,Male,castellon,Credit Card,3.9,Summer
+198,59,Male,asturias,Credit Card,3.2,Fall
+199,57,Male,baleares,Credit Card,4.8,Winter
+200,54,Male,malaga,Cash,3.8,Summer
+201,25,Male,salamanca,Venmo,3.3,Summer
+202,69,Male,zaragoza,Bank Transfer,4.3,Fall
+203,57,Male,madrid,Venmo,2.7,Spring
+204,70,Male,la_rioja,Bank Transfer,3.2,Fall
+205,24,Male,tarragona,Cash,4.0,Fall
+206,67,Male,badajoz,PayPal,3.0,Winter
+207,24,Male,albacete,Venmo,4.2,Summer
+208,62,Male,sevilla,Bank Transfer,2.9,Summer
+209,57,Male,cantabria,Credit Card,4.1,Spring
+210,55,Male,bizkaia,Cash,3.2,Winter
+211,45,Male,cuenca,PayPal,3.0,Fall
+212,69,Male,tarragona,Debit Card,4.2,Fall
+213,67,Male,avila,Debit Card,4.2,Fall
+214,30,Male,tarragona,Debit Card,4.4,Fall
+215,24,Male,santa_cruz_de_tenerife,Cash,4.2,Summer
+216,62,Male,las_palmas,PayPal,2.8,Spring
+217,43,Male,barcelona,Venmo,3.7,Spring
+218,35,Male,tarragona,Bank Transfer,3.5,Winter
+219,28,Male,castellon,Credit Card,2.9,Spring
+220,32,Male,alicante,Cash,3.0,Spring
+221,39,Male,cantabria,Debit Card,3.7,Spring
+222,28,Male,valladolid,Bank Transfer,4.4,Summer
+223,47,Male,lleida,PayPal,4.5,Spring
+224,20,Male,jaen,PayPal,4.8,Spring
+225,63,Male,alicante,Cash,2.9,Summer
+226,25,Male,navarra,Bank Transfer,3.2,Spring
+227,29,Male,madrid,PayPal,3.3,Spring
+228,50,Male,jaen,Venmo,4.2,Winter
+229,18,Male,teruel,Credit Card,2.9,Spring
+230,70,Male,cuenca,PayPal,4.6,Spring
+231,66,Male,cuenca,Credit Card,4.1,Fall
+232,28,Male,caceres,Debit Card,3.1,Spring
+233,54,Male,la_coruna,Bank Transfer,4.2,Winter
+234,19,Male,caceres,Bank Transfer,4.5,Fall
+235,20,Male,segovia,Credit Card,3.7,Summer
+236,43,Male,soria,Debit Card,3.7,Winter
+237,38,Male,baleares,PayPal,3.4,Winter
+238,50,Male,lleida,Debit Card,3.0,Summer
+239,64,Male,ciudad_real,Cash,4.2,Fall
+240,49,Male,toledo,Credit Card,2.9,Summer
+241,47,Male,granada,Bank Transfer,3.5,Winter
+242,36,Male,madrid,Venmo,4.1,Winter
+243,55,Male,huelva,Debit Card,4.3,Summer
+244,25,Male,valladolid,Debit Card,2.8,Winter
+245,53,Male,pontevedra,PayPal,4.9,Spring
+246,49,Male,soria,Venmo,3.3,Summer
+247,35,Male,zamora,Venmo,3.2,Spring
+248,29,Male,murcia,Debit Card,4.4,Spring
+249,47,Male,caceres,PayPal,4.8,Winter
+250,53,Male,ciudad_real,Credit Card,4.2,Fall
+251,33,Male,malaga,Bank Transfer,4.0,Fall
+252,21,Male,ciudad_real,PayPal,2.5,Winter
+253,32,Male,la_coruna,Venmo,3.9,Summer
+254,52,Male,cordoba,Bank Transfer,4.9,Winter
+255,67,Male,cantabria,PayPal,3.5,Winter
+256,43,Male,tarragona,Debit Card,4.2,Spring
+257,58,Male,gerona,Credit Card,4.7,Spring
+258,20,Male,segovia,Credit Card,4.5,Summer
+259,61,Male,santa_cruz_de_tenerife,Cash,2.8,Spring
+260,32,Male,castellon,Debit Card,2.9,Fall
+261,38,Male,navarra,Credit Card,3.2,Winter
+262,21,Male,barcelona,Credit Card,4.9,Winter
+263,37,Male,lugo,Debit Card,3.7,Summer
+264,27,Male,cordoba,Venmo,4.3,Summer
+265,36,Male,badajoz,Cash,3.9,Fall
+266,32,Male,las_palmas,Bank Transfer,3.2,Spring
+267,51,Male,palencia,Credit Card,3.1,Summer
+268,64,Male,lleida,Venmo,3.9,Spring
+269,68,Male,huesca,Cash,2.6,Spring
+270,68,Male,alava,Cash,3.3,Winter
+271,33,Male,la_coruna,Bank Transfer,4.6,Fall
+272,65,Male,orense,Credit Card,4.6,Summer
+273,48,Male,toledo,Debit Card,4.4,Summer
+274,69,Male,zamora,Debit Card,4.2,Spring
+275,59,Male,soria,Cash,3.0,Spring
+276,48,Male,sevilla,Credit Card,4.0,Winter
+277,25,Male,la_rioja,Bank Transfer,3.5,Fall
+278,29,Male,alicante,Bank Transfer,3.0,Winter
+279,57,Male,malaga,Debit Card,3.7,Spring
+280,23,Male,castellon,Bank Transfer,4.0,Summer
+281,45,Male,palencia,Cash,4.2,Fall
+282,38,Male,soria,Debit Card,2.5,Spring
+283,21,Male,caceres,Cash,3.0,Summer
+284,32,Male,toledo,Venmo,3.2,Fall
+285,63,Male,gipuzkoa,PayPal,3.5,Summer
+286,29,Male,alava,Debit Card,4.8,Summer
+287,27,Male,cantabria,Debit Card,2.6,Summer
+288,56,Male,huesca,Venmo,3.4,Spring
+289,30,Male,valencia,Venmo,3.7,Winter
+290,49,Male,orense,Credit Card,4.5,Fall
+291,58,Male,salamanca,PayPal,3.7,Winter
+292,57,Male,la_rioja,Bank Transfer,3.3,Fall
+293,60,Male,cadiz,Cash,4.7,Spring
+294,69,Male,jaen,PayPal,2.7,Spring
+295,70,Male,ciudad_real,Credit Card,4.6,Spring
+296,53,Male,pontevedra,Credit Card,2.7,Winter
+297,25,Male,alicante,Credit Card,4.8,Spring
+298,48,Male,huesca,Credit Card,4.4,Summer
+299,69,Male,guadalajara,Venmo,4.0,Winter
+300,25,Male,barcelona,PayPal,3.2,Summer
+301,29,Male,orense,PayPal,4.4,Spring
+302,46,Male,castellon,Credit Card,3.8,Spring
+303,37,Male,murcia,Bank Transfer,3.6,Summer
+304,20,Male,orense,Venmo,3.3,Summer
+305,40,Male,huesca,Credit Card,3.4,Winter
+306,60,Male,castellon,PayPal,3.5,Fall
+307,26,Male,teruel,Cash,3.6,Summer
+308,29,Male,gerona,Credit Card,3.2,Winter
+309,66,Male,la_rioja,Venmo,3.7,Fall
+310,66,Male,jaen,Cash,4.5,Spring
+311,56,Male,santa_cruz_de_tenerife,Cash,4.6,Winter
+312,69,Male,leon,Bank Transfer,4.1,Winter
+313,38,Male,burgos,PayPal,3.4,Spring
+314,42,Male,cantabria,Credit Card,3.7,Spring
+315,30,Male,valladolid,Debit Card,3.3,Summer
+316,66,Male,soria,Debit Card,4.5,Spring
+317,36,Male,valencia,Venmo,3.3,Fall
+318,58,Male,guadalajara,Cash,4.3,Fall
+319,45,Male,teruel,Cash,2.5,Winter
+320,47,Male,salamanca,Cash,2.6,Spring
+321,66,Male,segovia,Debit Card,4.9,Summer
+322,41,Male,la_rioja,Debit Card,4.7,Summer
+323,41,Male,santa_cruz_de_tenerife,Credit Card,3.0,Winter
+324,66,Male,valencia,PayPal,3.5,Winter
+325,37,Male,granada,Venmo,4.8,Summer
+326,70,Male,cadiz,Debit Card,4.3,Winter
+327,62,Male,valladolid,Bank Transfer,3.2,Fall
+328,61,Male,cantabria,PayPal,3.1,Summer
+329,48,Male,orense,Credit Card,2.8,Fall
+330,70,Male,huelva,Bank Transfer,2.9,Summer
+331,46,Male,zaragoza,Venmo,3.7,Winter
+332,31,Male,ciudad_real,PayPal,3.3,Fall
+333,19,Male,teruel,Credit Card,2.8,Winter
+334,39,Male,gerona,Bank Transfer,4.5,Winter
+335,41,Male,albacete,Credit Card,2.6,Fall
+336,20,Male,lugo,Venmo,3.7,Spring
+337,36,Male,granada,PayPal,4.4,Fall
+338,32,Male,valencia,Bank Transfer,4.3,Winter
+339,69,Male,lleida,Cash,3.5,Winter
+340,40,Male,tarragona,Credit Card,3.8,Spring
+341,40,Male,santa_cruz_de_tenerife,Venmo,3.5,Summer
+342,20,Male,gipuzkoa,Debit Card,4.6,Summer
+343,64,Male,burgos,Credit Card,2.6,Spring
+344,27,Male,huelva,Venmo,4.4,Summer
+345,24,Male,valladolid,Debit Card,4.0,Winter
+346,48,Male,ciudad_real,Bank Transfer,4.4,Winter
+347,49,Male,pontevedra,Cash,4.7,Spring
+348,36,Male,castellon,PayPal,3.9,Fall
+349,56,Male,tarragona,PayPal,2.7,Fall
+350,37,Male,castellon,Bank Transfer,3.7,Winter
+351,42,Male,murcia,Bank Transfer,2.6,Spring
+352,28,Male,navarra,Debit Card,3.9,Winter
+353,27,Male,alava,Cash,4.9,Fall
+354,63,Male,asturias,Debit Card,4.1,Fall
+355,58,Male,pontevedra,Venmo,3.0,Fall
+356,37,Male,zamora,PayPal,4.1,Fall
+357,56,Male,la_coruna,Cash,3.8,Spring
+358,18,Male,cantabria,Credit Card,4.0,Spring
+359,48,Male,albacete,Credit Card,3.6,Summer
+360,31,Male,santa_cruz_de_tenerife,Credit Card,3.0,Winter
+361,51,Male,las_palmas,Debit Card,3.0,Summer
+362,65,Male,alava,Cash,2.6,Spring
+363,53,Male,lugo,Venmo,3.4,Fall
+364,55,Male,santa_cruz_de_tenerife,Bank Transfer,3.1,Winter
+365,62,Male,cordoba,Venmo,3.0,Summer
+366,55,Male,alava,PayPal,3.7,Summer
+367,64,Male,segovia,Venmo,3.5,Spring
+368,52,Male,soria,Bank Transfer,2.8,Spring
+369,24,Male,huelva,Cash,4.5,Spring
+370,38,Male,pontevedra,PayPal,3.3,Summer
+371,59,Male,pontevedra,PayPal,3.4,Winter
+372,27,Male,tarragona,PayPal,3.2,Winter
+373,24,Male,alava,Debit Card,3.7,Summer
+374,23,Male,zaragoza,Venmo,4.6,Summer
+375,69,Male,salamanca,Bank Transfer,5.0,Spring
+376,59,Male,alava,Debit Card,4.4,Summer
+377,51,Male,avila,Venmo,4.9,Fall
+378,63,Male,castellon,Credit Card,4.1,Spring
+379,54,Male,la_coruna,Credit Card,4.9,Winter
+380,32,Male,palencia,Debit Card,4.7,Fall
+381,39,Male,la_rioja,Bank Transfer,3.0,Fall
+382,66,Male,santa_cruz_de_tenerife,Credit Card,3.4,Winter
+383,28,Male,jaen,PayPal,3.2,Winter
+384,50,Male,burgos,PayPal,2.9,Fall
+385,70,Male,soria,Venmo,4.5,Fall
+386,67,Male,bizkaia,Credit Card,2.7,Fall
+387,64,Male,pontevedra,PayPal,3.4,Spring
+388,45,Male,lugo,PayPal,4.6,Summer
+389,22,Male,segovia,PayPal,2.7,Summer
+390,27,Male,barcelona,Bank Transfer,4.2,Spring
+391,25,Male,santa_cruz_de_tenerife,PayPal,3.2,Winter
+392,37,Male,santa_cruz_de_tenerife,Cash,4.8,Spring
+393,26,Male,la_coruna,Credit Card,3.3,Spring
+394,33,Male,caceres,PayPal,4.2,Fall
+395,43,Male,zamora,Debit Card,4.8,Spring
+396,37,Male,lleida,PayPal,4.9,Winter
+397,46,Male,barcelona,Bank Transfer,3.9,Fall
+398,22,Male,valladolid,Cash,3.0,Fall
+399,20,Male,tarragona,Debit Card,4.6,Winter
+400,60,Male,zaragoza,Debit Card,3.5,Fall
+401,39,Male,toledo,PayPal,4.8,Winter
+402,43,Male,albacete,Cash,4.8,Fall
+403,31,Male,teruel,PayPal,3.0,Fall
+404,19,Male,almeria,Bank Transfer,4.5,Winter
+405,35,Male,huesca,Credit Card,4.8,Spring
+406,41,Male,avila,Cash,3.8,Summer
+407,52,Male,asturias,Cash,4.6,Spring
+408,45,Male,alava,Credit Card,3.1,Spring
+409,34,Male,castellon,Cash,3.4,Spring
+410,35,Male,badajoz,Bank Transfer,3.3,Winter
+411,29,Male,guadalajara,Credit Card,4.8,Spring
+412,59,Male,segovia,PayPal,2.8,Summer
+413,24,Male,toledo,Bank Transfer,3.1,Summer
+414,70,Male,ciudad_real,Cash,4.6,Summer
+415,29,Male,pontevedra,Debit Card,2.6,Winter
+416,67,Male,cadiz,Bank Transfer,2.6,Winter
+417,36,Male,cadiz,Bank Transfer,3.8,Spring
+418,23,Male,albacete,Debit Card,4.5,Fall
+419,18,Male,huelva,Venmo,3.0,Spring
+420,53,Male,huesca,Credit Card,3.5,Winter
+421,32,Male,zamora,Debit Card,3.8,Spring
+422,38,Male,cordoba,Cash,3.5,Winter
+423,47,Male,valencia,Debit Card,3.1,Fall
+424,46,Male,murcia,Credit Card,3.0,Spring
+425,66,Male,lugo,PayPal,4.3,Winter
+426,40,Male,gipuzkoa,Credit Card,3.3,Winter
+427,43,Male,cadiz,Credit Card,4.7,Winter
+428,58,Male,ciudad_real,Credit Card,4.5,Winter
+429,21,Male,guadalajara,Debit Card,2.9,Winter
+430,42,Male,ciudad_real,Cash,4.1,Winter
+431,24,Male,murcia,Debit Card,3.5,Summer
+432,43,Male,orense,Cash,3.4,Winter
+433,47,Male,valencia,Venmo,3.3,Fall
+434,49,Male,sevilla,Credit Card,3.2,Fall
+435,50,Male,avila,PayPal,4.0,Spring
+436,51,Male,segovia,Bank Transfer,3.6,Winter
+437,40,Male,gerona,Bank Transfer,4.6,Summer
+438,45,Male,cantabria,PayPal,2.6,Summer
+439,52,Male,cadiz,Credit Card,4.3,Winter
+440,62,Male,almeria,Cash,3.4,Summer
+441,20,Male,teruel,Debit Card,3.5,Winter
+442,43,Male,cordoba,Credit Card,4.2,Winter
+443,29,Male,guadalajara,Credit Card,3.5,Fall
+444,22,Male,granada,PayPal,3.6,Summer
+445,48,Male,navarra,Debit Card,4.3,Summer
+446,42,Male,caceres,Venmo,4.9,Fall
+447,19,Male,alava,Venmo,4.1,Summer
+448,60,Male,burgos,Bank Transfer,3.6,Spring
+449,32,Male,toledo,Bank Transfer,3.4,Summer
+450,26,Male,huelva,Bank Transfer,2.9,Summer
+451,25,Male,cadiz,Credit Card,2.7,Summer
+452,66,Male,guadalajara,Credit Card,4.3,Summer
+453,45,Male,cadiz,PayPal,3.3,Summer
+454,54,Male,alava,Credit Card,2.8,Winter
+455,37,Male,las_palmas,Cash,3.2,Summer
+456,54,Male,la_rioja,Debit Card,3.6,Fall
+457,50,Male,badajoz,Credit Card,4.0,Fall
+458,25,Male,albacete,Debit Card,4.9,Spring
+459,47,Male,zaragoza,PayPal,4.0,Winter
+460,63,Male,salamanca,PayPal,3.8,Winter
+461,64,Male,santa_cruz_de_tenerife,Bank Transfer,3.7,Summer
+462,18,Male,ciudad_real,Venmo,3.9,Winter
+463,59,Male,tarragona,Venmo,3.3,Fall
+464,37,Male,la_coruna,Venmo,2.7,Summer
+465,23,Male,cordoba,PayPal,4.7,Winter
+466,54,Male,zaragoza,Cash,2.8,Summer
+467,38,Male,barcelona,PayPal,4.6,Winter
+468,19,Male,granada,Debit Card,4.5,Spring
+469,34,Male,granada,Cash,5.0,Fall
+470,21,Male,guadalajara,Debit Card,4.1,Fall
+471,50,Male,cadiz,Cash,4.6,Summer
+472,55,Male,valladolid,Bank Transfer,4.9,Winter
+473,20,Male,albacete,Bank Transfer,3.9,Winter
+474,34,Male,guadalajara,PayPal,3.9,Spring
+475,62,Male,albacete,Cash,2.6,Summer
+476,21,Male,gerona,Debit Card,2.7,Summer
+477,21,Male,alava,Debit Card,3.5,Spring
+478,42,Male,segovia,Debit Card,3.7,Summer
+479,35,Male,salamanca,Venmo,3.2,Winter
+480,39,Male,burgos,Venmo,3.3,Winter
+481,68,Male,lleida,Debit Card,4.8,Summer
+482,46,Male,salamanca,PayPal,3.2,Fall
+483,41,Male,malaga,Venmo,2.5,Winter
+484,23,Male,guadalajara,Debit Card,3.9,Fall
+485,68,Male,baleares,Bank Transfer,4.7,Summer
+486,48,Male,alava,Debit Card,2.6,Spring
+487,38,Male,barcelona,Venmo,2.8,Fall
+488,41,Male,toledo,Credit Card,4.4,Winter
+489,58,Male,valencia,Venmo,4.6,Spring
+490,49,Male,huesca,PayPal,3.2,Summer
+491,57,Male,malaga,Cash,4.2,Winter
+492,49,Male,las_palmas,Credit Card,3.7,Summer
+493,50,Male,lugo,Debit Card,3.9,Fall
+494,28,Male,santa_cruz_de_tenerife,Cash,4.7,Summer
+495,38,Male,santa_cruz_de_tenerife,Debit Card,4.5,Winter
+496,33,Male,huesca,Debit Card,3.3,Fall
+497,30,Male,huesca,Venmo,3.3,Fall
+498,43,Male,alava,Cash,4.6,Winter
+499,43,Male,la_rioja,Bank Transfer,3.6,Spring
+500,36,Male,valencia,PayPal,4.8,Winter
+501,36,Male,segovia,Venmo,4.8,Fall
+502,64,Male,cadiz,Venmo,2.9,Spring
+503,59,Male,granada,PayPal,2.8,Fall
+504,55,Male,granada,Bank Transfer,3.2,Summer
+505,42,Male,granada,PayPal,3.9,Winter
+506,61,Male,orense,Cash,4.3,Spring
+507,28,Male,almeria,Debit Card,2.7,Fall
+508,65,Male,burgos,Debit Card,5.0,Spring
+509,27,Male,madrid,PayPal,3.7,Winter
+510,41,Male,badajoz,Debit Card,3.9,Summer
+511,21,Male,gipuzkoa,Venmo,3.9,Fall
+512,61,Male,cordoba,PayPal,3.1,Fall
+513,19,Male,badajoz,Bank Transfer,3.3,Winter
+514,22,Male,soria,Venmo,3.6,Fall
+515,64,Male,asturias,PayPal,4.3,Winter
+516,28,Male,cordoba,Cash,4.5,Spring
+517,34,Male,leon,Debit Card,2.8,Fall
+518,61,Male,tarragona,Cash,2.7,Fall
+519,24,Male,tarragona,Venmo,2.9,Fall
+520,19,Male,palencia,Bank Transfer,4.4,Summer
+521,51,Male,segovia,Debit Card,3.9,Spring
+522,36,Male,lleida,Bank Transfer,3.5,Winter
+523,65,Male,santa_cruz_de_tenerife,Cash,2.5,Spring
+524,46,Male,la_coruna,PayPal,4.9,Spring
+525,59,Male,avila,PayPal,4.8,Summer
+526,51,Male,avila,Debit Card,3.2,Spring
+527,51,Male,gerona,Cash,4.9,Winter
+528,21,Male,leon,Bank Transfer,4.3,Winter
+529,34,Male,burgos,Cash,3.2,Winter
+530,32,Male,navarra,Credit Card,3.7,Fall
+531,48,Male,cantabria,Credit Card,3.2,Winter
+532,50,Male,orense,Cash,3.4,Fall
+533,26,Male,gipuzkoa,Bank Transfer,4.1,Winter
+534,57,Male,lugo,Debit Card,4.5,Spring
+535,65,Male,segovia,PayPal,4.5,Fall
+536,56,Male,cordoba,Bank Transfer,3.2,Spring
+537,44,Male,albacete,Debit Card,4.4,Fall
+538,50,Male,baleares,Debit Card,3.0,Summer
+539,27,Male,valladolid,Cash,3.2,Spring
+540,49,Male,murcia,Debit Card,4.0,Winter
+541,49,Male,la_coruna,Cash,3.1,Spring
+542,52,Male,bizkaia,Cash,2.8,Fall
+543,27,Male,cordoba,Cash,4.6,Spring
+544,53,Male,caceres,Credit Card,4.3,Spring
+545,34,Male,la_rioja,Bank Transfer,3.3,Summer
+546,33,Male,almeria,Debit Card,3.5,Summer
+547,62,Male,almeria,Venmo,3.4,Winter
+548,38,Male,madrid,Venmo,2.8,Winter
+549,36,Male,sevilla,Debit Card,4.6,Winter
+550,31,Male,salamanca,Venmo,3.6,Fall
+551,62,Male,toledo,PayPal,3.3,Summer
+552,29,Male,albacete,Cash,3.1,Fall
+553,24,Male,valencia,Bank Transfer,3.5,Fall
+554,63,Male,la_coruna,Credit Card,3.2,Winter
+555,56,Male,ciudad_real,Bank Transfer,3.0,Summer
+556,63,Male,lleida,Venmo,4.8,Fall
+557,40,Male,badajoz,Cash,5.0,Winter
+558,18,Male,avila,Debit Card,2.9,Spring
+559,50,Male,la_coruna,Debit Card,3.2,Fall
+560,66,Male,cuenca,Bank Transfer,2.9,Fall
+561,25,Male,huesca,Debit Card,3.3,Fall
+562,65,Male,lugo,PayPal,2.6,Fall
+563,53,Male,madrid,Debit Card,3.5,Summer
+564,61,Male,ciudad_real,Debit Card,4.4,Fall
+565,67,Male,cordoba,Bank Transfer,3.4,Winter
+566,59,Male,cuenca,Venmo,4.2,Fall
+567,55,Male,asturias,Debit Card,3.6,Spring
+568,21,Male,la_coruna,Venmo,3.0,Winter
+569,44,Male,madrid,PayPal,4.0,Summer
+570,65,Male,la_coruna,Credit Card,4.4,Fall
+571,65,Male,la_coruna,Cash,4.1,Fall
+572,54,Male,castellon,Venmo,3.6,Spring
+573,56,Male,zamora,Bank Transfer,4.6,Summer
+574,58,Male,lleida,Credit Card,3.2,Summer
+575,54,Male,segovia,Bank Transfer,4.8,Fall
+576,58,Male,zaragoza,PayPal,4.8,Fall
+577,48,Male,santa_cruz_de_tenerife,Credit Card,5.0,Winter
+578,19,Male,cadiz,Venmo,3.7,Fall
+579,69,Male,cuenca,Credit Card,4.6,Fall
+580,58,Male,leon,Credit Card,3.7,Winter
+581,49,Male,pontevedra,PayPal,4.1,Spring
+582,32,Male,las_palmas,Bank Transfer,2.7,Winter
+583,40,Male,madrid,Bank Transfer,4.9,Spring
+584,25,Male,granada,PayPal,4.0,Spring
+585,70,Male,granada,Debit Card,4.7,Spring
+586,69,Male,malaga,Cash,2.8,Fall
+587,45,Male,zaragoza,Venmo,4.9,Winter
+588,29,Male,sevilla,Debit Card,4.2,Fall
+589,47,Male,castellon,Debit Card,3.0,Fall
+590,28,Male,lugo,PayPal,3.4,Fall
+591,64,Male,murcia,Venmo,4.6,Fall
+592,47,Male,salamanca,Debit Card,4.2,Fall
+593,60,Male,granada,Venmo,3.2,Fall
+594,67,Male,orense,PayPal,4.4,Winter
+595,35,Male,lleida,Debit Card,2.5,Winter
+596,30,Male,leon,PayPal,3.6,Summer
+597,23,Male,palencia,Venmo,4.5,Summer
+598,70,Male,avila,Bank Transfer,3.4,Summer
+599,21,Male,la_rioja,Cash,3.2,Winter
+600,51,Male,alicante,Debit Card,4.2,Spring
+601,22,Male,bizkaia,Venmo,5.0,Spring
+602,32,Male,cuenca,Cash,4.7,Summer
+603,37,Male,badajoz,Cash,4.2,Summer
+604,31,Male,almeria,PayPal,3.4,Winter
+605,44,Male,tarragona,Credit Card,4.4,Fall
+606,40,Male,ciudad_real,Bank Transfer,4.2,Winter
+607,27,Male,valladolid,PayPal,4.5,Spring
+608,47,Male,zamora,Cash,2.8,Fall
+609,41,Male,santa_cruz_de_tenerife,Venmo,3.3,Fall
+610,51,Male,soria,Credit Card,4.6,Fall
+611,53,Male,cadiz,Bank Transfer,2.5,Summer
+612,43,Male,barcelona,Cash,4.7,Winter
+613,67,Male,huesca,Credit Card,4.6,Fall
+614,61,Male,cordoba,Cash,2.6,Fall
+615,68,Male,asturias,Credit Card,4.0,Winter
+616,67,Male,santa_cruz_de_tenerife,Venmo,2.6,Summer
+617,29,Male,salamanca,Credit Card,4.6,Spring
+618,50,Male,bizkaia,Bank Transfer,2.6,Fall
+619,61,Male,zamora,Debit Card,4.0,Spring
+620,19,Male,burgos,Debit Card,4.6,Summer
+621,33,Male,tarragona,Venmo,3.7,Fall
+622,51,Male,barcelona,Credit Card,4.4,Fall
+623,69,Male,zaragoza,Bank Transfer,4.0,Spring
+624,19,Male,gipuzkoa,PayPal,4.7,Fall
+625,55,Male,valladolid,PayPal,3.4,Fall
+626,49,Male,murcia,Venmo,4.0,Fall
+627,31,Male,alicante,Venmo,3.9,Spring
+628,42,Male,cuenca,PayPal,4.1,Winter
+629,69,Male,valencia,Credit Card,3.7,Fall
+630,26,Male,jaen,Debit Card,4.7,Spring
+631,41,Male,cadiz,Debit Card,4.3,Fall
+632,55,Male,segovia,Cash,4.1,Summer
+633,35,Male,granada,Venmo,3.9,Winter
+634,66,Male,sevilla,Debit Card,2.9,Spring
+635,36,Male,cantabria,PayPal,3.9,Summer
+636,27,Male,malaga,Cash,4.3,Fall
+637,41,Male,toledo,Bank Transfer,2.8,Summer
+638,21,Male,toledo,Cash,3.4,Winter
+639,53,Male,las_palmas,PayPal,2.7,Summer
+640,54,Male,alava,Credit Card,4.0,Spring
+641,53,Male,teruel,Debit Card,4.4,Summer
+642,47,Male,granada,Credit Card,3.9,Winter
+643,64,Male,soria,Debit Card,2.8,Spring
+644,18,Male,castellon,Bank Transfer,3.2,Winter
+645,68,Male,huesca,Cash,4.3,Summer
+646,62,Male,murcia,Venmo,4.2,Summer
+647,51,Male,barcelona,Venmo,4.9,Spring
+648,54,Male,zamora,Credit Card,3.7,Summer
+649,22,Male,baleares,Credit Card,4.1,Winter
+650,53,Male,bizkaia,PayPal,4.2,Spring
+651,34,Male,valladolid,Bank Transfer,3.9,Spring
+652,32,Male,asturias,Venmo,2.9,Summer
+653,64,Male,orense,Venmo,3.1,Winter
+654,20,Male,huelva,Cash,3.6,Winter
+655,24,Male,lugo,Venmo,4.4,Summer
+656,20,Male,malaga,Venmo,3.1,Fall
+657,42,Male,cantabria,PayPal,3.9,Summer
+658,48,Male,murcia,PayPal,4.3,Winter
+659,62,Male,granada,Venmo,4.9,Fall
+660,62,Male,cordoba,Cash,3.6,Spring
+661,50,Male,asturias,Credit Card,5.0,Fall
+662,57,Male,pontevedra,Credit Card,4.1,Fall
+663,24,Male,lleida,Venmo,2.8,Fall
+664,59,Male,tarragona,Credit Card,4.7,Fall
+665,63,Male,la_coruna,PayPal,4.4,Winter
+666,41,Male,toledo,Credit Card,4.9,Spring
+667,35,Male,huelva,Debit Card,3.1,Winter
+668,34,Male,cantabria,Bank Transfer,2.6,Winter
+669,49,Male,pontevedra,Bank Transfer,2.9,Fall
+670,43,Male,gerona,Venmo,3.3,Spring
+671,63,Male,bizkaia,Cash,4.8,Spring
+672,38,Male,albacete,Cash,4.7,Winter
+673,59,Male,zaragoza,Cash,3.3,Winter
+674,35,Male,alicante,Venmo,4.2,Spring
+675,48,Male,salamanca,Bank Transfer,4.7,Winter
+676,64,Male,baleares,Cash,2.6,Spring
+677,28,Male,sevilla,Venmo,2.9,Winter
+678,60,Male,baleares,PayPal,2.7,Summer
+679,27,Male,soria,Debit Card,3.3,Fall
+680,56,Male,huelva,Venmo,3.4,Fall
+681,58,Male,zamora,PayPal,4.2,Spring
+682,30,Male,cadiz,Credit Card,3.8,Winter
+683,23,Male,caceres,Credit Card,4.0,Summer
+684,33,Male,santa_cruz_de_tenerife,Bank Transfer,2.7,Winter
+685,63,Male,ciudad_real,Debit Card,4.7,Summer
+686,70,Male,burgos,Cash,3.5,Winter
+687,70,Male,jaen,Venmo,3.0,Fall
+688,19,Male,albacete,Bank Transfer,3.3,Winter
+689,25,Male,teruel,Venmo,4.7,Summer
+690,19,Male,almeria,Credit Card,4.7,Summer
+691,25,Male,baleares,Bank Transfer,4.8,Spring
+692,60,Male,gipuzkoa,PayPal,2.9,Summer
+693,35,Male,baleares,Debit Card,4.0,Spring
+694,46,Male,badajoz,Cash,3.1,Spring
+695,41,Male,alicante,Venmo,3.5,Fall
+696,30,Male,alava,Debit Card,3.7,Summer
+697,44,Male,huesca,Cash,2.8,Fall
+698,61,Male,salamanca,Debit Card,4.6,Summer
+699,55,Male,la_coruna,Debit Card,3.8,Winter
+700,50,Male,avila,PayPal,2.6,Fall
+701,57,Male,alicante,PayPal,4.1,Winter
+702,51,Male,santa_cruz_de_tenerife,Debit Card,3.3,Fall
+703,18,Male,segovia,Cash,3.4,Winter
+704,63,Male,zaragoza,Venmo,3.0,Summer
+705,34,Male,asturias,PayPal,3.2,Spring
+706,25,Male,segovia,Cash,4.5,Summer
+707,46,Male,avila,Debit Card,4.8,Summer
+708,59,Male,cordoba,Venmo,3.7,Spring
+709,37,Male,valladolid,Cash,3.4,Summer
+710,49,Male,ciudad_real,Debit Card,4.6,Summer
+711,22,Male,las_palmas,PayPal,4.1,Spring
+712,64,Male,pontevedra,Bank Transfer,3.5,Spring
+713,42,Male,malaga,Bank Transfer,3.8,Summer
+714,37,Male,alava,Bank Transfer,2.6,Summer
+715,26,Male,palencia,Debit Card,4.4,Fall
+716,33,Male,ciudad_real,Debit Card,2.6,Spring
+717,30,Male,asturias,Venmo,3.6,Spring
+718,21,Male,palencia,Venmo,4.2,Spring
+719,22,Male,madrid,Bank Transfer,4.6,Summer
+720,63,Male,cuenca,Venmo,3.3,Summer
+721,33,Male,gerona,Debit Card,3.4,Fall
+722,43,Male,santa_cruz_de_tenerife,Debit Card,4.4,Summer
+723,27,Male,cadiz,Cash,4.3,Summer
+724,35,Male,zaragoza,PayPal,3.5,Fall
+725,37,Male,almeria,Venmo,4.7,Fall
+726,61,Male,tarragona,Debit Card,3.1,Winter
+727,32,Male,zaragoza,Bank Transfer,3.6,Summer
+728,62,Male,lugo,Venmo,4.8,Winter
+729,29,Male,cadiz,PayPal,3.7,Winter
+730,41,Male,castellon,PayPal,3.2,Summer
+731,48,Male,alicante,Venmo,3.9,Summer
+732,43,Male,granada,PayPal,3.5,Spring
+733,34,Male,zamora,Cash,2.8,Spring
+734,45,Male,granada,Debit Card,2.7,Fall
+735,65,Male,gipuzkoa,Bank Transfer,3.1,Winter
+736,61,Male,gerona,Cash,3.6,Fall
+737,18,Male,ciudad_real,Credit Card,2.9,Spring
+738,47,Male,la_rioja,PayPal,3.6,Spring
+739,56,Male,barcelona,Venmo,3.5,Winter
+740,64,Male,lleida,Venmo,3.5,Summer
+741,26,Male,guadalajara,Credit Card,2.8,Summer
+742,22,Male,sevilla,Bank Transfer,4.7,Summer
+743,64,Male,granada,Debit Card,3.1,Summer
+744,21,Male,tarragona,Cash,4.9,Fall
+745,67,Male,segovia,Debit Card,4.1,Spring
+746,46,Male,sevilla,Venmo,4.7,Fall
+747,40,Male,castellon,Credit Card,2.5,Winter
+748,51,Male,huelva,Bank Transfer,4.4,Spring
+749,35,Male,salamanca,Bank Transfer,3.9,Fall
+750,56,Male,gerona,Debit Card,3.7,Winter
+751,25,Male,lugo,Venmo,3.4,Fall
+752,65,Male,valencia,Credit Card,4.8,Fall
+753,39,Male,salamanca,PayPal,4.2,Fall
+754,47,Male,las_palmas,Venmo,3.4,Fall
+755,36,Male,barcelona,Debit Card,2.9,Spring
+756,66,Male,jaen,PayPal,3.3,Spring
+757,62,Male,cuenca,Cash,4.8,Summer
+758,41,Male,bizkaia,Debit Card,3.8,Fall
+759,66,Male,toledo,Bank Transfer,4.6,Summer
+760,51,Male,murcia,Credit Card,2.6,Winter
+761,33,Male,zaragoza,Cash,3.4,Fall
+762,57,Male,burgos,Bank Transfer,4.2,Fall
+763,45,Male,salamanca,Debit Card,3.9,Fall
+764,61,Male,almeria,Credit Card,2.9,Spring
+765,55,Male,huesca,Debit Card,4.2,Fall
+766,54,Male,pontevedra,Cash,3.0,Summer
+767,57,Male,castellon,PayPal,3.6,Winter
+768,27,Male,teruel,Cash,2.5,Fall
+769,64,Male,salamanca,Venmo,2.6,Spring
+770,52,Male,cadiz,PayPal,4.3,Spring
+771,19,Male,alava,Credit Card,3.3,Spring
+772,22,Male,malaga,Bank Transfer,2.6,Fall
+773,18,Male,sevilla,Debit Card,3.6,Fall
+774,29,Male,navarra,Debit Card,2.6,Winter
+775,42,Male,leon,Credit Card,3.5,Summer
+776,49,Male,caceres,PayPal,3.0,Winter
+777,49,Male,burgos,Venmo,5.0,Spring
+778,55,Male,pontevedra,Venmo,2.5,Spring
+779,29,Male,palencia,Debit Card,2.9,Summer
+780,60,Male,lleida,Cash,4.6,Spring
+781,34,Male,bizkaia,Cash,3.6,Spring
+782,30,Male,pontevedra,Credit Card,3.0,Winter
+783,28,Male,asturias,Cash,4.5,Summer
+784,63,Male,cordoba,PayPal,4.5,Winter
+785,31,Male,cordoba,Bank Transfer,3.2,Winter
+786,46,Male,castellon,PayPal,4.0,Spring
+787,70,Male,las_palmas,Bank Transfer,4.8,Winter
+788,53,Male,orense,Venmo,3.7,Spring
+789,50,Male,navarra,Bank Transfer,3.8,Summer
+790,33,Male,almeria,Credit Card,2.7,Fall
+791,22,Male,palencia,Bank Transfer,4.9,Summer
+792,50,Male,cuenca,PayPal,3.1,Summer
+793,34,Male,bizkaia,Venmo,4.2,Spring
+794,24,Male,jaen,Credit Card,3.8,Summer
+795,69,Male,alicante,Debit Card,4.2,Winter
+796,39,Male,cadiz,Venmo,4.6,Summer
+797,42,Male,badajoz,Credit Card,4.0,Fall
+798,42,Male,asturias,Debit Card,4.0,Fall
+799,29,Male,tarragona,PayPal,3.8,Spring
+800,55,Male,la_rioja,PayPal,3.3,Summer
+801,32,Male,las_palmas,Cash,2.6,Summer
+802,25,Male,sevilla,Credit Card,4.9,Fall
+803,38,Male,lleida,Bank Transfer,3.5,Winter
+804,32,Male,cordoba,Venmo,2.8,Winter
+805,43,Male,alicante,Venmo,2.6,Summer
+806,41,Male,navarra,Debit Card,3.7,Summer
+807,56,Male,guadalajara,PayPal,2.7,Summer
+808,27,Male,palencia,Credit Card,3.3,Winter
+809,46,Male,lleida,Cash,4.6,Fall
+810,48,Male,teruel,PayPal,4.9,Fall
+811,52,Male,las_palmas,Debit Card,4.9,Fall
+812,18,Male,orense,Venmo,2.7,Winter
+813,64,Male,castellon,Credit Card,3.2,Summer
+814,54,Male,las_palmas,Debit Card,2.9,Summer
+815,31,Male,bizkaia,PayPal,3.8,Winter
+816,30,Male,badajoz,Venmo,3.0,Spring
+817,26,Male,huelva,Debit Card,3.9,Summer
+818,25,Male,caceres,PayPal,4.7,Spring
+819,59,Male,salamanca,Debit Card,4.9,Winter
+820,55,Male,salamanca,Debit Card,4.8,Winter
+821,56,Male,caceres,Debit Card,2.5,Spring
+822,62,Male,palencia,Credit Card,3.9,Spring
+823,35,Male,huelva,Bank Transfer,3.4,Winter
+824,51,Male,orense,Credit Card,2.5,Winter
+825,61,Male,tarragona,Cash,3.0,Spring
+826,27,Male,bizkaia,Cash,3.6,Fall
+827,54,Male,murcia,PayPal,3.6,Winter
+828,31,Male,ciudad_real,Bank Transfer,4.1,Fall
+829,24,Male,albacete,PayPal,3.7,Fall
+830,42,Male,jaen,Credit Card,3.1,Spring
+831,41,Male,santa_cruz_de_tenerife,Credit Card,4.2,Fall
+832,66,Male,granada,Cash,4.3,Summer
+833,58,Male,malaga,Cash,2.5,Fall
+834,43,Male,teruel,Credit Card,3.5,Fall
+835,52,Male,santa_cruz_de_tenerife,Credit Card,3.1,Summer
+836,35,Male,zaragoza,Debit Card,2.5,Summer
+837,23,Male,segovia,Cash,3.9,Winter
+838,25,Male,santa_cruz_de_tenerife,Cash,4.9,Spring
+839,33,Male,badajoz,Credit Card,4.3,Spring
+840,48,Male,palencia,Debit Card,2.6,Spring
+841,42,Male,granada,PayPal,4.2,Summer
+842,55,Male,castellon,PayPal,2.6,Summer
+843,59,Male,cordoba,PayPal,3.6,Spring
+844,65,Male,baleares,PayPal,3.2,Summer
+845,59,Male,valencia,Venmo,4.4,Winter
+846,31,Male,cordoba,Venmo,3.7,Winter
+847,49,Male,madrid,Debit Card,3.7,Spring
+848,53,Male,cadiz,PayPal,4.1,Fall
+849,48,Male,valencia,Credit Card,3.6,Fall
+850,23,Male,zaragoza,PayPal,4.3,Spring
+851,68,Male,huelva,Venmo,2.6,Winter
+852,35,Male,almeria,Debit Card,2.9,Summer
+853,34,Male,la_rioja,Debit Card,4.2,Spring
+854,62,Male,cantabria,Cash,4.0,Winter
+855,21,Male,jaen,Venmo,4.3,Spring
+856,70,Male,zamora,Credit Card,3.0,Spring
+857,55,Male,la_coruna,Debit Card,3.5,Summer
+858,43,Male,zamora,Debit Card,3.0,Fall
+859,19,Male,pontevedra,PayPal,3.1,Fall
+860,47,Male,cantabria,Debit Card,4.0,Winter
+861,26,Male,las_palmas,Cash,4.1,Spring
+862,46,Male,ciudad_real,Credit Card,3.3,Spring
+863,19,Male,tarragona,PayPal,4.9,Winter
+864,49,Male,lugo,PayPal,3.9,Summer
+865,51,Male,barcelona,PayPal,3.9,Winter
+866,64,Male,barcelona,Venmo,4.8,Winter
+867,67,Male,valencia,PayPal,2.7,Summer
+868,37,Male,tarragona,Bank Transfer,3.1,Spring
+869,40,Male,navarra,Credit Card,3.2,Summer
+870,38,Male,cuenca,PayPal,2.7,Spring
+871,66,Male,gerona,Bank Transfer,2.5,Fall
+872,47,Male,soria,Debit Card,2.6,Spring
+873,56,Male,baleares,Cash,2.9,Spring
+874,51,Male,huelva,Venmo,4.2,Summer
+875,25,Male,jaen,Venmo,4.4,Fall
+876,37,Male,soria,Bank Transfer,4.1,Summer
+877,41,Male,almeria,Debit Card,3.8,Summer
+878,64,Male,huelva,Venmo,4.9,Winter
+879,23,Male,alicante,Debit Card,4.9,Summer
+880,62,Male,lugo,PayPal,4.1,Spring
+881,39,Male,malaga,Debit Card,3.1,Spring
+882,52,Male,bizkaia,Venmo,2.7,Summer
+883,50,Male,caceres,Cash,3.8,Fall
+884,28,Male,jaen,Bank Transfer,4.3,Fall
+885,67,Male,la_coruna,Bank Transfer,4.1,Winter
+886,41,Male,segovia,Debit Card,4.4,Fall
+887,19,Male,avila,Bank Transfer,3.6,Summer
+888,70,Male,lleida,PayPal,3.3,Winter
+889,49,Male,cuenca,Cash,3.6,Spring
+890,59,Male,burgos,Venmo,2.8,Fall
+891,52,Male,zaragoza,Credit Card,4.3,Spring
+892,20,Male,lleida,PayPal,3.9,Summer
+893,31,Male,barcelona,Debit Card,2.7,Summer
+894,33,Male,salamanca,Venmo,4.7,Spring
+895,44,Male,gipuzkoa,Debit Card,3.8,Spring
+896,40,Male,almeria,Debit Card,4.7,Spring
+897,69,Male,guadalajara,Cash,4.7,Spring
+898,29,Male,baleares,Venmo,3.4,Spring
+899,54,Male,segovia,Bank Transfer,3.5,Spring
+900,65,Male,toledo,PayPal,4.0,Summer
+901,54,Male,madrid,Bank Transfer,3.3,Fall
+902,60,Male,castellon,Cash,4.7,Summer
+903,43,Male,santa_cruz_de_tenerife,Cash,2.8,Summer
+904,44,Male,jaen,PayPal,3.3,Winter
+905,69,Male,ciudad_real,PayPal,2.9,Spring
+906,46,Male,cadiz,Venmo,2.8,Spring
+907,41,Male,alicante,Debit Card,4.2,Spring
+908,32,Male,cadiz,Credit Card,4.4,Winter
+909,26,Male,soria,PayPal,3.6,Winter
+910,61,Male,castellon,PayPal,2.7,Fall
+911,49,Male,asturias,Credit Card,3.4,Spring
+912,53,Male,badajoz,Bank Transfer,2.8,Winter
+913,24,Male,badajoz,Bank Transfer,3.4,Winter
+914,37,Male,leon,Cash,2.6,Fall
+915,43,Male,sevilla,Venmo,4.1,Summer
+916,31,Male,madrid,Credit Card,2.9,Winter
+917,49,Male,huesca,Venmo,2.7,Spring
+918,69,Male,bizkaia,Bank Transfer,3.7,Spring
+919,65,Male,gerona,Cash,4.3,Spring
+920,41,Male,murcia,Debit Card,2.6,Winter
+921,37,Male,soria,Cash,4.3,Summer
+922,70,Male,huelva,PayPal,4.1,Summer
+923,63,Male,alava,Credit Card,4.2,Fall
+924,55,Male,zaragoza,PayPal,4.2,Spring
+925,52,Male,almeria,Cash,3.1,Winter
+926,22,Male,jaen,Cash,4.9,Winter
+927,54,Male,leon,Cash,4.4,Spring
+928,28,Male,cantabria,Venmo,4.4,Summer
+929,67,Male,teruel,Cash,3.4,Winter
+930,59,Male,huesca,Debit Card,4.5,Fall
+931,26,Male,almeria,Credit Card,4.5,Fall
+932,24,Male,navarra,Bank Transfer,4.1,Winter
+933,62,Male,cadiz,Debit Card,3.2,Winter
+934,70,Male,cadiz,Debit Card,2.7,Spring
+935,45,Male,bizkaia,Bank Transfer,3.7,Spring
+936,58,Male,toledo,Bank Transfer,2.6,Fall
+937,31,Male,guadalajara,Cash,2.7,Summer
+938,32,Male,burgos,Venmo,2.7,Summer
+939,36,Male,caceres,Debit Card,4.8,Fall
+940,25,Male,lugo,Credit Card,4.8,Winter
+941,48,Male,palencia,PayPal,2.6,Spring
+942,39,Male,cadiz,PayPal,4.5,Winter
+943,26,Male,la_rioja,PayPal,3.2,Winter
+944,32,Male,lugo,Venmo,3.8,Winter
+945,54,Male,la_coruna,Cash,4.8,Spring
+946,38,Male,sevilla,Venmo,4.1,Summer
+947,46,Male,las_palmas,PayPal,2.8,Spring
+948,57,Male,huelva,Cash,3.9,Winter
+949,49,Male,salamanca,Venmo,4.9,Summer
+950,33,Male,salamanca,Venmo,3.4,Summer
+951,54,Male,asturias,PayPal,4.1,Winter
+952,47,Male,leon,Bank Transfer,2.9,Summer
+953,36,Male,ciudad_real,PayPal,3.1,Fall
+954,68,Male,murcia,Venmo,3.6,Spring
+955,60,Male,castellon,Credit Card,3.5,Fall
+956,55,Male,ciudad_real,PayPal,3.4,Summer
+957,29,Male,soria,Debit Card,2.9,Spring
+958,38,Male,ciudad_real,Cash,4.7,Spring
+959,70,Male,valencia,Credit Card,4.4,Winter
+960,36,Male,baleares,Cash,2.6,Spring
+961,18,Male,gipuzkoa,Venmo,4.4,Spring
+962,62,Male,guadalajara,Debit Card,3.7,Fall
+963,29,Male,murcia,Debit Card,4.4,Spring
+964,21,Male,malaga,Credit Card,2.5,Spring
+965,42,Male,lugo,Venmo,2.6,Spring
+966,43,Male,jaen,Credit Card,5.0,Spring
+967,58,Male,navarra,Cash,4.9,Spring
+968,27,Male,cordoba,Cash,3.7,Summer
+969,57,Male,alava,Bank Transfer,3.1,Summer
+970,40,Male,burgos,PayPal,3.2,Fall
+971,45,Male,badajoz,Cash,4.4,Winter
+972,47,Male,la_coruna,Credit Card,4.3,Summer
+973,61,Male,baleares,Credit Card,3.0,Winter
+974,60,Male,segovia,Bank Transfer,3.5,Fall
+975,69,Male,sevilla,Bank Transfer,3.6,Spring
+976,58,Male,albacete,Bank Transfer,3.8,Summer
+977,34,Male,pontevedra,Credit Card,3.6,Fall
+978,20,Male,barcelona,Cash,4.6,Spring
+979,56,Male,la_rioja,Credit Card,2.5,Summer
+980,64,Male,valencia,Debit Card,3.5,Fall
+981,56,Male,lleida,PayPal,4.0,Spring
+982,27,Male,alava,Credit Card,3.5,Spring
+983,35,Male,lleida,PayPal,3.2,Summer
+984,24,Male,cuenca,Venmo,3.5,Winter
+985,26,Male,segovia,Credit Card,3.4,Summer
+986,32,Male,lleida,Bank Transfer,5.0,Fall
+987,54,Male,tarragona,Bank Transfer,4.5,Spring
+988,62,Male,leon,PayPal,2.8,Summer
+989,50,Male,zamora,PayPal,4.9,Winter
+990,70,Male,lugo,Bank Transfer,3.1,Spring
+991,48,Male,huesca,Cash,4.8,Spring
+992,20,Male,palencia,Bank Transfer,2.7,Spring
+993,46,Male,guadalajara,Debit Card,4.6,Winter
+994,51,Male,tarragona,Cash,4.4,Winter
+995,53,Male,barcelona,Debit Card,3.2,Fall
+996,44,Male,toledo,Venmo,3.0,Spring
+997,29,Male,lugo,Bank Transfer,4.9,Summer
+998,64,Male,gipuzkoa,Cash,3.6,Spring
+999,51,Male,lugo,Bank Transfer,3.8,Spring
+1000,50,Male,palencia,Debit Card,2.9,Spring
+1001,43,Male,orense,Bank Transfer,3.9,Winter
+1002,61,Male,valencia,Debit Card,3.6,Fall
+1003,55,Male,murcia,Bank Transfer,3.5,Spring
+1004,56,Male,pontevedra,Cash,4.0,Fall
+1005,33,Male,almeria,Cash,4.8,Summer
+1006,43,Male,almeria,Debit Card,3.9,Winter
+1007,21,Male,zaragoza,Venmo,4.5,Summer
+1008,58,Male,valencia,Credit Card,4.8,Spring
+1009,41,Male,cuenca,PayPal,2.6,Spring
+1010,39,Male,guadalajara,Venmo,3.1,Summer
+1011,54,Male,murcia,Credit Card,4.7,Spring
+1012,43,Male,granada,Debit Card,2.9,Spring
+1013,28,Male,asturias,Credit Card,3.8,Summer
+1014,59,Male,zamora,Venmo,3.8,Summer
+1015,28,Male,cuenca,Debit Card,3.0,Summer
+1016,68,Male,la_coruna,Cash,4.1,Summer
+1017,20,Male,castellon,Bank Transfer,3.4,Summer
+1018,21,Male,granada,Credit Card,2.5,Fall
+1019,50,Male,bizkaia,Cash,4.9,Spring
+1020,32,Male,leon,Venmo,2.8,Winter
+1021,24,Male,almeria,Debit Card,4.5,Fall
+1022,55,Male,pontevedra,PayPal,4.9,Winter
+1023,61,Male,jaen,Cash,4.9,Winter
+1024,61,Male,almeria,Bank Transfer,3.5,Winter
+1025,28,Male,baleares,Venmo,3.5,Summer
+1026,60,Male,castellon,Credit Card,4.9,Winter
+1027,49,Male,murcia,PayPal,3.0,Winter
+1028,33,Male,jaen,Cash,2.8,Summer
+1029,45,Male,murcia,Cash,3.7,Summer
+1030,29,Male,orense,Venmo,3.6,Spring
+1031,58,Male,alicante,Debit Card,3.3,Winter
+1032,22,Male,pontevedra,Cash,3.4,Spring
+1033,55,Male,sevilla,Credit Card,4.0,Fall
+1034,19,Male,salamanca,Bank Transfer,4.6,Spring
+1035,68,Male,asturias,Bank Transfer,4.2,Fall
+1036,61,Male,guadalajara,Venmo,2.8,Fall
+1037,68,Male,jaen,Bank Transfer,3.7,Fall
+1038,52,Male,sevilla,Debit Card,3.4,Spring
+1039,41,Male,santa_cruz_de_tenerife,Bank Transfer,3.0,Fall
+1040,29,Male,leon,Venmo,4.8,Fall
+1041,68,Male,teruel,Cash,4.0,Fall
+1042,36,Male,alava,Cash,4.9,Summer
+1043,55,Male,la_rioja,Credit Card,4.9,Spring
+1044,28,Male,tarragona,Debit Card,3.3,Spring
+1045,39,Male,granada,Bank Transfer,4.4,Summer
+1046,54,Male,avila,PayPal,3.5,Fall
+1047,40,Male,caceres,Venmo,4.2,Winter
+1048,31,Male,gipuzkoa,Credit Card,4.2,Fall
+1049,30,Male,leon,Venmo,2.7,Fall
+1050,45,Male,toledo,Cash,2.8,Fall
+1051,48,Male,huesca,Venmo,3.8,Winter
+1052,45,Male,badajoz,PayPal,2.6,Fall
+1053,60,Male,cuenca,Credit Card,3.0,Fall
+1054,59,Male,pontevedra,Debit Card,3.3,Spring
+1055,18,Male,avila,PayPal,4.9,Winter
+1056,70,Male,lugo,Debit Card,3.3,Spring
+1057,20,Male,malaga,Venmo,2.9,Winter
+1058,65,Male,ciudad_real,Credit Card,4.4,Spring
+1059,29,Male,segovia,Bank Transfer,3.1,Summer
+1060,22,Male,zamora,Debit Card,2.5,Winter
+1061,27,Male,albacete,Debit Card,2.6,Summer
+1062,36,Male,zaragoza,Venmo,4.4,Summer
+1063,59,Male,segovia,Debit Card,2.6,Fall
+1064,62,Male,salamanca,Cash,3.3,Summer
+1065,34,Male,teruel,Credit Card,3.5,Spring
+1066,59,Male,salamanca,PayPal,4.1,Spring
+1067,49,Male,gipuzkoa,PayPal,4.0,Winter
+1068,18,Male,cantabria,PayPal,2.7,Summer
+1069,55,Male,guadalajara,Credit Card,2.5,Fall
+1070,38,Male,orense,Venmo,4.3,Fall
+1071,50,Male,barcelona,Debit Card,3.3,Summer
+1072,61,Male,santa_cruz_de_tenerife,Credit Card,2.6,Summer
+1073,48,Male,guadalajara,Debit Card,3.5,Fall
+1074,22,Male,segovia,Credit Card,4.0,Spring
+1075,48,Male,zamora,Bank Transfer,2.6,Fall
+1076,57,Male,murcia,Debit Card,4.9,Summer
+1077,33,Male,tarragona,Venmo,2.9,Spring
+1078,58,Male,leon,PayPal,3.7,Winter
+1079,37,Male,la_coruna,Credit Card,4.4,Fall
+1080,18,Male,guadalajara,Bank Transfer,4.4,Summer
+1081,65,Male,baleares,Cash,3.8,Fall
+1082,62,Male,soria,Credit Card,4.5,Spring
+1083,54,Male,malaga,Venmo,2.6,Winter
+1084,35,Male,zaragoza,Cash,3.3,Summer
+1085,34,Male,avila,Cash,4.1,Fall
+1086,25,Male,las_palmas,Venmo,3.0,Winter
+1087,53,Male,lleida,PayPal,3.0,Winter
+1088,45,Male,bizkaia,Bank Transfer,3.4,Winter
+1089,49,Male,lugo,PayPal,2.7,Winter
+1090,40,Male,huesca,PayPal,3.8,Spring
+1091,38,Male,ciudad_real,Cash,4.2,Spring
+1092,44,Male,caceres,Credit Card,4.7,Spring
+1093,68,Male,burgos,Venmo,4.1,Spring
+1094,60,Male,baleares,Venmo,4.2,Winter
+1095,25,Male,madrid,Cash,4.8,Winter
+1096,19,Male,valladolid,Bank Transfer,3.0,Summer
+1097,57,Male,navarra,Credit Card,2.6,Fall
+1098,58,Male,toledo,Bank Transfer,3.2,Summer
+1099,49,Male,huelva,Credit Card,3.6,Spring
+1100,19,Male,la_coruna,Bank Transfer,2.6,Fall
+1101,50,Male,barcelona,Credit Card,4.4,Spring
+1102,30,Male,cadiz,Cash,3.0,Fall
+1103,52,Male,malaga,Cash,2.9,Fall
+1104,35,Male,huesca,Debit Card,4.3,Spring
+1105,35,Male,pontevedra,Bank Transfer,3.1,Fall
+1106,33,Male,valladolid,Venmo,3.0,Spring
+1107,52,Male,madrid,Venmo,3.6,Winter
+1108,69,Male,huesca,Bank Transfer,2.8,Fall
+1109,27,Male,tarragona,Cash,2.8,Fall
+1110,66,Male,castellon,Venmo,4.9,Winter
+1111,28,Male,leon,Cash,3.0,Fall
+1112,22,Male,zamora,Credit Card,4.1,Summer
+1113,69,Male,zaragoza,PayPal,4.6,Spring
+1114,28,Male,badajoz,PayPal,4.8,Summer
+1115,55,Male,las_palmas,Bank Transfer,2.6,Fall
+1116,30,Male,albacete,Cash,4.0,Fall
+1117,67,Male,ciudad_real,PayPal,4.2,Winter
+1118,25,Male,cuenca,Credit Card,4.5,Spring
+1119,49,Male,segovia,PayPal,4.9,Summer
+1120,34,Male,las_palmas,Credit Card,3.1,Spring
+1121,22,Male,gerona,Debit Card,4.0,Winter
+1122,63,Male,jaen,Cash,3.2,Fall
+1123,70,Male,soria,Credit Card,4.3,Spring
+1124,36,Male,pontevedra,Cash,2.5,Fall
+1125,42,Male,cordoba,Cash,4.9,Spring
+1126,27,Male,badajoz,Bank Transfer,2.7,Summer
+1127,23,Male,soria,Venmo,3.4,Winter
+1128,50,Male,castellon,Debit Card,4.8,Spring
+1129,56,Male,albacete,Debit Card,4.7,Winter
+1130,37,Male,asturias,Venmo,4.7,Winter
+1131,67,Male,toledo,PayPal,3.9,Summer
+1132,67,Male,santa_cruz_de_tenerife,Bank Transfer,3.7,Spring
+1133,50,Male,avila,Cash,4.3,Spring
+1134,36,Male,teruel,Cash,4.1,Winter
+1135,62,Male,cuenca,Venmo,4.6,Summer
+1136,65,Male,castellon,Bank Transfer,3.6,Winter
+1137,23,Male,almeria,Cash,4.8,Summer
+1138,46,Male,valencia,Bank Transfer,2.8,Winter
+1139,18,Male,orense,Venmo,4.7,Summer
+1140,58,Male,huelva,Debit Card,3.9,Spring
+1141,31,Male,cantabria,Credit Card,2.6,Winter
+1142,39,Male,tarragona,PayPal,4.7,Winter
+1143,69,Male,alicante,Venmo,3.5,Spring
+1144,68,Male,jaen,PayPal,4.4,Winter
+1145,41,Male,salamanca,Bank Transfer,4.4,Fall
+1146,31,Male,palencia,Cash,3.0,Summer
+1147,48,Male,alicante,Bank Transfer,4.2,Summer
+1148,59,Male,la_rioja,Debit Card,4.3,Winter
+1149,34,Male,navarra,PayPal,2.6,Spring
+1150,21,Male,cordoba,Venmo,3.3,Spring
+1151,29,Male,guadalajara,Venmo,2.7,Winter
+1152,41,Male,murcia,Credit Card,4.2,Spring
+1153,62,Male,badajoz,PayPal,4.0,Fall
+1154,27,Male,cordoba,Bank Transfer,4.0,Summer
+1155,49,Male,toledo,Credit Card,2.9,Spring
+1156,67,Male,santa_cruz_de_tenerife,PayPal,2.6,Fall
+1157,20,Male,cantabria,Venmo,4.8,Summer
+1158,37,Male,alicante,Cash,4.4,Fall
+1159,69,Male,palencia,Bank Transfer,4.0,Summer
+1160,66,Male,cuenca,Venmo,3.6,Fall
+1161,37,Male,alicante,Venmo,3.2,Summer
+1162,63,Male,castellon,PayPal,3.1,Fall
+1163,47,Male,segovia,PayPal,4.2,Winter
+1164,26,Male,orense,Debit Card,3.0,Summer
+1165,68,Male,ciudad_real,PayPal,4.2,Winter
+1166,51,Male,navarra,Venmo,2.9,Winter
+1167,48,Male,tarragona,Venmo,3.7,Winter
+1168,60,Male,murcia,PayPal,3.6,Summer
+1169,68,Male,sevilla,Debit Card,3.6,Summer
+1170,25,Male,baleares,Cash,4.5,Fall
+1171,57,Male,soria,Cash,3.2,Spring
+1172,41,Male,huesca,Debit Card,3.9,Spring
+1173,59,Male,badajoz,Bank Transfer,4.6,Spring
+1174,44,Male,segovia,Cash,2.5,Winter
+1175,42,Male,alava,Bank Transfer,4.3,Winter
+1176,35,Male,soria,PayPal,4.1,Spring
+1177,36,Male,badajoz,PayPal,4.6,Winter
+1178,54,Male,albacete,Debit Card,4.8,Spring
+1179,37,Male,burgos,Debit Card,4.9,Spring
+1180,20,Male,almeria,Bank Transfer,2.8,Summer
+1181,23,Male,burgos,Cash,4.9,Spring
+1182,61,Male,santa_cruz_de_tenerife,Bank Transfer,3.5,Summer
+1183,37,Male,orense,PayPal,3.8,Spring
+1184,23,Male,castellon,Credit Card,4.5,Spring
+1185,63,Male,alicante,Credit Card,3.4,Fall
+1186,47,Male,navarra,Credit Card,3.9,Spring
+1187,63,Male,barcelona,Credit Card,4.1,Summer
+1188,56,Male,tarragona,Credit Card,3.0,Fall
+1189,68,Male,alicante,Credit Card,3.3,Summer
+1190,64,Male,asturias,Debit Card,4.9,Summer
+1191,62,Male,la_coruna,Credit Card,4.3,Winter
+1192,34,Male,badajoz,Venmo,4.1,Winter
+1193,49,Male,soria,Venmo,4.0,Summer
+1194,40,Male,huelva,Credit Card,5.0,Fall
+1195,50,Male,avila,Credit Card,3.1,Winter
+1196,25,Male,jaen,Venmo,4.0,Winter
+1197,30,Male,alicante,Bank Transfer,3.2,Winter
+1198,54,Male,sevilla,PayPal,3.9,Fall
+1199,40,Male,las_palmas,Cash,3.9,Summer
+1200,49,Male,madrid,Debit Card,4.5,Fall
+1201,27,Male,la_rioja,PayPal,4.4,Winter
+1202,27,Male,cantabria,Venmo,3.1,Summer
+1203,48,Male,guadalajara,Venmo,2.9,Spring
+1204,40,Male,zaragoza,Bank Transfer,3.7,Winter
+1205,67,Male,madrid,Credit Card,3.2,Spring
+1206,52,Male,tarragona,Bank Transfer,3.5,Spring
+1207,22,Male,cordoba,Venmo,3.0,Fall
+1208,62,Male,teruel,Credit Card,4.1,Summer
+1209,20,Male,segovia,Debit Card,2.9,Winter
+1210,41,Male,pontevedra,Bank Transfer,3.8,Winter
+1211,34,Male,madrid,Cash,4.1,Fall
+1212,23,Male,cadiz,Venmo,4.6,Spring
+1213,32,Male,salamanca,Credit Card,2.5,Summer
+1214,68,Male,bizkaia,Debit Card,3.7,Spring
+1215,30,Male,sevilla,Cash,3.8,Fall
+1216,66,Male,palencia,Credit Card,2.6,Winter
+1217,62,Male,badajoz,Venmo,3.7,Summer
+1218,50,Male,barcelona,Cash,2.6,Fall
+1219,55,Male,pontevedra,Cash,3.1,Spring
+1220,19,Male,segovia,Credit Card,2.5,Winter
+1221,67,Male,teruel,Bank Transfer,4.9,Winter
+1222,18,Male,palencia,Cash,4.5,Winter
+1223,58,Male,pontevedra,Bank Transfer,3.4,Fall
+1224,69,Male,gipuzkoa,Bank Transfer,3.9,Winter
+1225,62,Male,zamora,Venmo,3.7,Summer
+1226,28,Male,guadalajara,Debit Card,2.6,Fall
+1227,53,Male,toledo,Venmo,3.4,Fall
+1228,27,Male,lugo,Bank Transfer,4.9,Spring
+1229,55,Male,burgos,Cash,3.9,Winter
+1230,34,Male,la_coruna,Bank Transfer,3.6,Winter
+1231,25,Male,malaga,Venmo,4.6,Spring
+1232,66,Male,ciudad_real,Credit Card,4.0,Spring
+1233,57,Male,leon,Debit Card,3.6,Summer
+1234,46,Male,valencia,Venmo,3.5,Winter
+1235,38,Male,teruel,Bank Transfer,4.1,Fall
+1236,23,Male,ciudad_real,PayPal,3.0,Spring
+1237,42,Male,huelva,Debit Card,4.4,Summer
+1238,25,Male,zamora,Credit Card,4.4,Spring
+1239,55,Male,huesca,Venmo,3.7,Winter
+1240,62,Male,huesca,Debit Card,4.8,Spring
+1241,41,Male,alicante,Debit Card,2.9,Winter
+1242,58,Male,burgos,Credit Card,3.1,Winter
+1243,56,Male,huesca,Bank Transfer,4.0,Summer
+1244,25,Male,avila,Debit Card,3.0,Spring
+1245,70,Male,barcelona,Cash,3.9,Summer
+1246,42,Male,la_coruna,Bank Transfer,3.4,Fall
+1247,27,Male,avila,Cash,2.7,Winter
+1248,65,Male,zaragoza,Venmo,3.5,Spring
+1249,62,Male,cuenca,Credit Card,3.0,Winter
+1250,62,Male,zamora,Venmo,4.5,Winter
+1251,52,Male,sevilla,Cash,4.1,Winter
+1252,56,Male,valencia,Credit Card,5.0,Spring
+1253,28,Male,leon,Cash,4.0,Fall
+1254,39,Male,gipuzkoa,PayPal,4.9,Winter
+1255,54,Male,avila,Credit Card,3.3,Spring
+1256,30,Male,badajoz,Cash,4.1,Fall
+1257,45,Male,gipuzkoa,Cash,3.6,Winter
+1258,68,Male,albacete,Cash,3.0,Spring
+1259,47,Male,santa_cruz_de_tenerife,Debit Card,4.1,Spring
+1260,68,Male,salamanca,Credit Card,3.9,Fall
+1261,63,Male,badajoz,Debit Card,4.1,Spring
+1262,20,Male,cuenca,Credit Card,2.8,Summer
+1263,29,Male,asturias,Venmo,4.8,Winter
+1264,41,Male,las_palmas,Credit Card,4.6,Winter
+1265,52,Male,ciudad_real,Venmo,2.5,Winter
+1266,32,Male,soria,Bank Transfer,2.7,Spring
+1267,20,Male,barcelona,Debit Card,4.0,Fall
+1268,47,Male,segovia,Cash,2.7,Spring
+1269,23,Male,cuenca,Debit Card,2.9,Winter
+1270,43,Male,cuenca,PayPal,3.0,Spring
+1271,67,Male,guadalajara,Cash,3.3,Fall
+1272,70,Male,madrid,PayPal,4.3,Spring
+1273,35,Male,murcia,Bank Transfer,4.4,Winter
+1274,41,Male,guadalajara,Credit Card,4.1,Spring
+1275,54,Male,leon,PayPal,3.1,Spring
+1276,55,Male,huesca,PayPal,4.5,Fall
+1277,51,Male,badajoz,Bank Transfer,4.8,Spring
+1278,19,Male,almeria,Venmo,5.0,Spring
+1279,28,Male,almeria,Venmo,2.8,Fall
+1280,63,Male,almeria,Debit Card,3.7,Fall
+1281,30,Male,cordoba,Venmo,4.4,Winter
+1282,29,Male,barcelona,Venmo,4.5,Spring
+1283,24,Male,caceres,Venmo,3.0,Winter
+1284,69,Male,granada,Debit Card,3.9,Winter
+1285,65,Male,valencia,PayPal,3.9,Spring
+1286,64,Male,salamanca,Bank Transfer,3.5,Fall
+1287,40,Male,madrid,Debit Card,4.9,Winter
+1288,24,Male,bizkaia,PayPal,3.4,Winter
+1289,66,Male,baleares,PayPal,4.1,Winter
+1290,35,Male,granada,PayPal,2.9,Fall
+1291,67,Male,segovia,PayPal,3.4,Spring
+1292,69,Male,salamanca,Debit Card,3.2,Spring
+1293,26,Male,barcelona,Bank Transfer,3.9,Summer
+1294,23,Male,santa_cruz_de_tenerife,Debit Card,4.1,Fall
+1295,27,Male,burgos,Cash,4.5,Summer
+1296,30,Male,cuenca,PayPal,2.8,Fall
+1297,48,Male,lugo,Cash,2.8,Spring
+1298,44,Male,zamora,Venmo,4.6,Summer
+1299,29,Male,avila,Bank Transfer,3.0,Summer
+1300,29,Male,zamora,Venmo,3.6,Fall
+1301,67,Male,castellon,Credit Card,4.5,Spring
+1302,42,Male,soria,Debit Card,5.0,Fall
+1303,23,Male,albacete,Credit Card,2.9,Fall
+1304,34,Male,granada,Credit Card,3.1,Summer
+1305,64,Male,alava,PayPal,4.0,Spring
+1306,31,Male,gerona,PayPal,4.5,Spring
+1307,54,Male,badajoz,PayPal,4.5,Winter
+1308,23,Male,santa_cruz_de_tenerife,PayPal,3.1,Summer
+1309,59,Male,cordoba,Credit Card,4.4,Summer
+1310,32,Male,jaen,Cash,4.7,Summer
+1311,43,Male,salamanca,Credit Card,3.1,Winter
+1312,32,Male,cantabria,Venmo,4.2,Fall
+1313,66,Male,huelva,Bank Transfer,3.0,Winter
+1314,70,Male,alicante,Credit Card,2.6,Summer
+1315,42,Male,lugo,Debit Card,3.4,Summer
+1316,56,Male,caceres,Debit Card,4.2,Spring
+1317,28,Male,albacete,Debit Card,4.6,Spring
+1318,28,Male,las_palmas,Cash,2.8,Spring
+1319,52,Male,zamora,Credit Card,2.7,Spring
+1320,65,Male,la_coruna,Bank Transfer,4.0,Spring
+1321,56,Male,baleares,Debit Card,3.1,Fall
+1322,59,Male,ciudad_real,Bank Transfer,3.7,Winter
+1323,23,Male,malaga,Bank Transfer,4.0,Winter
+1324,58,Male,huesca,Debit Card,4.6,Spring
+1325,39,Male,cadiz,Credit Card,3.8,Summer
+1326,28,Male,teruel,Cash,3.5,Summer
+1327,40,Male,cordoba,Cash,4.6,Spring
+1328,52,Male,las_palmas,Cash,2.8,Winter
+1329,37,Male,soria,Bank Transfer,3.7,Winter
+1330,70,Male,asturias,PayPal,3.3,Fall
+1331,30,Male,burgos,PayPal,2.9,Fall
+1332,38,Male,avila,PayPal,3.2,Spring
+1333,66,Male,orense,Bank Transfer,4.3,Spring
+1334,29,Male,madrid,Bank Transfer,2.7,Winter
+1335,46,Male,baleares,Venmo,4.2,Spring
+1336,56,Male,burgos,Credit Card,4.8,Fall
+1337,23,Male,lugo,Debit Card,4.8,Spring
+1338,37,Male,guadalajara,Credit Card,3.4,Spring
+1339,56,Male,tarragona,PayPal,2.6,Winter
+1340,36,Male,cantabria,Bank Transfer,5.0,Winter
+1341,40,Male,navarra,Debit Card,4.4,Fall
+1342,26,Male,cuenca,Bank Transfer,2.9,Fall
+1343,57,Male,leon,Bank Transfer,3.4,Summer
+1344,68,Male,orense,Bank Transfer,3.4,Spring
+1345,56,Male,valladolid,Cash,4.9,Fall
+1346,40,Male,valladolid,Venmo,3.6,Fall
+1347,44,Male,gipuzkoa,Venmo,3.0,Winter
+1348,44,Male,asturias,Bank Transfer,3.9,Summer
+1349,19,Male,jaen,Credit Card,3.2,Spring
+1350,21,Male,barcelona,Cash,3.2,Spring
+1351,31,Male,segovia,Cash,4.3,Fall
+1352,30,Male,valladolid,Bank Transfer,2.8,Summer
+1353,65,Male,albacete,Credit Card,4.5,Spring
+1354,39,Male,soria,Cash,4.1,Winter
+1355,64,Male,bizkaia,Bank Transfer,3.6,Spring
+1356,59,Male,santa_cruz_de_tenerife,PayPal,3.0,Summer
+1357,49,Male,murcia,Bank Transfer,4.0,Spring
+1358,24,Male,pontevedra,Cash,3.5,Summer
+1359,19,Male,jaen,Venmo,2.5,Spring
+1360,27,Male,barcelona,Bank Transfer,4.3,Winter
+1361,56,Male,gerona,Bank Transfer,2.8,Fall
+1362,49,Male,cordoba,Debit Card,3.7,Fall
+1363,41,Male,gipuzkoa,Cash,4.3,Fall
+1364,36,Male,cantabria,PayPal,4.0,Summer
+1365,68,Male,jaen,Cash,4.7,Fall
+1366,28,Male,soria,Bank Transfer,4.5,Winter
+1367,45,Male,soria,Credit Card,3.1,Fall
+1368,60,Male,burgos,Cash,3.8,Fall
+1369,21,Male,segovia,Cash,4.9,Summer
+1370,32,Male,toledo,Venmo,3.2,Winter
+1371,27,Male,avila,Bank Transfer,2.9,Summer
+1372,40,Male,teruel,Credit Card,2.8,Spring
+1373,64,Male,leon,PayPal,4.0,Fall
+1374,18,Male,cuenca,Cash,2.6,Winter
+1375,22,Male,baleares,Bank Transfer,2.7,Fall
+1376,42,Male,zamora,Credit Card,4.1,Spring
+1377,57,Male,orense,PayPal,5.0,Spring
+1378,33,Male,bizkaia,Venmo,3.0,Spring
+1379,37,Male,tarragona,Venmo,3.6,Fall
+1380,21,Male,soria,Venmo,2.8,Fall
+1381,51,Male,alicante,Cash,4.6,Winter
+1382,30,Male,santa_cruz_de_tenerife,Venmo,2.9,Winter
+1383,68,Male,malaga,Bank Transfer,4.8,Winter
+1384,36,Male,cadiz,Venmo,3.3,Spring
+1385,46,Male,gipuzkoa,Bank Transfer,4.6,Fall
+1386,41,Male,cantabria,Bank Transfer,2.6,Fall
+1387,68,Male,la_rioja,Debit Card,4.0,Fall
+1388,21,Male,alicante,Credit Card,3.8,Winter
+1389,62,Male,segovia,Cash,3.9,Spring
+1390,59,Male,zaragoza,Debit Card,2.6,Fall
+1391,25,Male,salamanca,Debit Card,4.3,Summer
+1392,53,Male,murcia,Credit Card,3.6,Winter
+1393,31,Male,bizkaia,Venmo,4.2,Spring
+1394,46,Male,cantabria,PayPal,3.9,Spring
+1395,26,Male,alava,Cash,4.7,Fall
+1396,47,Male,zamora,PayPal,2.8,Spring
+1397,37,Male,zamora,Debit Card,3.0,Winter
+1398,55,Male,castellon,PayPal,4.7,Summer
+1399,30,Male,teruel,Credit Card,2.5,Summer
+1400,19,Male,cuenca,Venmo,3.1,Winter
+1401,36,Male,barcelona,Credit Card,3.6,Fall
+1402,23,Male,palencia,PayPal,3.5,Fall
+1403,62,Male,jaen,PayPal,3.1,Summer
+1404,26,Male,zamora,Credit Card,3.6,Spring
+1405,36,Male,bizkaia,Debit Card,3.5,Winter
+1406,33,Male,las_palmas,Credit Card,2.7,Winter
+1407,32,Male,ciudad_real,Debit Card,3.6,Spring
+1408,56,Male,alava,Credit Card,4.5,Spring
+1409,58,Male,barcelona,Venmo,4.1,Winter
+1410,34,Male,albacete,Cash,4.2,Spring
+1411,61,Male,cordoba,Debit Card,4.0,Summer
+1412,48,Male,caceres,Venmo,2.8,Summer
+1413,25,Male,baleares,Venmo,2.6,Summer
+1414,51,Male,leon,Bank Transfer,2.7,Fall
+1415,29,Male,huelva,Credit Card,4.5,Summer
+1416,54,Male,gipuzkoa,Credit Card,3.7,Winter
+1417,48,Male,leon,Cash,3.4,Summer
+1418,62,Male,avila,Debit Card,4.6,Spring
+1419,18,Male,murcia,Venmo,4.1,Summer
+1420,43,Male,caceres,Debit Card,2.6,Summer
+1421,22,Male,santa_cruz_de_tenerife,PayPal,4.6,Summer
+1422,68,Male,las_palmas,Bank Transfer,3.0,Spring
+1423,44,Male,caceres,PayPal,3.4,Fall
+1424,51,Male,cordoba,Venmo,3.5,Fall
+1425,66,Male,tarragona,Bank Transfer,3.5,Fall
+1426,59,Male,navarra,Credit Card,3.7,Winter
+1427,60,Male,barcelona,PayPal,4.8,Summer
+1428,31,Male,burgos,Credit Card,4.9,Summer
+1429,20,Male,huelva,PayPal,4.9,Summer
+1430,24,Male,cordoba,Credit Card,4.7,Fall
+1431,48,Male,burgos,Credit Card,4.9,Summer
+1432,39,Male,asturias,Venmo,2.9,Fall
+1433,34,Male,leon,Debit Card,4.4,Winter
+1434,70,Male,avila,Debit Card,3.2,Winter
+1435,59,Male,baleares,Debit Card,4.6,Summer
+1436,45,Male,asturias,Cash,4.0,Fall
+1437,35,Male,santa_cruz_de_tenerife,PayPal,3.7,Winter
+1438,69,Male,cordoba,Cash,4.2,Winter
+1439,58,Male,zaragoza,Debit Card,2.9,Spring
+1440,25,Male,asturias,Cash,4.8,Summer
+1441,27,Male,huesca,Venmo,4.4,Spring
+1442,34,Male,la_coruna,Venmo,3.4,Summer
+1443,53,Male,avila,Credit Card,2.8,Spring
+1444,58,Male,badajoz,Cash,4.2,Fall
+1445,32,Male,orense,Cash,3.8,Fall
+1446,64,Male,zaragoza,Credit Card,3.1,Fall
+1447,63,Male,leon,Credit Card,3.2,Summer
+1448,23,Male,burgos,PayPal,3.0,Summer
+1449,64,Male,soria,Credit Card,3.6,Summer
+1450,18,Male,lleida,Cash,2.5,Winter
+1451,25,Male,bizkaia,Cash,3.4,Winter
+1452,54,Male,orense,PayPal,2.5,Fall
+1453,60,Male,huesca,Bank Transfer,4.7,Spring
+1454,36,Male,gerona,Bank Transfer,3.2,Winter
+1455,66,Male,toledo,Credit Card,2.9,Winter
+1456,60,Male,valencia,PayPal,4.9,Fall
+1457,59,Male,cadiz,PayPal,2.7,Spring
+1458,58,Male,castellon,Venmo,4.7,Spring
+1459,35,Male,madrid,Venmo,2.9,Spring
+1460,20,Male,gipuzkoa,Venmo,4.8,Winter
+1461,70,Male,tarragona,Venmo,4.6,Fall
+1462,54,Male,murcia,Venmo,5.0,Summer
+1463,38,Male,la_rioja,Venmo,4.8,Summer
+1464,54,Male,avila,Bank Transfer,4.9,Summer
+1465,33,Male,alicante,Bank Transfer,4.6,Winter
+1466,46,Male,bizkaia,Cash,3.9,Winter
+1467,58,Male,gipuzkoa,PayPal,4.5,Summer
+1468,30,Male,lugo,Debit Card,4.7,Winter
+1469,42,Male,barcelona,Cash,3.9,Fall
+1470,28,Male,bizkaia,PayPal,4.4,Winter
+1471,43,Male,albacete,Cash,3.9,Spring
+1472,31,Male,orense,Venmo,2.8,Spring
+1473,39,Male,teruel,Cash,3.5,Spring
+1474,69,Male,cadiz,Credit Card,4.3,Fall
+1475,31,Male,navarra,Credit Card,3.9,Fall
+1476,44,Male,castellon,Cash,4.0,Spring
+1477,39,Male,santa_cruz_de_tenerife,Credit Card,4.1,Fall
+1478,24,Male,lleida,PayPal,4.3,Summer
+1479,28,Male,badajoz,Venmo,4.2,Summer
+1480,48,Male,zamora,Bank Transfer,4.0,Spring
+1481,39,Male,castellon,Cash,3.6,Fall
+1482,64,Male,cantabria,PayPal,3.3,Spring
+1483,28,Male,pontevedra,Bank Transfer,4.1,Spring
+1484,39,Male,segovia,Debit Card,4.7,Summer
+1485,49,Male,segovia,Venmo,4.4,Summer
+1486,22,Male,guadalajara,Cash,3.4,Spring
+1487,25,Male,zaragoza,Venmo,5.0,Spring
+1488,40,Male,madrid,PayPal,4.6,Summer
+1489,23,Male,tarragona,Credit Card,4.0,Winter
+1490,24,Male,cordoba,Venmo,4.1,Summer
+1491,66,Male,soria,Venmo,4.9,Spring
+1492,27,Male,lleida,Bank Transfer,2.7,Summer
+1493,62,Male,baleares,Venmo,4.5,Summer
+1494,70,Male,palencia,Credit Card,2.7,Fall
+1495,43,Male,lugo,Bank Transfer,3.0,Spring
+1496,45,Male,santa_cruz_de_tenerife,PayPal,4.5,Winter
+1497,63,Male,almeria,Venmo,5.0,Winter
+1498,69,Male,huesca,Debit Card,3.8,Spring
+1499,59,Male,valencia,Venmo,3.1,Summer
+1500,19,Male,leon,Credit Card,3.4,Fall
+1501,63,Male,castellon,Debit Card,4.8,Summer
+1502,37,Male,santa_cruz_de_tenerife,Debit Card,2.7,Spring
+1503,37,Male,asturias,Cash,3.2,Summer
+1504,50,Male,cuenca,Cash,3.9,Fall
+1505,60,Male,la_coruna,Bank Transfer,4.2,Winter
+1506,46,Male,lleida,Cash,3.0,Summer
+1507,35,Male,pontevedra,PayPal,3.0,Fall
+1508,66,Male,lugo,Venmo,3.7,Winter
+1509,35,Male,burgos,Cash,4.4,Spring
+1510,20,Male,jaen,Debit Card,4.6,Summer
+1511,55,Male,teruel,Venmo,3.0,Fall
+1512,34,Male,gerona,Credit Card,3.6,Winter
+1513,60,Male,teruel,PayPal,3.9,Winter
+1514,22,Male,alicante,Cash,4.1,Spring
+1515,26,Male,salamanca,Venmo,3.9,Winter
+1516,39,Male,jaen,Cash,3.9,Fall
+1517,20,Male,tarragona,Bank Transfer,4.5,Winter
+1518,57,Male,almeria,Cash,3.4,Spring
+1519,68,Male,alicante,Venmo,4.1,Winter
+1520,50,Male,huelva,PayPal,4.9,Fall
+1521,21,Male,sevilla,Cash,4.4,Summer
+1522,29,Male,teruel,Bank Transfer,2.7,Summer
+1523,38,Male,lugo,Debit Card,4.8,Spring
+1524,54,Male,bizkaia,Debit Card,3.3,Summer
+1525,22,Male,gipuzkoa,Cash,4.4,Summer
+1526,29,Male,madrid,Cash,4.6,Winter
+1527,41,Male,castellon,PayPal,3.1,Summer
+1528,26,Male,asturias,Debit Card,4.5,Fall
+1529,69,Male,lleida,Venmo,4.0,Spring
+1530,20,Male,cadiz,Credit Card,3.1,Winter
+1531,59,Male,alicante,Bank Transfer,3.9,Spring
+1532,63,Male,caceres,PayPal,4.5,Spring
+1533,68,Male,gerona,PayPal,4.4,Winter
+1534,50,Male,lleida,Bank Transfer,3.6,Summer
+1535,55,Male,almeria,Venmo,3.4,Summer
+1536,36,Male,ciudad_real,Venmo,4.0,Fall
+1537,18,Male,navarra,Cash,2.6,Summer
+1538,68,Male,cantabria,Venmo,3.2,Spring
+1539,56,Male,albacete,Venmo,3.2,Fall
+1540,32,Male,badajoz,Cash,5.0,Spring
+1541,28,Male,avila,Bank Transfer,2.9,Winter
+1542,24,Male,badajoz,Cash,2.9,Winter
+1543,59,Male,salamanca,PayPal,3.5,Winter
+1544,56,Male,palencia,Venmo,4.0,Fall
+1545,30,Male,cordoba,Debit Card,3.9,Spring
+1546,48,Male,baleares,Bank Transfer,4.9,Winter
+1547,60,Male,la_coruna,Bank Transfer,3.8,Summer
+1548,46,Male,leon,Cash,3.5,Summer
+1549,69,Male,la_rioja,Bank Transfer,3.7,Summer
+1550,19,Male,navarra,Debit Card,2.9,Spring
+1551,66,Male,alava,Bank Transfer,2.8,Summer
+1552,64,Male,zaragoza,Credit Card,3.7,Summer
+1553,54,Male,segovia,Credit Card,3.0,Spring
+1554,27,Male,castellon,Debit Card,4.8,Spring
+1555,64,Male,ciudad_real,Cash,2.7,Winter
+1556,43,Male,pontevedra,Cash,4.5,Winter
+1557,43,Male,madrid,Credit Card,2.7,Fall
+1558,27,Male,valladolid,PayPal,3.5,Fall
+1559,35,Male,murcia,Credit Card,3.5,Fall
+1560,43,Male,soria,PayPal,4.5,Fall
+1561,57,Male,zamora,Debit Card,3.8,Winter
+1562,50,Male,valladolid,Bank Transfer,3.8,Summer
+1563,37,Male,zamora,Venmo,3.2,Winter
+1564,68,Male,alicante,Cash,4.3,Fall
+1565,22,Male,las_palmas,Debit Card,4.5,Summer
+1566,58,Male,guadalajara,PayPal,4.2,Fall
+1567,48,Male,caceres,Cash,3.0,Winter
+1568,30,Male,huelva,Cash,4.1,Spring
+1569,51,Male,toledo,Debit Card,4.6,Spring
+1570,20,Male,leon,Debit Card,2.9,Summer
+1571,30,Male,alicante,Bank Transfer,4.8,Winter
+1572,28,Male,palencia,Bank Transfer,4.5,Winter
+1573,37,Male,tarragona,Debit Card,3.4,Summer
+1574,36,Male,lleida,Debit Card,4.3,Summer
+1575,18,Male,gipuzkoa,PayPal,4.2,Spring
+1576,52,Male,pontevedra,Cash,3.6,Spring
+1577,56,Male,santa_cruz_de_tenerife,PayPal,3.7,Spring
+1578,68,Male,orense,Venmo,4.0,Spring
+1579,62,Male,albacete,PayPal,4.9,Winter
+1580,35,Male,barcelona,Bank Transfer,3.1,Summer
+1581,65,Male,tarragona,Cash,3.7,Summer
+1582,69,Male,teruel,Cash,4.2,Fall
+1583,28,Male,gipuzkoa,Cash,2.5,Spring
+1584,37,Male,castellon,Venmo,4.3,Summer
+1585,41,Male,burgos,Credit Card,3.1,Spring
+1586,37,Male,alicante,Debit Card,3.0,Fall
+1587,25,Male,zamora,Bank Transfer,4.0,Fall
+1588,41,Male,zaragoza,Credit Card,3.5,Summer
+1589,48,Male,segovia,Venmo,3.2,Winter
+1590,42,Male,castellon,Cash,2.7,Summer
+1591,54,Male,la_coruna,PayPal,3.0,Winter
+1592,18,Male,ciudad_real,PayPal,2.9,Winter
+1593,56,Male,toledo,Bank Transfer,3.3,Summer
+1594,61,Male,palencia,Bank Transfer,4.9,Spring
+1595,40,Male,jaen,Cash,3.7,Summer
+1596,34,Male,burgos,Debit Card,3.5,Spring
+1597,42,Male,gerona,Debit Card,4.7,Fall
+1598,43,Male,cantabria,Bank Transfer,2.6,Winter
+1599,47,Male,sevilla,Venmo,4.1,Fall
+1600,48,Male,la_coruna,Debit Card,2.8,Winter
+1601,20,Male,jaen,PayPal,4.7,Spring
+1602,65,Male,madrid,Credit Card,2.9,Spring
+1603,54,Male,zaragoza,Venmo,2.8,Winter
+1604,23,Male,navarra,Debit Card,4.3,Summer
+1605,18,Male,alicante,Credit Card,4.8,Summer
+1606,70,Male,soria,Credit Card,3.4,Winter
+1607,55,Male,jaen,PayPal,4.3,Spring
+1608,49,Male,tarragona,Debit Card,2.7,Fall
+1609,26,Male,palencia,Bank Transfer,4.6,Fall
+1610,33,Male,segovia,Venmo,4.1,Fall
+1611,20,Male,madrid,PayPal,3.4,Spring
+1612,41,Male,gerona,Debit Card,4.5,Winter
+1613,18,Male,las_palmas,Venmo,4.4,Summer
+1614,26,Male,orense,Credit Card,4.0,Summer
+1615,30,Male,granada,Cash,3.4,Summer
+1616,64,Male,alicante,Cash,3.2,Fall
+1617,26,Male,navarra,Cash,3.4,Spring
+1618,43,Male,albacete,Credit Card,4.3,Winter
+1619,63,Male,orense,Debit Card,5.0,Summer
+1620,57,Male,valladolid,Venmo,3.5,Winter
+1621,25,Male,la_coruna,PayPal,3.1,Winter
+1622,68,Male,lugo,Debit Card,3.9,Summer
+1623,31,Male,la_coruna,Bank Transfer,4.0,Winter
+1624,64,Male,lugo,Debit Card,3.5,Summer
+1625,38,Male,cantabria,PayPal,3.6,Winter
+1626,34,Male,huesca,PayPal,3.0,Winter
+1627,32,Male,baleares,Credit Card,2.6,Summer
+1628,69,Male,tarragona,Credit Card,2.9,Winter
+1629,45,Male,jaen,Cash,3.1,Winter
+1630,35,Male,sevilla,Venmo,3.3,Spring
+1631,63,Male,badajoz,Venmo,2.9,Summer
+1632,65,Male,cantabria,Bank Transfer,3.9,Summer
+1633,35,Male,la_coruna,Debit Card,4.7,Summer
+1634,54,Male,alicante,Debit Card,4.4,Spring
+1635,28,Male,castellon,Cash,3.6,Summer
+1636,68,Male,zaragoza,Cash,3.2,Summer
+1637,58,Male,valencia,Cash,4.0,Fall
+1638,35,Male,sevilla,Venmo,3.5,Spring
+1639,68,Male,las_palmas,Venmo,4.6,Spring
+1640,41,Male,caceres,PayPal,3.3,Summer
+1641,65,Male,caceres,PayPal,4.0,Spring
+1642,50,Male,almeria,Bank Transfer,3.4,Summer
+1643,18,Male,alava,PayPal,4.2,Spring
+1644,38,Male,alicante,PayPal,3.9,Summer
+1645,68,Male,teruel,Debit Card,3.9,Summer
+1646,53,Male,santa_cruz_de_tenerife,Venmo,2.8,Summer
+1647,58,Male,barcelona,Bank Transfer,3.7,Summer
+1648,34,Male,toledo,Debit Card,4.9,Summer
+1649,36,Male,avila,Credit Card,2.6,Summer
+1650,58,Male,soria,Credit Card,4.9,Summer
+1651,60,Male,jaen,Credit Card,3.4,Winter
+1652,59,Male,burgos,Debit Card,3.9,Winter
+1653,65,Male,caceres,Bank Transfer,4.0,Summer
+1654,31,Male,zamora,Debit Card,3.0,Winter
+1655,43,Male,granada,Credit Card,2.6,Spring
+1656,37,Male,guadalajara,PayPal,3.2,Spring
+1657,21,Male,barcelona,PayPal,2.6,Spring
+1658,69,Male,tarragona,Debit Card,3.2,Spring
+1659,32,Male,madrid,Cash,4.1,Spring
+1660,53,Male,valladolid,Venmo,3.9,Fall
+1661,59,Male,albacete,Venmo,4.1,Winter
+1662,64,Male,valladolid,Debit Card,2.7,Summer
+1663,63,Male,huesca,Debit Card,4.6,Winter
+1664,43,Male,sevilla,Cash,3.5,Summer
+1665,19,Male,valencia,PayPal,5.0,Spring
+1666,40,Male,murcia,Venmo,3.4,Fall
+1667,51,Male,santa_cruz_de_tenerife,PayPal,3.1,Summer
+1668,51,Male,valencia,Bank Transfer,3.4,Winter
+1669,66,Male,alicante,Debit Card,4.0,Summer
+1670,42,Male,cuenca,Bank Transfer,2.7,Winter
+1671,22,Male,cordoba,Cash,3.6,Fall
+1672,31,Male,bizkaia,Bank Transfer,4.0,Winter
+1673,18,Male,teruel,Venmo,3.8,Fall
+1674,21,Male,palencia,Venmo,3.4,Fall
+1675,35,Male,valladolid,Debit Card,3.2,Winter
+1676,35,Male,salamanca,Credit Card,4.7,Spring
+1677,27,Male,badajoz,Bank Transfer,3.1,Winter
+1678,65,Male,bizkaia,Debit Card,3.3,Summer
+1679,41,Male,badajoz,Venmo,4.8,Summer
+1680,60,Male,madrid,Debit Card,4.5,Fall
+1681,61,Male,alicante,Credit Card,3.4,Summer
+1682,24,Male,lleida,Credit Card,3.7,Winter
+1683,65,Male,badajoz,Credit Card,4.9,Fall
+1684,23,Male,gerona,Venmo,3.5,Spring
+1685,30,Male,zamora,PayPal,4.6,Spring
+1686,33,Male,ciudad_real,PayPal,4.6,Winter
+1687,22,Male,valladolid,Cash,4.2,Fall
+1688,67,Male,alicante,PayPal,3.7,Winter
+1689,28,Male,sevilla,Venmo,3.0,Winter
+1690,32,Male,la_coruna,Bank Transfer,4.6,Winter
+1691,40,Male,avila,Cash,3.2,Summer
+1692,64,Male,toledo,Cash,3.5,Summer
+1693,56,Male,tarragona,Cash,2.6,Winter
+1694,63,Male,castellon,Bank Transfer,4.9,Fall
+1695,20,Male,valencia,Debit Card,2.7,Summer
+1696,54,Male,albacete,PayPal,4.7,Fall
+1697,31,Male,alava,Credit Card,4.0,Spring
+1698,36,Male,orense,Credit Card,3.5,Fall
+1699,25,Male,granada,Bank Transfer,4.8,Winter
+1700,20,Male,burgos,Debit Card,4.0,Spring
+1701,62,Male,cuenca,Bank Transfer,4.1,Fall
+1702,69,Male,teruel,Debit Card,3.8,Winter
+1703,54,Male,cantabria,Bank Transfer,5.0,Summer
+1704,39,Male,almeria,Bank Transfer,4.0,Spring
+1705,56,Male,salamanca,Cash,3.9,Summer
+1706,39,Male,badajoz,Venmo,3.4,Summer
+1707,37,Male,castellon,Venmo,3.0,Spring
+1708,25,Male,burgos,Cash,4.9,Fall
+1709,35,Male,huelva,Credit Card,3.2,Spring
+1710,45,Male,granada,Bank Transfer,3.8,Winter
+1711,19,Male,cuenca,Credit Card,3.8,Fall
+1712,21,Male,huesca,Credit Card,4.7,Spring
+1713,65,Male,madrid,Cash,3.8,Fall
+1714,49,Male,zaragoza,PayPal,4.6,Winter
+1715,30,Male,zaragoza,Cash,4.4,Summer
+1716,23,Male,santa_cruz_de_tenerife,PayPal,3.4,Spring
+1717,69,Male,valladolid,Cash,4.7,Winter
+1718,29,Male,cantabria,Debit Card,2.9,Summer
+1719,54,Male,badajoz,PayPal,3.4,Winter
+1720,45,Male,lugo,Venmo,3.2,Winter
+1721,25,Male,toledo,Debit Card,2.8,Winter
+1722,34,Male,granada,Credit Card,4.3,Spring
+1723,46,Male,palencia,Cash,3.3,Summer
+1724,70,Male,jaen,PayPal,3.3,Spring
+1725,42,Male,salamanca,PayPal,3.3,Winter
+1726,45,Male,cadiz,Venmo,3.0,Spring
+1727,57,Male,zamora,Debit Card,2.8,Summer
+1728,49,Male,lleida,PayPal,4.0,Spring
+1729,23,Male,teruel,Debit Card,4.3,Fall
+1730,47,Male,alava,Venmo,3.8,Winter
+1731,23,Male,baleares,Credit Card,4.2,Fall
+1732,21,Male,la_rioja,Cash,3.1,Fall
+1733,45,Male,barcelona,Cash,2.6,Winter
+1734,67,Male,la_coruna,Credit Card,3.4,Summer
+1735,31,Male,asturias,PayPal,3.1,Spring
+1736,58,Male,almeria,Venmo,3.6,Winter
+1737,57,Male,burgos,Cash,2.6,Summer
+1738,42,Male,navarra,Venmo,4.2,Summer
+1739,60,Male,valencia,Credit Card,2.9,Spring
+1740,21,Male,cantabria,Cash,4.2,Winter
+1741,69,Male,malaga,Bank Transfer,3.3,Fall
+1742,41,Male,huesca,Bank Transfer,3.6,Winter
+1743,51,Male,cantabria,Venmo,4.3,Spring
+1744,23,Male,la_coruna,Bank Transfer,3.3,Winter
+1745,57,Male,salamanca,PayPal,3.0,Winter
+1746,40,Male,castellon,Cash,3.6,Winter
+1747,65,Male,guadalajara,Bank Transfer,3.1,Summer
+1748,61,Male,alicante,Venmo,2.9,Winter
+1749,34,Male,burgos,Bank Transfer,3.9,Winter
+1750,43,Male,orense,Debit Card,3.2,Fall
+1751,31,Male,la_rioja,Venmo,3.1,Fall
+1752,57,Male,palencia,Cash,3.2,Winter
+1753,34,Male,navarra,Venmo,3.3,Winter
+1754,25,Male,castellon,Credit Card,4.8,Fall
+1755,66,Male,santa_cruz_de_tenerife,Credit Card,3.8,Fall
+1756,56,Male,burgos,Cash,4.6,Spring
+1757,49,Male,orense,Bank Transfer,2.8,Fall
+1758,19,Male,huesca,Debit Card,3.6,Fall
+1759,27,Male,malaga,Venmo,4.3,Winter
+1760,68,Male,leon,PayPal,4.0,Spring
+1761,20,Male,albacete,PayPal,3.5,Spring
+1762,21,Male,las_palmas,Cash,4.9,Fall
+1763,36,Male,granada,Bank Transfer,3.1,Summer
+1764,37,Male,asturias,PayPal,3.9,Winter
+1765,61,Male,gerona,Venmo,3.0,Summer
+1766,68,Male,cadiz,Venmo,4.1,Spring
+1767,60,Male,cantabria,Cash,4.3,Winter
+1768,69,Male,orense,Debit Card,3.8,Fall
+1769,25,Male,alava,PayPal,3.9,Summer
+1770,32,Male,barcelona,Cash,4.3,Winter
+1771,53,Male,cantabria,Bank Transfer,4.3,Fall
+1772,46,Male,albacete,Credit Card,4.7,Fall
+1773,58,Male,alava,Bank Transfer,3.1,Summer
+1774,21,Male,cadiz,PayPal,2.7,Summer
+1775,46,Male,bizkaia,PayPal,3.7,Spring
+1776,18,Male,pontevedra,Cash,3.3,Spring
+1777,56,Male,sevilla,Venmo,3.4,Summer
+1778,18,Male,segovia,Cash,4.7,Winter
+1779,49,Male,navarra,Debit Card,4.9,Winter
+1780,29,Male,valencia,Venmo,4.3,Winter
+1781,67,Male,tarragona,Credit Card,4.2,Summer
+1782,31,Male,burgos,Bank Transfer,3.7,Fall
+1783,52,Male,la_coruna,Bank Transfer,2.7,Fall
+1784,42,Male,malaga,Credit Card,3.3,Winter
+1785,32,Male,lleida,Debit Card,4.8,Summer
+1786,47,Male,la_coruna,Venmo,4.1,Fall
+1787,45,Male,castellon,Venmo,4.6,Spring
+1788,20,Male,huelva,Bank Transfer,4.9,Fall
+1789,66,Male,valladolid,Cash,3.1,Summer
+1790,52,Male,malaga,Debit Card,3.0,Spring
+1791,50,Male,madrid,PayPal,3.7,Summer
+1792,62,Male,alicante,Cash,4.0,Winter
+1793,38,Male,barcelona,Debit Card,3.0,Fall
+1794,65,Male,alava,Cash,3.8,Fall
+1795,60,Male,guadalajara,Debit Card,3.7,Spring
+1796,68,Male,segovia,Debit Card,4.0,Fall
+1797,62,Male,toledo,Venmo,3.1,Spring
+1798,62,Male,cantabria,Venmo,3.9,Spring
+1799,40,Male,asturias,Cash,3.7,Winter
+1800,32,Male,lleida,Venmo,3.9,Fall
+1801,22,Male,tarragona,Credit Card,2.7,Winter
+1802,33,Male,cuenca,Debit Card,3.9,Spring
+1803,57,Male,santa_cruz_de_tenerife,Venmo,2.6,Winter
+1804,60,Male,guadalajara,Venmo,3.5,Summer
+1805,30,Male,barcelona,Credit Card,4.4,Winter
+1806,41,Male,zamora,Debit Card,4.9,Spring
+1807,58,Male,zaragoza,Venmo,3.9,Fall
+1808,34,Male,madrid,Venmo,3.5,Summer
+1809,67,Male,badajoz,Debit Card,4.3,Spring
+1810,58,Male,salamanca,Debit Card,3.4,Fall
+1811,41,Male,castellon,Cash,2.7,Fall
+1812,42,Male,huesca,Bank Transfer,3.6,Summer
+1813,50,Male,lugo,PayPal,4.9,Summer
+1814,40,Male,zaragoza,PayPal,3.5,Spring
+1815,32,Male,valladolid,Cash,3.8,Summer
+1816,51,Male,baleares,Credit Card,4.5,Winter
+1817,26,Male,gerona,Cash,4.0,Summer
+1818,32,Male,alicante,Cash,4.7,Summer
+1819,58,Male,orense,Debit Card,3.8,Fall
+1820,51,Male,santa_cruz_de_tenerife,Cash,4.5,Spring
+1821,19,Male,sevilla,PayPal,5.0,Fall
+1822,57,Male,asturias,PayPal,2.8,Spring
+1823,66,Male,toledo,Cash,4.4,Summer
+1824,62,Male,baleares,Bank Transfer,4.7,Fall
+1825,58,Male,barcelona,Cash,3.8,Winter
+1826,23,Male,cantabria,Credit Card,4.9,Winter
+1827,45,Male,avila,Debit Card,4.2,Winter
+1828,20,Male,segovia,Bank Transfer,4.9,Spring
+1829,33,Male,la_rioja,Cash,3.9,Spring
+1830,30,Male,la_coruna,Credit Card,4.9,Spring
+1831,50,Male,alicante,Venmo,4.8,Winter
+1832,62,Male,bizkaia,Bank Transfer,3.3,Summer
+1833,69,Male,huesca,Cash,4.6,Fall
+1834,34,Male,zamora,PayPal,4.5,Spring
+1835,49,Male,salamanca,Venmo,4.1,Summer
+1836,65,Male,almeria,Credit Card,3.2,Fall
+1837,66,Male,valladolid,Credit Card,4.2,Fall
+1838,41,Male,pontevedra,Venmo,4.8,Winter
+1839,37,Male,lugo,Credit Card,4.1,Fall
+1840,32,Male,baleares,Cash,3.7,Winter
+1841,42,Male,malaga,Bank Transfer,2.6,Winter
+1842,31,Male,almeria,PayPal,3.0,Winter
+1843,61,Male,lleida,Debit Card,4.4,Summer
+1844,36,Male,zaragoza,Credit Card,4.7,Fall
+1845,60,Male,lugo,Credit Card,2.7,Spring
+1846,51,Male,la_coruna,Bank Transfer,2.8,Winter
+1847,68,Male,huelva,Venmo,2.9,Summer
+1848,46,Male,burgos,Credit Card,4.4,Summer
+1849,19,Male,malaga,Cash,2.7,Winter
+1850,30,Male,valencia,Bank Transfer,4.5,Winter
+1851,51,Male,baleares,Debit Card,2.8,Winter
+1852,28,Male,malaga,Bank Transfer,3.1,Fall
+1853,41,Male,badajoz,Cash,3.8,Winter
+1854,29,Male,alava,PayPal,2.9,Spring
+1855,25,Male,las_palmas,Credit Card,3.8,Spring
+1856,60,Male,zamora,Cash,4.7,Spring
+1857,63,Male,la_coruna,PayPal,3.2,Summer
+1858,51,Male,avila,Cash,4.0,Summer
+1859,22,Male,soria,Debit Card,4.9,Spring
+1860,54,Male,las_palmas,Debit Card,3.7,Summer
+1861,18,Male,badajoz,Credit Card,4.8,Summer
+1862,29,Male,badajoz,Debit Card,3.6,Fall
+1863,59,Male,cantabria,PayPal,4.6,Winter
+1864,25,Male,huelva,Debit Card,4.3,Spring
+1865,19,Male,cadiz,Venmo,3.2,Fall
+1866,56,Male,huesca,Bank Transfer,3.8,Summer
+1867,31,Male,teruel,Credit Card,4.2,Winter
+1868,45,Male,valladolid,Venmo,3.4,Fall
+1869,23,Male,malaga,Cash,4.7,Spring
+1870,18,Male,madrid,Debit Card,3.9,Spring
+1871,43,Male,burgos,Debit Card,4.3,Spring
+1872,56,Male,castellon,Cash,2.7,Fall
+1873,43,Male,cadiz,Credit Card,4.6,Summer
+1874,64,Male,pontevedra,Bank Transfer,2.9,Fall
+1875,67,Male,caceres,Cash,3.6,Fall
+1876,63,Male,barcelona,Credit Card,3.9,Winter
+1877,54,Male,alava,Venmo,2.6,Fall
+1878,69,Male,cordoba,Credit Card,3.6,Fall
+1879,34,Male,albacete,Credit Card,3.4,Summer
+1880,56,Male,madrid,Cash,3.5,Spring
+1881,34,Male,ciudad_real,Debit Card,3.1,Fall
+1882,58,Male,caceres,Cash,4.3,Winter
+1883,44,Male,huesca,Bank Transfer,5.0,Winter
+1884,25,Male,alicante,Debit Card,4.9,Spring
+1885,27,Male,las_palmas,Bank Transfer,4.3,Summer
+1886,26,Male,teruel,Cash,4.4,Winter
+1887,18,Male,toledo,Cash,4.4,Spring
+1888,64,Male,cantabria,PayPal,3.5,Fall
+1889,62,Male,malaga,Credit Card,3.4,Winter
+1890,59,Male,huesca,Bank Transfer,2.5,Spring
+1891,36,Male,cuenca,Credit Card,3.4,Spring
+1892,69,Male,santa_cruz_de_tenerife,Debit Card,2.6,Summer
+1893,39,Male,avila,Venmo,4.6,Fall
+1894,28,Male,ciudad_real,PayPal,3.7,Summer
+1895,42,Male,asturias,Debit Card,2.5,Fall
+1896,31,Male,santa_cruz_de_tenerife,Debit Card,4.5,Fall
+1897,57,Male,pontevedra,Venmo,2.9,Fall
+1898,53,Male,barcelona,Debit Card,2.9,Winter
+1899,59,Male,la_coruna,Venmo,3.5,Fall
+1900,32,Male,murcia,PayPal,4.2,Winter
+1901,65,Male,la_coruna,Cash,3.3,Summer
+1902,56,Male,granada,Cash,3.9,Winter
+1903,31,Male,alicante,Venmo,5.0,Spring
+1904,59,Male,santa_cruz_de_tenerife,Bank Transfer,3.3,Summer
+1905,22,Male,la_coruna,Cash,4.2,Spring
+1906,47,Male,caceres,Bank Transfer,4.9,Summer
+1907,23,Male,cuenca,PayPal,4.6,Spring
+1908,69,Male,caceres,Credit Card,4.8,Fall
+1909,18,Male,alava,Debit Card,2.7,Winter
+1910,50,Male,gipuzkoa,Credit Card,4.3,Spring
+1911,29,Male,toledo,Debit Card,3.8,Fall
+1912,65,Male,cantabria,Debit Card,4.9,Spring
+1913,29,Male,orense,Credit Card,3.4,Winter
+1914,49,Male,huesca,Cash,3.6,Winter
+1915,28,Male,orense,Credit Card,3.4,Fall
+1916,51,Male,palencia,Cash,4.7,Fall
+1917,26,Male,santa_cruz_de_tenerife,Debit Card,3.0,Winter
+1918,38,Male,toledo,PayPal,3.4,Winter
+1919,35,Male,teruel,Debit Card,4.6,Summer
+1920,34,Male,granada,PayPal,3.1,Summer
+1921,51,Male,alicante,Cash,2.8,Spring
+1922,47,Male,alicante,Venmo,3.5,Fall
+1923,18,Male,valladolid,PayPal,4.6,Summer
+1924,64,Male,santa_cruz_de_tenerife,Cash,4.3,Summer
+1925,30,Male,toledo,PayPal,4.8,Fall
+1926,59,Male,huesca,Credit Card,2.9,Winter
+1927,66,Male,la_rioja,PayPal,3.0,Spring
+1928,40,Male,navarra,Cash,2.9,Summer
+1929,25,Male,ciudad_real,PayPal,3.7,Summer
+1930,59,Male,valladolid,Venmo,4.7,Fall
+1931,66,Male,alava,Cash,3.5,Spring
+1932,54,Male,la_coruna,Debit Card,2.7,Spring
+1933,42,Male,granada,Credit Card,5.0,Spring
+1934,48,Male,alava,Venmo,4.1,Summer
+1935,34,Male,ciudad_real,Bank Transfer,2.7,Winter
+1936,19,Male,madrid,Cash,4.8,Spring
+1937,70,Male,burgos,PayPal,4.3,Summer
+1938,43,Male,albacete,Bank Transfer,4.5,Summer
+1939,46,Male,cadiz,Debit Card,3.8,Spring
+1940,66,Male,gipuzkoa,PayPal,3.7,Winter
+1941,50,Male,caceres,PayPal,3.9,Fall
+1942,55,Male,zamora,Credit Card,3.3,Winter
+1943,63,Male,toledo,PayPal,3.4,Fall
+1944,32,Male,palencia,Cash,3.8,Summer
+1945,30,Male,castellon,Cash,2.7,Winter
+1946,35,Male,palencia,Credit Card,2.9,Winter
+1947,59,Male,baleares,Credit Card,4.5,Summer
+1948,59,Male,asturias,PayPal,2.6,Summer
+1949,54,Male,barcelona,PayPal,3.1,Winter
+1950,63,Male,alicante,PayPal,4.7,Winter
+1951,43,Male,valladolid,PayPal,4.6,Summer
+1952,33,Male,alicante,Bank Transfer,2.7,Summer
+1953,57,Male,granada,Cash,4.6,Summer
+1954,25,Male,almeria,PayPal,4.8,Spring
+1955,26,Male,orense,Venmo,4.2,Winter
+1956,50,Male,valladolid,Cash,4.9,Winter
+1957,70,Male,almeria,Credit Card,4.9,Winter
+1958,68,Male,castellon,Cash,4.5,Spring
+1959,39,Male,avila,Cash,2.7,Winter
+1960,46,Male,jaen,Credit Card,3.1,Fall
+1961,57,Male,castellon,Credit Card,3.3,Summer
+1962,47,Male,las_palmas,Debit Card,2.6,Summer
+1963,40,Male,la_coruna,PayPal,4.4,Fall
+1964,52,Male,guadalajara,Credit Card,3.9,Spring
+1965,40,Male,alicante,Debit Card,4.6,Summer
+1966,67,Male,ciudad_real,Debit Card,4.9,Fall
+1967,67,Male,orense,Credit Card,3.7,Winter
+1968,37,Male,bizkaia,Venmo,3.7,Fall
+1969,67,Male,valladolid,Credit Card,4.2,Spring
+1970,64,Male,baleares,Bank Transfer,3.5,Winter
+1971,28,Male,cadiz,Credit Card,2.9,Spring
+1972,54,Male,lugo,Venmo,3.4,Spring
+1973,54,Male,la_coruna,PayPal,3.3,Summer
+1974,24,Male,lleida,Venmo,4.5,Fall
+1975,27,Male,almeria,PayPal,4.6,Winter
+1976,53,Male,caceres,Cash,2.9,Fall
+1977,32,Male,gerona,PayPal,3.2,Spring
+1978,24,Male,lugo,Bank Transfer,2.6,Summer
+1979,45,Male,sevilla,Cash,3.8,Spring
+1980,49,Male,valladolid,Debit Card,2.8,Spring
+1981,51,Male,malaga,PayPal,4.4,Winter
+1982,69,Male,zamora,PayPal,4.7,Summer
+1983,41,Male,gipuzkoa,PayPal,2.7,Summer
+1984,59,Male,valencia,Debit Card,2.6,Summer
+1985,26,Male,valladolid,PayPal,3.4,Summer
+1986,23,Male,zaragoza,Credit Card,3.9,Spring
+1987,62,Male,ciudad_real,Venmo,3.4,Summer
+1988,69,Male,cadiz,Cash,3.4,Summer
+1989,46,Male,jaen,Bank Transfer,3.9,Winter
+1990,35,Male,jaen,PayPal,4.0,Spring
+1991,32,Male,bizkaia,PayPal,3.4,Spring
+1992,46,Male,gipuzkoa,Venmo,3.7,Summer
+1993,33,Male,soria,Venmo,4.9,Winter
+1994,32,Male,madrid,Cash,5.0,Spring
+1995,33,Male,alicante,Credit Card,2.9,Fall
+1996,67,Male,granada,Debit Card,3.0,Spring
+1997,67,Male,soria,Cash,3.3,Summer
+1998,42,Male,lugo,Debit Card,4.7,Fall
+1999,20,Male,toledo,Cash,3.4,Fall
+2000,39,Male,sevilla,Debit Card,4.6,Winter
+2001,26,Male,cadiz,Cash,3.6,Winter
+2002,51,Male,murcia,Debit Card,2.6,Winter
+2003,31,Male,caceres,PayPal,2.7,Summer
+2004,68,Male,gipuzkoa,Cash,3.1,Spring
+2005,44,Male,santa_cruz_de_tenerife,Cash,3.2,Fall
+2006,18,Male,granada,PayPal,3.4,Winter
+2007,58,Male,cadiz,Credit Card,4.4,Fall
+2008,26,Male,valencia,PayPal,3.2,Summer
+2009,57,Male,granada,PayPal,2.5,Spring
+2010,37,Male,salamanca,Venmo,3.8,Summer
+2011,24,Male,huesca,Debit Card,4.4,Summer
+2012,57,Male,las_palmas,Bank Transfer,3.7,Spring
+2013,48,Male,asturias,Cash,3.2,Fall
+2014,39,Male,albacete,Debit Card,4.9,Winter
+2015,51,Male,baleares,PayPal,3.9,Summer
+2016,57,Male,albacete,Credit Card,4.5,Summer
+2017,53,Male,cordoba,Debit Card,3.4,Winter
+2018,70,Male,guadalajara,Bank Transfer,4.1,Winter
+2019,60,Male,murcia,Bank Transfer,4.5,Fall
+2020,31,Male,barcelona,Cash,4.7,Winter
+2021,41,Male,soria,Cash,4.8,Winter
+2022,62,Male,zaragoza,Venmo,4.4,Winter
+2023,59,Male,leon,Cash,4.0,Winter
+2024,46,Male,albacete,Cash,4.1,Winter
+2025,62,Male,las_palmas,PayPal,3.7,Fall
+2026,42,Male,caceres,Debit Card,3.0,Summer
+2027,37,Male,bizkaia,Bank Transfer,3.6,Winter
+2028,50,Male,castellon,Credit Card,4.8,Fall
+2029,29,Male,avila,Venmo,3.7,Fall
+2030,25,Male,granada,PayPal,4.6,Spring
+2031,66,Male,alava,Credit Card,2.8,Summer
+2032,21,Male,alicante,Credit Card,4.0,Spring
+2033,46,Male,teruel,Cash,4.2,Winter
+2034,57,Male,huesca,Venmo,3.6,Summer
+2035,61,Male,huesca,PayPal,2.9,Spring
+2036,53,Male,zamora,Bank Transfer,4.1,Summer
+2037,37,Male,las_palmas,Cash,3.1,Winter
+2038,39,Male,jaen,Venmo,4.3,Summer
+2039,53,Male,soria,Credit Card,4.4,Spring
+2040,35,Male,caceres,Debit Card,3.1,Spring
+2041,69,Male,lleida,Venmo,2.9,Spring
+2042,66,Male,cuenca,PayPal,3.2,Winter
+2043,19,Male,bizkaia,Venmo,4.0,Spring
+2044,47,Male,avila,PayPal,2.7,Summer
+2045,49,Male,cordoba,PayPal,3.0,Spring
+2046,31,Male,alava,PayPal,4.4,Fall
+2047,39,Male,soria,Cash,2.8,Winter
+2048,58,Male,tarragona,Cash,3.1,Summer
+2049,45,Male,palencia,Bank Transfer,3.9,Winter
+2050,68,Male,segovia,Venmo,2.7,Fall
+2051,35,Male,ciudad_real,Debit Card,3.4,Summer
+2052,65,Male,burgos,Credit Card,3.8,Spring
+2053,45,Male,guadalajara,Bank Transfer,3.7,Winter
+2054,19,Male,ciudad_real,Credit Card,4.5,Spring
+2055,65,Male,soria,PayPal,2.9,Spring
+2056,28,Male,bizkaia,Bank Transfer,3.4,Fall
+2057,55,Male,cadiz,PayPal,4.4,Spring
+2058,66,Male,cuenca,PayPal,4.2,Spring
+2059,29,Male,orense,Bank Transfer,3.3,Winter
+2060,56,Male,badajoz,PayPal,3.7,Spring
+2061,21,Male,valencia,Bank Transfer,3.2,Fall
+2062,32,Male,lleida,Debit Card,2.6,Summer
+2063,54,Male,cordoba,Cash,2.8,Fall
+2064,61,Male,segovia,Cash,2.9,Fall
+2065,31,Male,cantabria,Bank Transfer,4.0,Summer
+2066,27,Male,salamanca,Bank Transfer,2.9,Spring
+2067,64,Male,valladolid,Debit Card,4.7,Fall
+2068,60,Male,navarra,Cash,3.1,Fall
+2069,70,Male,teruel,Venmo,3.9,Summer
+2070,36,Male,zaragoza,Debit Card,3.4,Fall
+2071,56,Male,alicante,Cash,3.1,Spring
+2072,69,Male,huelva,PayPal,4.8,Fall
+2073,39,Male,valladolid,Bank Transfer,3.9,Winter
+2074,38,Male,cuenca,PayPal,3.5,Winter
+2075,36,Male,palencia,Debit Card,3.1,Summer
+2076,46,Male,cuenca,Debit Card,4.7,Fall
+2077,59,Male,gipuzkoa,Debit Card,4.6,Fall
+2078,64,Male,malaga,Bank Transfer,3.3,Fall
+2079,49,Male,toledo,Debit Card,3.2,Spring
+2080,32,Male,pontevedra,PayPal,3.1,Summer
+2081,29,Male,zaragoza,Debit Card,3.5,Fall
+2082,24,Male,burgos,Bank Transfer,4.3,Spring
+2083,41,Male,baleares,Venmo,2.9,Summer
+2084,41,Male,gipuzkoa,Credit Card,2.7,Fall
+2085,32,Male,lugo,Bank Transfer,4.0,Summer
+2086,69,Male,badajoz,Debit Card,4.6,Fall
+2087,65,Male,leon,Cash,4.7,Summer
+2088,54,Male,lleida,Credit Card,4.7,Summer
+2089,39,Male,santa_cruz_de_tenerife,Debit Card,4.0,Spring
+2090,37,Male,las_palmas,Credit Card,3.6,Spring
+2091,51,Male,palencia,Debit Card,3.4,Winter
+2092,26,Male,malaga,Bank Transfer,3.0,Fall
+2093,42,Male,albacete,Bank Transfer,2.6,Fall
+2094,21,Male,huelva,Debit Card,4.2,Spring
+2095,53,Male,albacete,Venmo,3.4,Spring
+2096,36,Male,segovia,Bank Transfer,4.0,Fall
+2097,21,Male,badajoz,Debit Card,4.7,Summer
+2098,33,Male,alava,Credit Card,3.9,Winter
+2099,49,Male,la_coruna,Venmo,3.3,Summer
+2100,31,Male,granada,PayPal,2.9,Summer
+2101,68,Male,navarra,Cash,4.4,Spring
+2102,49,Male,valencia,Bank Transfer,3.6,Winter
+2103,23,Male,cantabria,Cash,4.5,Spring
+2104,30,Male,leon,Venmo,3.7,Summer
+2105,53,Male,la_coruna,Venmo,2.8,Spring
+2106,65,Male,teruel,Venmo,4.5,Spring
+2107,60,Male,orense,Credit Card,4.4,Fall
+2108,46,Male,sevilla,PayPal,3.3,Winter
+2109,54,Male,asturias,Credit Card,4.2,Winter
+2110,59,Male,huelva,Venmo,2.7,Fall
+2111,52,Male,albacete,Debit Card,3.9,Spring
+2112,41,Male,las_palmas,Bank Transfer,2.6,Spring
+2113,43,Male,albacete,Cash,4.5,Fall
+2114,63,Male,la_coruna,PayPal,2.7,Spring
+2115,37,Male,valladolid,Debit Card,2.9,Winter
+2116,44,Male,las_palmas,Bank Transfer,3.4,Winter
+2117,67,Male,valencia,Debit Card,2.9,Summer
+2118,27,Male,alicante,Debit Card,3.8,Summer
+2119,60,Male,badajoz,Debit Card,4.2,Fall
+2120,58,Male,leon,Venmo,3.5,Spring
+2121,53,Male,las_palmas,PayPal,3.1,Fall
+2122,43,Male,jaen,Bank Transfer,3.5,Winter
+2123,32,Male,bizkaia,Debit Card,4.0,Fall
+2124,54,Male,la_rioja,Debit Card,3.7,Spring
+2125,47,Male,zaragoza,Venmo,4.2,Fall
+2126,57,Male,malaga,PayPal,4.8,Fall
+2127,63,Male,la_coruna,Credit Card,4.1,Winter
+2128,70,Male,segovia,Debit Card,4.5,Spring
+2129,62,Male,cantabria,PayPal,2.7,Fall
+2130,40,Male,salamanca,PayPal,2.8,Fall
+2131,25,Male,toledo,Credit Card,3.7,Summer
+2132,19,Male,la_coruna,Bank Transfer,3.6,Fall
+2133,25,Male,bizkaia,Debit Card,4.7,Fall
+2134,21,Male,sevilla,Bank Transfer,3.8,Summer
+2135,55,Male,malaga,Credit Card,2.9,Winter
+2136,34,Male,caceres,Debit Card,4.6,Winter
+2137,47,Male,badajoz,Bank Transfer,2.8,Summer
+2138,27,Male,salamanca,Credit Card,4.6,Winter
+2139,67,Male,cadiz,Venmo,2.8,Fall
+2140,40,Male,leon,Cash,3.0,Winter
+2141,53,Male,gerona,Cash,3.7,Fall
+2142,24,Male,granada,PayPal,4.1,Winter
+2143,47,Male,guadalajara,Venmo,4.3,Winter
+2144,53,Male,la_coruna,Venmo,3.8,Fall
+2145,47,Male,avila,PayPal,3.7,Winter
+2146,38,Male,toledo,PayPal,4.8,Winter
+2147,48,Male,cadiz,PayPal,4.6,Summer
+2148,47,Male,lleida,Cash,4.8,Fall
+2149,19,Male,las_palmas,PayPal,4.6,Winter
+2150,38,Male,cordoba,Bank Transfer,4.0,Winter
+2151,57,Male,teruel,Cash,2.6,Spring
+2152,70,Male,albacete,Venmo,2.6,Fall
+2153,38,Male,alicante,Bank Transfer,4.5,Summer
+2154,35,Male,salamanca,PayPal,4.2,Fall
+2155,46,Male,la_coruna,Cash,3.4,Spring
+2156,32,Male,valencia,PayPal,3.7,Fall
+2157,38,Male,sevilla,Debit Card,3.6,Winter
+2158,41,Male,cuenca,Venmo,4.0,Winter
+2159,19,Male,guadalajara,Bank Transfer,4.6,Spring
+2160,18,Male,tarragona,Cash,3.0,Fall
+2161,45,Male,las_palmas,PayPal,3.3,Winter
+2162,23,Male,barcelona,Debit Card,3.8,Summer
+2163,60,Male,lleida,PayPal,2.7,Summer
+2164,52,Male,orense,Bank Transfer,4.5,Spring
+2165,42,Male,leon,PayPal,4.8,Winter
+2166,29,Male,cantabria,Credit Card,4.2,Summer
+2167,31,Male,cuenca,Credit Card,3.5,Spring
+2168,30,Male,bizkaia,Venmo,4.9,Winter
+2169,23,Male,palencia,Cash,4.1,Spring
+2170,31,Male,zaragoza,Bank Transfer,2.9,Fall
+2171,40,Male,cordoba,Venmo,4.0,Fall
+2172,39,Male,segovia,Cash,4.6,Summer
+2173,28,Male,castellon,PayPal,2.8,Fall
+2174,23,Male,toledo,Venmo,5.0,Summer
+2175,42,Male,barcelona,Cash,2.9,Spring
+2176,68,Male,teruel,Credit Card,3.3,Spring
+2177,24,Male,toledo,Debit Card,3.4,Winter
+2178,24,Male,la_coruna,PayPal,3.0,Winter
+2179,21,Male,barcelona,Venmo,4.7,Summer
+2180,49,Male,granada,PayPal,2.9,Fall
+2181,41,Male,cuenca,Cash,4.1,Summer
+2182,22,Male,ciudad_real,Bank Transfer,3.2,Fall
+2183,42,Male,murcia,Venmo,2.7,Winter
+2184,30,Male,bizkaia,Cash,4.7,Spring
+2185,38,Male,almeria,PayPal,3.2,Spring
+2186,40,Male,valladolid,Debit Card,2.5,Winter
+2187,55,Male,teruel,PayPal,4.3,Winter
+2188,37,Male,las_palmas,PayPal,4.4,Spring
+2189,41,Male,burgos,Credit Card,4.7,Winter
+2190,38,Male,cuenca,Credit Card,4.0,Fall
+2191,42,Male,cadiz,Credit Card,4.6,Spring
+2192,26,Male,gerona,Cash,3.8,Summer
+2193,41,Male,murcia,Credit Card,3.2,Winter
+2194,27,Male,la_coruna,PayPal,5.0,Spring
+2195,61,Male,gipuzkoa,Bank Transfer,3.5,Summer
+2196,58,Male,valladolid,Cash,3.7,Fall
+2197,25,Male,granada,PayPal,4.8,Spring
+2198,33,Male,huesca,Venmo,3.7,Summer
+2199,57,Male,albacete,Venmo,3.5,Summer
+2200,39,Male,salamanca,Debit Card,4.9,Summer
+2201,60,Male,malaga,Debit Card,4.7,Summer
+2202,39,Male,santa_cruz_de_tenerife,Venmo,4.9,Spring
+2203,42,Male,badajoz,Credit Card,4.3,Summer
+2204,53,Male,zaragoza,Cash,3.1,Winter
+2205,20,Male,cantabria,Debit Card,3.4,Winter
+2206,46,Male,salamanca,PayPal,2.7,Fall
+2207,46,Male,la_rioja,Bank Transfer,2.6,Spring
+2208,69,Male,teruel,Credit Card,2.9,Fall
+2209,28,Male,la_coruna,PayPal,2.7,Summer
+2210,42,Male,alava,Bank Transfer,4.5,Summer
+2211,30,Male,caceres,PayPal,3.1,Summer
+2212,50,Male,toledo,Debit Card,3.2,Winter
+2213,59,Male,lugo,Bank Transfer,3.3,Winter
+2214,54,Male,badajoz,Debit Card,2.9,Fall
+2215,50,Male,castellon,Debit Card,4.1,Fall
+2216,25,Male,cuenca,Credit Card,2.7,Winter
+2217,41,Male,segovia,Venmo,4.0,Winter
+2218,35,Male,cantabria,Bank Transfer,2.6,Fall
+2219,67,Male,teruel,Debit Card,3.5,Winter
+2220,33,Male,almeria,Bank Transfer,2.8,Fall
+2221,19,Male,murcia,Cash,4.5,Fall
+2222,25,Male,baleares,Credit Card,3.0,Fall
+2223,32,Male,avila,Credit Card,4.4,Summer
+2224,30,Male,lugo,PayPal,4.7,Fall
+2225,18,Male,madrid,Cash,4.3,Winter
+2226,38,Male,almeria,Credit Card,4.8,Spring
+2227,22,Male,cantabria,Cash,4.8,Spring
+2228,40,Male,badajoz,Credit Card,4.4,Summer
+2229,54,Male,cadiz,Credit Card,3.7,Fall
+2230,70,Male,valencia,Venmo,3.9,Fall
+2231,52,Male,jaen,Venmo,3.8,Spring
+2232,34,Male,segovia,Credit Card,4.1,Fall
+2233,65,Male,palencia,Cash,4.0,Spring
+2234,38,Male,jaen,Credit Card,4.5,Summer
+2235,35,Male,ciudad_real,Cash,4.0,Winter
+2236,40,Male,zamora,Credit Card,4.5,Spring
+2237,23,Male,orense,Debit Card,2.7,Winter
+2238,45,Male,gerona,Venmo,3.8,Summer
+2239,40,Male,orense,Debit Card,3.8,Winter
+2240,42,Male,asturias,Credit Card,3.8,Summer
+2241,57,Male,baleares,Debit Card,4.3,Winter
+2242,18,Male,orense,Bank Transfer,3.5,Summer
+2243,18,Male,cadiz,Credit Card,3.8,Spring
+2244,56,Male,guadalajara,Debit Card,3.7,Winter
+2245,35,Male,granada,PayPal,4.8,Summer
+2246,49,Male,jaen,PayPal,4.9,Fall
+2247,49,Male,la_rioja,PayPal,4.3,Fall
+2248,34,Male,toledo,Venmo,4.4,Summer
+2249,63,Male,zaragoza,PayPal,3.4,Winter
+2250,42,Male,tarragona,Debit Card,4.3,Spring
+2251,41,Male,la_coruna,Credit Card,4.6,Summer
+2252,26,Male,toledo,Debit Card,3.8,Fall
+2253,48,Male,cuenca,Bank Transfer,3.9,Summer
+2254,62,Male,la_coruna,PayPal,2.6,Spring
+2255,24,Male,navarra,PayPal,4.2,Winter
+2256,48,Male,cadiz,Bank Transfer,4.6,Spring
+2257,31,Male,madrid,Credit Card,5.0,Fall
+2258,41,Male,cordoba,Bank Transfer,4.2,Fall
+2259,24,Male,leon,Credit Card,4.3,Winter
+2260,60,Male,toledo,Cash,3.3,Spring
+2261,38,Male,pontevedra,PayPal,4.9,Fall
+2262,58,Male,huelva,Bank Transfer,4.4,Spring
+2263,53,Male,teruel,PayPal,3.1,Winter
+2264,44,Male,huesca,Cash,3.5,Winter
+2265,51,Male,cuenca,PayPal,3.9,Summer
+2266,36,Male,albacete,PayPal,3.9,Fall
+2267,20,Male,palencia,Debit Card,4.3,Fall
+2268,32,Male,zaragoza,Venmo,3.8,Spring
+2269,66,Male,leon,Bank Transfer,2.7,Spring
+2270,49,Male,leon,Credit Card,4.4,Fall
+2271,27,Male,avila,Venmo,3.5,Spring
+2272,29,Male,asturias,PayPal,3.4,Summer
+2273,29,Male,albacete,PayPal,4.0,Spring
+2274,55,Male,cantabria,PayPal,4.8,Winter
+2275,57,Male,lleida,PayPal,4.5,Spring
+2276,29,Male,salamanca,Debit Card,4.4,Winter
+2277,31,Male,las_palmas,Debit Card,4.1,Summer
+2278,25,Male,la_coruna,Credit Card,4.6,Summer
+2279,61,Male,salamanca,Cash,3.8,Fall
+2280,53,Male,lleida,Bank Transfer,2.9,Spring
+2281,22,Male,burgos,Credit Card,2.8,Summer
+2282,28,Male,valencia,Bank Transfer,3.0,Summer
+2283,18,Male,madrid,Credit Card,4.2,Fall
+2284,44,Male,palencia,Credit Card,4.1,Winter
+2285,32,Male,toledo,Venmo,4.1,Fall
+2286,34,Male,avila,PayPal,4.6,Summer
+2287,67,Male,las_palmas,Venmo,2.5,Spring
+2288,66,Male,leon,Debit Card,3.0,Summer
+2289,28,Male,zamora,PayPal,3.8,Fall
+2290,70,Male,gipuzkoa,Venmo,4.1,Fall
+2291,37,Male,madrid,PayPal,3.3,Winter
+2292,28,Male,badajoz,Credit Card,5.0,Spring
+2293,43,Male,baleares,Debit Card,3.8,Spring
+2294,37,Male,la_coruna,Debit Card,3.3,Fall
+2295,54,Male,lleida,Debit Card,5.0,Winter
+2296,50,Male,gerona,PayPal,2.9,Spring
+2297,46,Male,santa_cruz_de_tenerife,Venmo,2.5,Fall
+2298,60,Male,huesca,Bank Transfer,4.7,Summer
+2299,40,Male,toledo,Cash,2.9,Spring
+2300,64,Male,guadalajara,Credit Card,3.7,Summer
+2301,18,Male,castellon,Credit Card,4.4,Summer
+2302,37,Male,granada,Debit Card,2.9,Winter
+2303,36,Male,murcia,Venmo,3.6,Summer
+2304,51,Male,caceres,Credit Card,4.8,Spring
+2305,26,Male,avila,Debit Card,4.7,Winter
+2306,68,Male,caceres,Cash,2.6,Summer
+2307,27,Male,la_coruna,Cash,3.4,Winter
+2308,28,Male,santa_cruz_de_tenerife,Debit Card,3.5,Fall
+2309,49,Male,cadiz,Bank Transfer,3.4,Winter
+2310,70,Male,toledo,Bank Transfer,5.0,Fall
+2311,30,Male,castellon,PayPal,4.6,Spring
+2312,27,Male,caceres,Bank Transfer,4.8,Spring
+2313,19,Male,baleares,Cash,3.7,Summer
+2314,64,Male,caceres,Bank Transfer,4.7,Summer
+2315,42,Male,cuenca,Bank Transfer,4.4,Winter
+2316,69,Male,albacete,Debit Card,3.5,Winter
+2317,28,Male,orense,Debit Card,3.8,Winter
+2318,47,Male,burgos,Bank Transfer,4.7,Summer
+2319,69,Male,alicante,Credit Card,3.1,Spring
+2320,56,Male,cadiz,PayPal,5.0,Winter
+2321,28,Male,alicante,Debit Card,3.7,Spring
+2322,50,Male,guadalajara,Debit Card,3.0,Winter
+2323,39,Male,burgos,Venmo,4.5,Spring
+2324,35,Male,barcelona,Credit Card,4.7,Winter
+2325,59,Male,huesca,Debit Card,3.5,Winter
+2326,44,Male,tarragona,Cash,4.4,Summer
+2327,66,Male,cordoba,Bank Transfer,2.6,Winter
+2328,20,Male,almeria,Venmo,4.2,Winter
+2329,45,Male,huesca,Venmo,2.6,Fall
+2330,49,Male,cadiz,Bank Transfer,4.8,Spring
+2331,60,Male,guadalajara,PayPal,2.9,Summer
+2332,61,Male,asturias,Credit Card,4.3,Spring
+2333,36,Male,orense,Venmo,2.6,Fall
+2334,33,Male,toledo,PayPal,3.8,Spring
+2335,49,Male,teruel,Credit Card,4.2,Summer
+2336,31,Male,malaga,Venmo,3.9,Summer
+2337,19,Male,zamora,Credit Card,3.1,Winter
+2338,39,Male,albacete,Cash,3.6,Fall
+2339,66,Male,badajoz,PayPal,4.0,Fall
+2340,25,Male,toledo,Bank Transfer,3.4,Spring
+2341,63,Male,burgos,Credit Card,2.6,Summer
+2342,56,Male,lleida,Venmo,4.5,Summer
+2343,20,Male,zaragoza,Debit Card,4.9,Fall
+2344,58,Male,bizkaia,PayPal,4.4,Summer
+2345,34,Male,zaragoza,Venmo,3.5,Fall
+2346,28,Male,granada,Bank Transfer,3.3,Winter
+2347,22,Male,guadalajara,Debit Card,3.1,Winter
+2348,37,Male,castellon,Cash,4.2,Fall
+2349,54,Male,valencia,PayPal,4.9,Spring
+2350,65,Male,alicante,Credit Card,3.9,Fall
+2351,57,Male,huelva,Cash,4.2,Winter
+2352,38,Male,guadalajara,PayPal,4.9,Fall
+2353,70,Male,la_coruna,Bank Transfer,2.8,Fall
+2354,56,Male,alava,Debit Card,4.1,Fall
+2355,56,Male,cadiz,Venmo,4.8,Summer
+2356,22,Male,madrid,Cash,4.1,Winter
+2357,57,Male,valencia,Debit Card,3.0,Summer
+2358,53,Male,lleida,Credit Card,4.2,Fall
+2359,53,Male,segovia,Credit Card,3.8,Spring
+2360,19,Male,zaragoza,Bank Transfer,3.3,Spring
+2361,49,Male,cuenca,Venmo,4.7,Fall
+2362,44,Male,bizkaia,Credit Card,4.3,Spring
+2363,27,Male,pontevedra,Credit Card,2.7,Fall
+2364,60,Male,zaragoza,Cash,4.2,Winter
+2365,62,Male,caceres,PayPal,4.2,Winter
+2366,52,Male,toledo,Venmo,2.5,Winter
+2367,30,Male,orense,Credit Card,3.6,Winter
+2368,66,Male,castellon,Bank Transfer,3.4,Winter
+2369,29,Male,gipuzkoa,Debit Card,3.3,Summer
+2370,24,Male,baleares,PayPal,4.6,Winter
+2371,51,Male,orense,Venmo,3.9,Spring
+2372,67,Male,orense,Debit Card,3.7,Winter
+2373,50,Male,madrid,PayPal,3.1,Spring
+2374,37,Male,gerona,Debit Card,4.9,Spring
+2375,69,Male,zaragoza,Debit Card,4.7,Winter
+2376,60,Male,teruel,Credit Card,2.9,Fall
+2377,21,Male,bizkaia,Cash,4.1,Spring
+2378,44,Male,baleares,Cash,4.0,Fall
+2379,26,Male,cantabria,PayPal,2.7,Summer
+2380,40,Male,alicante,Debit Card,4.0,Spring
+2381,41,Male,valencia,PayPal,2.5,Fall
+2382,62,Male,lugo,PayPal,4.5,Summer
+2383,39,Male,avila,Debit Card,3.9,Spring
+2384,53,Male,leon,Bank Transfer,4.9,Spring
+2385,24,Male,gerona,PayPal,3.3,Winter
+2386,41,Male,la_coruna,PayPal,3.8,Fall
+2387,19,Male,alava,Venmo,2.9,Summer
+2388,36,Male,sevilla,Debit Card,4.0,Summer
+2389,21,Male,cantabria,Debit Card,4.1,Fall
+2390,25,Male,orense,Bank Transfer,3.1,Spring
+2391,65,Male,cadiz,Debit Card,4.6,Winter
+2392,42,Male,santa_cruz_de_tenerife,Bank Transfer,4.6,Winter
+2393,40,Male,castellon,Cash,2.6,Spring
+2394,58,Male,pontevedra,PayPal,5.0,Winter
+2395,40,Male,sevilla,Debit Card,2.9,Fall
+2396,62,Male,albacete,PayPal,3.5,Winter
+2397,38,Male,lugo,Venmo,3.7,Spring
+2398,37,Male,sevilla,Venmo,2.9,Fall
+2399,65,Male,baleares,Bank Transfer,4.3,Winter
+2400,55,Male,zamora,Cash,3.2,Spring
+2401,43,Male,teruel,Credit Card,4.2,Winter
+2402,43,Male,barcelona,PayPal,4.2,Winter
+2403,45,Male,gerona,Cash,3.8,Winter
+2404,64,Male,orense,Debit Card,4.4,Fall
+2405,28,Male,albacete,Credit Card,3.1,Winter
+2406,69,Male,zaragoza,Debit Card,5.0,Fall
+2407,54,Male,toledo,PayPal,4.7,Winter
+2408,52,Male,toledo,Credit Card,3.0,Summer
+2409,23,Male,valencia,Debit Card,4.2,Fall
+2410,26,Male,toledo,Cash,3.0,Spring
+2411,48,Male,salamanca,PayPal,3.7,Summer
+2412,49,Male,caceres,Cash,2.7,Summer
+2413,53,Male,badajoz,Bank Transfer,4.3,Winter
+2414,69,Male,tarragona,Bank Transfer,2.7,Fall
+2415,26,Male,caceres,Credit Card,3.7,Summer
+2416,21,Male,salamanca,Bank Transfer,4.3,Fall
+2417,59,Male,santa_cruz_de_tenerife,Credit Card,4.0,Summer
+2418,21,Male,cadiz,Venmo,3.3,Fall
+2419,22,Male,baleares,Cash,4.0,Fall
+2420,26,Male,asturias,Credit Card,2.7,Fall
+2421,41,Male,barcelona,PayPal,4.2,Winter
+2422,37,Male,las_palmas,Debit Card,4.6,Spring
+2423,30,Male,badajoz,Credit Card,4.8,Winter
+2424,49,Male,castellon,Credit Card,2.8,Summer
+2425,49,Male,cantabria,Bank Transfer,4.5,Winter
+2426,58,Male,salamanca,Bank Transfer,3.0,Summer
+2427,70,Male,pontevedra,Debit Card,4.6,Fall
+2428,27,Male,murcia,Cash,3.3,Spring
+2429,65,Male,cuenca,Debit Card,4.4,Spring
+2430,57,Male,toledo,Credit Card,4.4,Summer
+2431,20,Male,zaragoza,Cash,4.3,Summer
+2432,34,Male,caceres,Bank Transfer,3.4,Fall
+2433,59,Male,cantabria,Venmo,2.8,Winter
+2434,54,Male,teruel,Cash,3.4,Spring
+2435,36,Male,toledo,Credit Card,5.0,Spring
+2436,21,Male,orense,Cash,4.5,Fall
+2437,52,Male,zaragoza,Credit Card,2.7,Fall
+2438,43,Male,palencia,Credit Card,3.4,Winter
+2439,32,Male,navarra,Venmo,3.4,Winter
+2440,55,Male,albacete,Bank Transfer,2.8,Summer
+2441,31,Male,toledo,Bank Transfer,4.7,Spring
+2442,45,Male,pontevedra,Credit Card,4.7,Fall
+2443,53,Male,granada,Debit Card,4.7,Winter
+2444,24,Male,albacete,Bank Transfer,3.4,Spring
+2445,47,Male,zaragoza,Debit Card,3.7,Fall
+2446,63,Male,la_coruna,Cash,4.1,Summer
+2447,38,Male,segovia,Credit Card,2.9,Spring
+2448,59,Male,orense,Venmo,3.2,Fall
+2449,54,Male,toledo,PayPal,3.0,Fall
+2450,26,Male,caceres,Venmo,4.1,Fall
+2451,68,Male,navarra,Venmo,4.5,Fall
+2452,41,Male,las_palmas,Venmo,3.4,Fall
+2453,68,Male,lugo,Bank Transfer,4.1,Winter
+2454,21,Male,las_palmas,Cash,4.6,Spring
+2455,32,Male,pontevedra,Venmo,4.6,Winter
+2456,20,Male,badajoz,Cash,3.4,Spring
+2457,59,Male,granada,PayPal,3.3,Winter
+2458,53,Male,valencia,Cash,3.6,Fall
+2459,66,Male,guadalajara,Bank Transfer,4.6,Fall
+2460,47,Male,zaragoza,Cash,4.3,Fall
+2461,58,Male,gipuzkoa,Credit Card,4.0,Winter
+2462,28,Male,la_coruna,Credit Card,4.8,Summer
+2463,68,Male,caceres,Bank Transfer,4.3,Spring
+2464,60,Male,alicante,Cash,3.3,Summer
+2465,47,Male,lleida,Cash,2.8,Winter
+2466,18,Male,burgos,Bank Transfer,4.4,Spring
+2467,32,Male,caceres,Cash,3.7,Summer
+2468,27,Male,alava,Credit Card,3.6,Spring
+2469,65,Male,segovia,Venmo,3.7,Winter
+2470,68,Male,las_palmas,PayPal,5.0,Fall
+2471,55,Male,las_palmas,Credit Card,2.7,Fall
+2472,30,Male,burgos,Cash,4.3,Spring
+2473,24,Male,alicante,Credit Card,4.1,Summer
+2474,57,Male,badajoz,Cash,2.6,Winter
+2475,23,Male,baleares,Bank Transfer,3.2,Fall
+2476,69,Male,alava,Venmo,3.5,Summer
+2477,60,Male,santa_cruz_de_tenerife,Cash,3.7,Summer
+2478,25,Male,alicante,PayPal,3.8,Spring
+2479,18,Male,barcelona,Bank Transfer,4.8,Winter
+2480,37,Male,cuenca,Credit Card,4.2,Fall
+2481,61,Male,malaga,Credit Card,2.9,Summer
+2482,41,Male,cuenca,Debit Card,2.9,Fall
+2483,69,Male,toledo,Credit Card,4.8,Winter
+2484,32,Male,baleares,Debit Card,2.9,Fall
+2485,60,Male,santa_cruz_de_tenerife,Cash,4.8,Summer
+2486,43,Male,granada,Bank Transfer,4.6,Spring
+2487,61,Male,castellon,Credit Card,4.4,Spring
+2488,57,Male,guadalajara,PayPal,3.0,Spring
+2489,56,Male,valencia,PayPal,4.4,Summer
+2490,66,Male,madrid,Venmo,3.9,Winter
+2491,52,Male,lugo,Cash,4.0,Spring
+2492,63,Male,lleida,Bank Transfer,2.5,Spring
+2493,50,Male,lleida,Bank Transfer,4.1,Summer
+2494,21,Male,avila,Venmo,4.8,Fall
+2495,42,Male,orense,Debit Card,2.6,Winter
+2496,40,Male,palencia,Credit Card,3.1,Spring
+2497,67,Male,cordoba,Credit Card,3.2,Summer
+2498,35,Male,huesca,Bank Transfer,4.2,Summer
+2499,18,Male,bizkaia,Cash,2.6,Fall
+2500,52,Male,orense,Cash,3.1,Summer
+2501,59,Male,caceres,Cash,2.9,Fall
+2502,49,Male,tarragona,Venmo,4.6,Fall
+2503,46,Male,malaga,PayPal,4.1,Spring
+2504,69,Male,caceres,Debit Card,2.5,Summer
+2505,56,Male,lleida,Cash,4.0,Winter
+2506,27,Male,burgos,PayPal,3.5,Summer
+2507,57,Male,pontevedra,Venmo,4.4,Spring
+2508,58,Male,gipuzkoa,Credit Card,2.9,Fall
+2509,23,Male,huelva,Debit Card,3.1,Spring
+2510,19,Male,bizkaia,Bank Transfer,4.4,Spring
+2511,40,Male,caceres,Credit Card,4.4,Winter
+2512,54,Male,baleares,PayPal,2.7,Summer
+2513,50,Male,granada,Credit Card,4.9,Summer
+2514,69,Male,granada,Cash,3.5,Winter
+2515,42,Male,lugo,PayPal,4.8,Spring
+2516,37,Male,las_palmas,Cash,4.2,Summer
+2517,46,Male,asturias,Debit Card,4.6,Spring
+2518,64,Male,barcelona,Venmo,2.9,Spring
+2519,20,Male,leon,Venmo,4.0,Fall
+2520,40,Male,baleares,Credit Card,4.9,Spring
+2521,64,Male,ciudad_real,Cash,3.1,Summer
+2522,29,Male,castellon,PayPal,4.4,Fall
+2523,20,Male,malaga,Debit Card,2.5,Winter
+2524,43,Male,palencia,Bank Transfer,3.4,Spring
+2525,60,Male,badajoz,Credit Card,3.7,Spring
+2526,39,Male,gerona,PayPal,4.2,Winter
+2527,47,Male,zaragoza,PayPal,3.4,Spring
+2528,19,Male,huesca,Bank Transfer,3.6,Fall
+2529,52,Male,pontevedra,Debit Card,4.7,Fall
+2530,34,Male,malaga,Bank Transfer,4.7,Spring
+2531,25,Male,zamora,Debit Card,3.6,Spring
+2532,43,Male,alava,Cash,4.6,Summer
+2533,55,Male,la_coruna,Debit Card,2.6,Summer
+2534,66,Male,navarra,Cash,3.1,Summer
+2535,41,Male,badajoz,Cash,3.2,Fall
+2536,47,Male,tarragona,Bank Transfer,3.9,Winter
+2537,51,Male,jaen,PayPal,4.9,Spring
+2538,44,Male,sevilla,PayPal,4.1,Summer
+2539,18,Male,albacete,Credit Card,4.2,Summer
+2540,33,Male,salamanca,Cash,4.1,Fall
+2541,24,Male,valladolid,Debit Card,3.9,Summer
+2542,33,Male,madrid,Venmo,2.7,Spring
+2543,61,Male,jaen,PayPal,3.7,Winter
+2544,27,Male,caceres,PayPal,2.7,Spring
+2545,46,Male,soria,Venmo,2.5,Spring
+2546,38,Male,castellon,Debit Card,3.9,Spring
+2547,63,Male,jaen,Credit Card,3.0,Summer
+2548,47,Male,barcelona,Cash,3.2,Summer
+2549,42,Male,bizkaia,Credit Card,3.8,Winter
+2550,41,Male,guadalajara,Debit Card,2.7,Fall
+2551,53,Male,badajoz,Debit Card,3.0,Fall
+2552,29,Male,guadalajara,Debit Card,4.1,Winter
+2553,61,Male,zaragoza,Credit Card,3.2,Spring
+2554,69,Male,gerona,Venmo,4.5,Summer
+2555,51,Male,valencia,Debit Card,4.3,Summer
+2556,24,Male,alava,Credit Card,3.5,Fall
+2557,24,Male,huesca,Bank Transfer,3.1,Fall
+2558,70,Male,albacete,PayPal,3.9,Spring
+2559,49,Male,barcelona,PayPal,2.7,Fall
+2560,48,Male,leon,Debit Card,4.0,Winter
+2561,58,Male,lleida,Debit Card,2.7,Spring
+2562,32,Male,gipuzkoa,Debit Card,2.7,Spring
+2563,57,Male,segovia,Cash,4.7,Spring
+2564,69,Male,cantabria,Venmo,4.5,Winter
+2565,42,Male,cadiz,Bank Transfer,3.0,Winter
+2566,30,Male,barcelona,Venmo,3.6,Fall
+2567,35,Male,segovia,PayPal,3.3,Fall
+2568,19,Male,segovia,Cash,4.3,Spring
+2569,52,Male,leon,PayPal,4.3,Winter
+2570,42,Male,zaragoza,Bank Transfer,4.8,Spring
+2571,36,Male,santa_cruz_de_tenerife,PayPal,4.0,Spring
+2572,45,Male,navarra,Cash,3.5,Winter
+2573,54,Male,las_palmas,Bank Transfer,3.9,Fall
+2574,54,Male,almeria,Bank Transfer,4.4,Summer
+2575,27,Male,asturias,Credit Card,4.6,Summer
+2576,53,Male,cadiz,PayPal,4.0,Fall
+2577,20,Male,leon,Debit Card,4.2,Winter
+2578,52,Male,murcia,Bank Transfer,4.5,Fall
+2579,54,Male,la_coruna,Cash,3.9,Fall
+2580,65,Male,la_coruna,Venmo,3.7,Summer
+2581,43,Male,cantabria,Bank Transfer,3.6,Summer
+2582,57,Male,jaen,Credit Card,4.7,Winter
+2583,19,Male,guadalajara,Venmo,3.6,Fall
+2584,69,Male,castellon,Cash,2.5,Fall
+2585,26,Male,santa_cruz_de_tenerife,Bank Transfer,2.9,Summer
+2586,57,Male,huesca,Debit Card,4.4,Fall
+2587,20,Male,la_rioja,Credit Card,4.6,Winter
+2588,55,Male,valladolid,PayPal,3.7,Winter
+2589,44,Male,sevilla,Venmo,3.2,Summer
+2590,52,Male,salamanca,PayPal,4.9,Winter
+2591,57,Male,alicante,Venmo,5.0,Summer
+2592,40,Male,la_rioja,Cash,3.3,Spring
+2593,23,Male,cuenca,Venmo,4.4,Summer
+2594,36,Male,albacete,Bank Transfer,4.7,Fall
+2595,59,Male,caceres,Cash,3.6,Fall
+2596,29,Male,zaragoza,Bank Transfer,3.2,Summer
+2597,63,Male,lugo,Credit Card,3.0,Spring
+2598,60,Male,alava,Venmo,4.4,Summer
+2599,64,Male,orense,Debit Card,3.3,Fall
+2600,63,Male,ciudad_real,Credit Card,3.4,Winter
+2601,21,Male,barcelona,Bank Transfer,3.9,Fall
+2602,61,Male,malaga,Cash,2.9,Winter
+2603,65,Male,huelva,Venmo,2.9,Fall
+2604,69,Male,bizkaia,Cash,2.7,Spring
+2605,47,Male,toledo,Debit Card,3.4,Spring
+2606,41,Male,la_coruna,Venmo,3.7,Spring
+2607,68,Male,malaga,Bank Transfer,4.7,Spring
+2608,41,Male,granada,PayPal,3.1,Spring
+2609,42,Male,granada,Credit Card,4.2,Fall
+2610,66,Male,salamanca,Debit Card,3.0,Summer
+2611,66,Male,huelva,Cash,3.1,Spring
+2612,33,Male,huelva,Cash,4.2,Fall
+2613,55,Male,alava,Venmo,3.8,Winter
+2614,58,Male,huesca,Bank Transfer,2.9,Fall
+2615,18,Male,madrid,Bank Transfer,4.2,Spring
+2616,49,Male,cuenca,Debit Card,3.1,Fall
+2617,61,Male,zaragoza,Cash,3.6,Spring
+2618,31,Male,navarra,Bank Transfer,4.8,Spring
+2619,70,Male,madrid,Venmo,4.1,Fall
+2620,68,Male,segovia,Credit Card,3.9,Winter
+2621,27,Male,madrid,Debit Card,3.0,Winter
+2622,48,Male,zamora,Bank Transfer,3.0,Winter
+2623,63,Male,alicante,Credit Card,4.9,Spring
+2624,49,Male,valencia,Cash,4.8,Fall
+2625,19,Male,madrid,Credit Card,3.3,Summer
+2626,30,Male,jaen,Credit Card,2.7,Summer
+2627,50,Male,huelva,Credit Card,4.2,Fall
+2628,66,Male,cantabria,Bank Transfer,3.6,Fall
+2629,25,Male,castellon,Credit Card,3.8,Summer
+2630,61,Male,almeria,Venmo,3.8,Winter
+2631,29,Male,huelva,Cash,4.2,Spring
+2632,53,Male,sevilla,Cash,2.7,Summer
+2633,24,Male,valencia,Cash,5.0,Fall
+2634,51,Male,granada,Credit Card,4.7,Fall
+2635,26,Male,avila,PayPal,3.2,Summer
+2636,59,Male,teruel,PayPal,2.9,Spring
+2637,41,Male,gipuzkoa,Venmo,4.2,Winter
+2638,20,Male,palencia,PayPal,3.7,Spring
+2639,22,Male,santa_cruz_de_tenerife,Credit Card,4.2,Spring
+2640,18,Male,ciudad_real,Debit Card,2.6,Winter
+2641,30,Male,toledo,Venmo,4.0,Summer
+2642,25,Male,jaen,Bank Transfer,2.7,Winter
+2643,39,Male,castellon,Bank Transfer,4.0,Summer
+2644,49,Male,cordoba,Cash,2.9,Spring
+2645,25,Male,gipuzkoa,Bank Transfer,3.3,Spring
+2646,23,Male,baleares,Bank Transfer,4.0,Spring
+2647,33,Male,leon,Debit Card,3.9,Summer
+2648,60,Male,cuenca,Debit Card,3.3,Summer
+2649,51,Male,huelva,PayPal,3.9,Spring
+2650,23,Male,malaga,Bank Transfer,3.9,Fall
+2651,20,Male,alicante,Credit Card,4.2,Summer
+2652,51,Male,asturias,PayPal,4.6,Summer
+2653,23,Female,ciudad_real,Credit Card,3.3,Summer
+2654,67,Female,leon,Venmo,4.8,Fall
+2655,23,Female,valencia,PayPal,4.1,Fall
+2656,26,Female,leon,Credit Card,3.4,Summer
+2657,52,Female,valencia,Bank Transfer,3.6,Winter
+2658,52,Female,pontevedra,Credit Card,2.7,Summer
+2659,52,Female,avila,PayPal,3.2,Summer
+2660,35,Female,gipuzkoa,Credit Card,4.4,Summer
+2661,24,Female,barcelona,Venmo,4.9,Spring
+2662,43,Female,pontevedra,Bank Transfer,4.8,Fall
+2663,25,Female,navarra,PayPal,2.8,Summer
+2664,46,Female,leon,Bank Transfer,2.9,Fall
+2665,22,Female,cantabria,PayPal,3.2,Winter
+2666,70,Female,ciudad_real,Venmo,3.5,Winter
+2667,49,Female,burgos,Venmo,4.1,Winter
+2668,48,Female,leon,Cash,4.1,Summer
+2669,59,Female,santa_cruz_de_tenerife,PayPal,4.8,Summer
+2670,39,Female,lugo,Credit Card,2.8,Spring
+2671,30,Female,lleida,Bank Transfer,4.7,Fall
+2672,37,Female,cordoba,PayPal,4.8,Winter
+2673,56,Female,santa_cruz_de_tenerife,Cash,2.9,Spring
+2674,67,Female,cordoba,Cash,2.6,Summer
+2675,40,Female,almeria,Cash,3.3,Fall
+2676,24,Female,palencia,Cash,3.4,Winter
+2677,43,Female,albacete,Cash,3.6,Spring
+2678,45,Female,pontevedra,PayPal,3.8,Spring
+2679,33,Female,lleida,Credit Card,3.4,Spring
+2680,53,Female,cordoba,Debit Card,3.8,Spring
+2681,44,Female,avila,Venmo,3.3,Fall
+2682,23,Female,tarragona,Debit Card,4.8,Summer
+2683,59,Female,santa_cruz_de_tenerife,Venmo,3.9,Winter
+2684,68,Female,zamora,Cash,4.2,Summer
+2685,46,Female,malaga,Credit Card,4.7,Summer
+2686,56,Female,cordoba,Credit Card,2.7,Winter
+2687,40,Female,valladolid,Cash,3.8,Winter
+2688,61,Female,tarragona,Debit Card,3.6,Fall
+2689,53,Female,navarra,Credit Card,2.9,Spring
+2690,29,Female,badajoz,PayPal,3.9,Fall
+2691,44,Female,alava,Bank Transfer,4.7,Summer
+2692,43,Female,cordoba,Cash,3.3,Winter
+2693,40,Female,caceres,Debit Card,4.2,Spring
+2694,55,Female,barcelona,Cash,2.6,Summer
+2695,66,Female,alicante,Credit Card,4.9,Spring
+2696,50,Female,avila,PayPal,3.6,Fall
+2697,57,Female,cadiz,Debit Card,4.7,Spring
+2698,42,Female,santa_cruz_de_tenerife,Bank Transfer,3.2,Winter
+2699,55,Female,zaragoza,Venmo,3.6,Summer
+2700,25,Female,cadiz,Debit Card,3.6,Fall
+2701,22,Female,gerona,Cash,3.2,Winter
+2702,49,Female,bizkaia,Bank Transfer,2.8,Summer
+2703,70,Female,burgos,Debit Card,4.0,Fall
+2704,56,Female,baleares,PayPal,4.4,Winter
+2705,52,Female,murcia,Debit Card,3.4,Spring
+2706,65,Female,palencia,Credit Card,5.0,Spring
+2707,24,Female,avila,Debit Card,3.1,Spring
+2708,32,Female,asturias,Cash,4.2,Fall
+2709,57,Female,zaragoza,Debit Card,3.3,Summer
+2710,35,Female,alicante,Credit Card,2.9,Winter
+2711,69,Female,ciudad_real,Bank Transfer,4.7,Summer
+2712,30,Female,huelva,Venmo,4.0,Spring
+2713,37,Female,huesca,Debit Card,4.6,Fall
+2714,19,Female,valencia,Debit Card,3.8,Fall
+2715,53,Female,la_rioja,Credit Card,3.6,Winter
+2716,25,Female,lleida,PayPal,4.1,Winter
+2717,47,Female,avila,Debit Card,2.7,Spring
+2718,18,Female,alicante,Credit Card,4.3,Winter
+2719,22,Female,cantabria,Venmo,4.9,Winter
+2720,69,Female,navarra,Bank Transfer,4.2,Fall
+2721,55,Female,valladolid,Bank Transfer,2.8,Spring
+2722,19,Female,sevilla,PayPal,4.9,Spring
+2723,23,Female,toledo,PayPal,2.8,Spring
+2724,54,Female,pontevedra,PayPal,2.9,Summer
+2725,52,Female,sevilla,Debit Card,2.5,Spring
+2726,64,Female,cordoba,Debit Card,2.7,Summer
+2727,33,Female,avila,PayPal,3.3,Winter
+2728,40,Female,avila,Credit Card,3.7,Winter
+2729,26,Female,malaga,Debit Card,4.0,Winter
+2730,31,Female,zaragoza,Credit Card,4.1,Summer
+2731,23,Female,salamanca,Bank Transfer,4.1,Winter
+2732,52,Female,jaen,Bank Transfer,2.5,Summer
+2733,21,Female,alicante,Debit Card,4.2,Winter
+2734,31,Female,caceres,PayPal,4.7,Summer
+2735,63,Female,almeria,Cash,2.7,Summer
+2736,46,Female,cantabria,PayPal,3.0,Spring
+2737,44,Female,valladolid,Credit Card,4.8,Spring
+2738,57,Female,badajoz,Cash,4.4,Spring
+2739,50,Female,granada,Venmo,4.3,Summer
+2740,33,Female,huesca,Credit Card,2.5,Winter
+2741,19,Female,lleida,Bank Transfer,4.9,Summer
+2742,68,Female,huesca,Venmo,4.9,Fall
+2743,27,Female,cordoba,Debit Card,3.9,Spring
+2744,61,Female,zamora,Venmo,4.1,Fall
+2745,38,Female,baleares,Credit Card,3.3,Winter
+2746,28,Female,tarragona,PayPal,4.1,Summer
+2747,39,Female,ciudad_real,PayPal,3.7,Fall
+2748,18,Female,teruel,Credit Card,3.1,Winter
+2749,24,Female,valencia,Venmo,3.0,Spring
+2750,64,Female,leon,Bank Transfer,3.4,Spring
+2751,51,Female,alicante,PayPal,2.7,Spring
+2752,27,Female,huelva,Venmo,3.1,Fall
+2753,48,Female,madrid,Venmo,4.0,Winter
+2754,69,Female,cordoba,PayPal,3.6,Spring
+2755,59,Female,navarra,Venmo,3.6,Summer
+2756,59,Female,zamora,Credit Card,3.3,Winter
+2757,42,Female,bizkaia,PayPal,4.1,Winter
+2758,39,Female,la_coruna,Venmo,4.3,Fall
+2759,32,Female,castellon,Bank Transfer,3.2,Summer
+2760,68,Female,castellon,Cash,3.9,Summer
+2761,41,Female,la_rioja,Credit Card,5.0,Fall
+2762,31,Female,huelva,Credit Card,3.4,Fall
+2763,58,Female,toledo,Debit Card,3.8,Fall
+2764,28,Female,valladolid,Venmo,2.9,Fall
+2765,63,Female,ciudad_real,Debit Card,2.6,Spring
+2766,64,Female,gerona,Credit Card,4.3,Summer
+2767,66,Female,navarra,Credit Card,2.8,Winter
+2768,31,Female,palencia,Cash,4.5,Spring
+2769,55,Female,baleares,PayPal,3.8,Spring
+2770,32,Female,la_rioja,Cash,3.0,Fall
+2771,50,Female,baleares,Bank Transfer,3.3,Fall
+2772,58,Female,soria,Bank Transfer,3.1,Summer
+2773,18,Female,bizkaia,Bank Transfer,3.5,Spring
+2774,39,Female,zaragoza,Bank Transfer,4.6,Spring
+2775,56,Female,cantabria,Credit Card,4.1,Fall
+2776,37,Female,burgos,Debit Card,3.6,Fall
+2777,46,Female,huelva,Bank Transfer,2.9,Fall
+2778,52,Female,santa_cruz_de_tenerife,Credit Card,4.8,Fall
+2779,70,Female,leon,Credit Card,3.2,Spring
+2780,61,Female,la_rioja,Credit Card,4.3,Winter
+2781,33,Female,avila,PayPal,4.1,Winter
+2782,65,Female,madrid,PayPal,4.6,Spring
+2783,41,Female,castellon,PayPal,3.8,Spring
+2784,19,Female,navarra,Credit Card,4.5,Spring
+2785,33,Female,cadiz,PayPal,3.1,Winter
+2786,53,Female,castellon,Bank Transfer,2.9,Summer
+2787,54,Female,zamora,Debit Card,3.8,Spring
+2788,36,Female,alava,Venmo,4.1,Spring
+2789,56,Female,teruel,Credit Card,3.1,Summer
+2790,28,Female,jaen,Credit Card,5.0,Fall
+2791,34,Female,badajoz,Debit Card,4.5,Spring
+2792,43,Female,cuenca,Venmo,2.8,Fall
+2793,54,Female,zamora,Credit Card,3.2,Winter
+2794,37,Female,baleares,Debit Card,3.1,Spring
+2795,33,Female,teruel,Cash,3.3,Fall
+2796,33,Female,cuenca,PayPal,3.4,Winter
+2797,55,Female,murcia,Cash,3.8,Winter
+2798,63,Female,zaragoza,Venmo,3.5,Winter
+2799,52,Female,avila,PayPal,4.8,Winter
+2800,23,Female,orense,Bank Transfer,3.9,Spring
+2801,70,Female,almeria,Cash,3.4,Fall
+2802,64,Female,asturias,PayPal,2.6,Winter
+2803,22,Female,pontevedra,Credit Card,3.1,Fall
+2804,46,Female,soria,Bank Transfer,3.3,Winter
+2805,65,Female,salamanca,Bank Transfer,2.8,Spring
+2806,18,Female,las_palmas,Cash,4.3,Fall
+2807,45,Female,barcelona,Credit Card,2.7,Spring
+2808,56,Female,soria,Debit Card,4.4,Spring
+2809,49,Female,segovia,PayPal,3.9,Spring
+2810,66,Female,las_palmas,Debit Card,3.0,Summer
+2811,27,Female,huelva,Debit Card,4.0,Summer
+2812,69,Female,sevilla,Credit Card,3.7,Fall
+2813,66,Female,palencia,Credit Card,3.8,Fall
+2814,45,Female,gerona,Debit Card,3.3,Summer
+2815,31,Female,santa_cruz_de_tenerife,Bank Transfer,3.6,Winter
+2816,33,Female,cuenca,Venmo,3.9,Fall
+2817,43,Female,lleida,Venmo,3.5,Spring
+2818,25,Female,soria,Venmo,3.4,Winter
+2819,46,Female,segovia,Debit Card,4.7,Fall
+2820,67,Female,alicante,Cash,3.0,Spring
+2821,26,Female,granada,Cash,3.9,Summer
+2822,35,Female,la_coruna,Venmo,4.5,Summer
+2823,61,Female,huesca,PayPal,4.1,Fall
+2824,26,Female,valencia,Debit Card,4.5,Summer
+2825,39,Female,palencia,Debit Card,4.0,Fall
+2826,69,Female,almeria,Bank Transfer,4.3,Winter
+2827,32,Female,cordoba,Venmo,3.6,Fall
+2828,20,Female,santa_cruz_de_tenerife,Bank Transfer,3.1,Fall
+2829,25,Female,valladolid,PayPal,2.6,Fall
+2830,56,Female,guadalajara,Cash,3.4,Fall
+2831,63,Female,cuenca,Venmo,2.9,Spring
+2832,34,Female,lugo,Credit Card,5.0,Winter
+2833,29,Female,almeria,PayPal,4.6,Summer
+2834,43,Female,almeria,Cash,3.3,Fall
+2835,39,Female,lleida,Credit Card,2.9,Fall
+2836,33,Female,valencia,Venmo,4.9,Winter
+2837,51,Female,gerona,Cash,5.0,Winter
+2838,65,Female,valladolid,PayPal,4.5,Summer
+2839,51,Female,soria,Bank Transfer,3.7,Fall
+2840,70,Female,cuenca,Bank Transfer,2.8,Summer
+2841,40,Female,madrid,Cash,3.5,Spring
+2842,19,Female,teruel,Cash,3.0,Winter
+2843,28,Female,sevilla,Debit Card,4.3,Fall
+2844,51,Female,santa_cruz_de_tenerife,Venmo,3.6,Summer
+2845,32,Female,cantabria,Venmo,4.4,Summer
+2846,26,Female,gipuzkoa,Debit Card,4.1,Summer
+2847,50,Female,badajoz,PayPal,2.8,Fall
+2848,68,Female,lleida,PayPal,2.8,Winter
+2849,33,Female,huesca,Bank Transfer,4.9,Fall
+2850,56,Female,barcelona,PayPal,4.1,Spring
+2851,57,Female,salamanca,Debit Card,3.0,Spring
+2852,58,Female,huelva,Debit Card,3.0,Summer
+2853,40,Female,alicante,Venmo,3.0,Spring
+2854,37,Female,las_palmas,PayPal,3.2,Winter
+2855,36,Female,la_coruna,Venmo,2.7,Fall
+2856,29,Female,badajoz,PayPal,3.8,Winter
+2857,65,Female,cantabria,Credit Card,3.5,Winter
+2858,44,Female,cadiz,Debit Card,3.8,Spring
+2859,34,Female,murcia,Bank Transfer,3.8,Summer
+2860,31,Female,valladolid,Bank Transfer,3.4,Fall
+2861,28,Female,cantabria,Bank Transfer,2.9,Spring
+2862,66,Female,las_palmas,Credit Card,3.4,Fall
+2863,68,Female,sevilla,Bank Transfer,4.7,Summer
+2864,37,Female,valencia,Venmo,3.9,Fall
+2865,58,Female,asturias,Venmo,3.6,Fall
+2866,28,Female,alava,Cash,3.7,Fall
+2867,54,Female,cantabria,Cash,3.1,Summer
+2868,21,Female,bizkaia,Cash,4.9,Summer
+2869,45,Female,la_coruna,PayPal,2.6,Winter
+2870,57,Female,tarragona,Bank Transfer,4.2,Summer
+2871,47,Female,navarra,Debit Card,4.8,Winter
+2872,46,Female,leon,Venmo,2.7,Summer
+2873,63,Female,badajoz,Cash,2.6,Fall
+2874,44,Female,burgos,Bank Transfer,2.6,Spring
+2875,36,Female,guadalajara,Debit Card,3.1,Summer
+2876,24,Female,alava,Debit Card,2.6,Fall
+2877,65,Female,cadiz,Bank Transfer,3.4,Spring
+2878,32,Female,bizkaia,Venmo,3.6,Summer
+2879,63,Female,almeria,Bank Transfer,4.3,Summer
+2880,62,Female,alava,Venmo,4.9,Winter
+2881,19,Female,albacete,PayPal,4.8,Winter
+2882,38,Female,gerona,Bank Transfer,4.2,Winter
+2883,59,Female,almeria,Credit Card,2.6,Winter
+2884,22,Female,la_coruna,PayPal,3.2,Spring
+2885,55,Female,asturias,Credit Card,3.4,Summer
+2886,29,Female,segovia,Credit Card,3.5,Summer
+2887,42,Female,orense,PayPal,4.2,Spring
+2888,23,Female,ciudad_real,Cash,2.8,Winter
+2889,70,Female,malaga,Debit Card,5.0,Spring
+2890,64,Female,zaragoza,Venmo,3.3,Fall
+2891,39,Female,almeria,Credit Card,3.7,Winter
+2892,47,Female,huelva,PayPal,2.5,Winter
+2893,22,Female,cuenca,Credit Card,3.2,Spring
+2894,69,Female,pontevedra,Debit Card,3.1,Spring
+2895,35,Female,zamora,Venmo,3.5,Spring
+2896,56,Female,ciudad_real,Bank Transfer,4.6,Summer
+2897,30,Female,almeria,Venmo,3.3,Summer
+2898,43,Female,zamora,Cash,2.5,Fall
+2899,23,Female,segovia,Credit Card,4.6,Summer
+2900,50,Female,orense,Bank Transfer,4.2,Spring
+2901,41,Female,asturias,Cash,4.0,Winter
+2902,41,Female,palencia,Credit Card,2.6,Winter
+2903,27,Female,toledo,PayPal,4.6,Spring
+2904,38,Female,sevilla,Credit Card,3.5,Spring
+2905,41,Female,cuenca,Venmo,4.0,Spring
+2906,58,Female,orense,Debit Card,4.8,Winter
+2907,58,Female,gerona,Venmo,3.9,Spring
+2908,19,Female,pontevedra,PayPal,3.7,Summer
+2909,43,Female,palencia,Debit Card,3.1,Winter
+2910,27,Female,asturias,Credit Card,3.0,Winter
+2911,32,Female,barcelona,Credit Card,2.9,Summer
+2912,28,Female,palencia,Venmo,2.9,Fall
+2913,48,Female,alicante,Cash,4.0,Winter
+2914,43,Female,lleida,Cash,3.5,Winter
+2915,45,Female,lleida,Debit Card,3.8,Fall
+2916,26,Female,murcia,Debit Card,4.5,Fall
+2917,62,Female,avila,Credit Card,2.7,Winter
+2918,58,Female,burgos,Venmo,2.9,Winter
+2919,19,Female,zaragoza,Cash,4.9,Fall
+2920,64,Female,asturias,Debit Card,3.8,Winter
+2921,33,Female,santa_cruz_de_tenerife,Debit Card,4.9,Spring
+2922,20,Female,tarragona,Cash,4.6,Fall
+2923,45,Female,gipuzkoa,PayPal,3.5,Winter
+2924,28,Female,gipuzkoa,Cash,4.2,Spring
+2925,47,Female,salamanca,Debit Card,3.7,Winter
+2926,54,Female,palencia,Credit Card,2.8,Spring
+2927,64,Female,castellon,Cash,4.8,Winter
+2928,45,Female,soria,Venmo,2.7,Summer
+2929,40,Female,avila,Credit Card,3.6,Spring
+2930,31,Female,caceres,Venmo,4.5,Winter
+2931,38,Female,las_palmas,Venmo,4.0,Spring
+2932,36,Female,gerona,Credit Card,4.5,Fall
+2933,65,Female,badajoz,PayPal,3.9,Spring
+2934,27,Female,soria,Venmo,3.8,Summer
+2935,38,Female,asturias,Bank Transfer,4.7,Fall
+2936,58,Female,lugo,Venmo,4.6,Spring
+2937,31,Female,barcelona,PayPal,3.6,Spring
+2938,28,Female,orense,Credit Card,4.3,Spring
+2939,28,Female,lleida,Cash,3.0,Fall
+2940,32,Female,caceres,Venmo,4.3,Winter
+2941,61,Female,zaragoza,Cash,4.8,Summer
+2942,38,Female,cantabria,PayPal,3.7,Spring
+2943,54,Female,cantabria,Bank Transfer,2.6,Summer
+2944,29,Female,navarra,Credit Card,3.4,Spring
+2945,50,Female,cuenca,Venmo,3.9,Summer
+2946,32,Female,segovia,Credit Card,4.8,Summer
+2947,38,Female,valladolid,Bank Transfer,2.8,Spring
+2948,52,Female,granada,Venmo,4.4,Spring
+2949,61,Female,guadalajara,Debit Card,3.1,Winter
+2950,25,Female,leon,PayPal,3.8,Spring
+2951,22,Female,lugo,Debit Card,4.1,Winter
+2952,47,Female,la_rioja,Cash,4.6,Fall
+2953,50,Female,zaragoza,Debit Card,4.9,Spring
+2954,45,Female,teruel,Credit Card,4.8,Summer
+2955,33,Female,la_coruna,Credit Card,3.9,Winter
+2956,42,Female,almeria,Credit Card,2.6,Winter
+2957,52,Female,jaen,Venmo,3.7,Fall
+2958,69,Female,caceres,Cash,4.7,Fall
+2959,55,Female,orense,PayPal,4.5,Summer
+2960,38,Female,las_palmas,PayPal,4.7,Summer
+2961,57,Female,zamora,Credit Card,3.6,Spring
+2962,33,Female,castellon,Debit Card,2.8,Fall
+2963,57,Female,bizkaia,Credit Card,4.0,Fall
+2964,52,Female,castellon,Credit Card,3.6,Spring
+2965,44,Female,guadalajara,Venmo,3.8,Fall
+2966,48,Female,madrid,PayPal,4.4,Summer
+2967,52,Female,palencia,Debit Card,2.8,Fall
+2968,34,Female,ciudad_real,Venmo,3.4,Summer
+2969,26,Female,sevilla,Cash,4.9,Fall
+2970,36,Female,valladolid,Cash,4.3,Fall
+2971,24,Female,baleares,Credit Card,3.4,Winter
+2972,30,Female,malaga,PayPal,3.9,Fall
+2973,31,Female,tarragona,Venmo,4.2,Fall
+2974,25,Female,las_palmas,Bank Transfer,2.7,Summer
+2975,57,Female,segovia,Credit Card,4.1,Summer
+2976,61,Female,valencia,Cash,4.5,Winter
+2977,30,Female,leon,Cash,2.8,Summer
+2978,38,Female,sevilla,Venmo,3.4,Winter
+2979,53,Female,asturias,Bank Transfer,3.9,Spring
+2980,31,Female,las_palmas,PayPal,2.6,Fall
+2981,70,Female,murcia,Bank Transfer,4.4,Fall
+2982,21,Female,palencia,Venmo,4.9,Winter
+2983,33,Female,navarra,Credit Card,3.6,Summer
+2984,60,Female,madrid,Credit Card,2.8,Winter
+2985,45,Female,madrid,Debit Card,4.3,Spring
+2986,46,Female,navarra,Cash,3.0,Summer
+2987,62,Female,cordoba,Credit Card,3.3,Summer
+2988,63,Female,leon,Cash,2.5,Winter
+2989,69,Female,zamora,Debit Card,5.0,Spring
+2990,46,Female,cantabria,Credit Card,4.3,Summer
+2991,69,Female,badajoz,Venmo,4.2,Fall
+2992,66,Female,cantabria,PayPal,3.9,Summer
+2993,41,Female,guadalajara,Venmo,3.9,Spring
+2994,32,Female,caceres,Cash,4.2,Spring
+2995,69,Female,huesca,Bank Transfer,3.5,Winter
+2996,29,Female,orense,Debit Card,2.5,Summer
+2997,70,Female,alicante,Venmo,2.9,Spring
+2998,41,Female,lleida,Venmo,2.7,Spring
+2999,31,Female,alava,Debit Card,4.7,Summer
+3000,31,Female,guadalajara,Cash,3.8,Winter
+3001,57,Female,avila,PayPal,3.7,Winter
+3002,29,Female,orense,Credit Card,4.7,Summer
+3003,70,Female,tarragona,Bank Transfer,3.6,Fall
+3004,51,Female,gerona,Credit Card,2.8,Fall
+3005,45,Female,la_rioja,Venmo,3.7,Winter
+3006,18,Female,leon,Venmo,3.5,Spring
+3007,37,Female,lleida,Venmo,3.7,Summer
+3008,23,Female,lleida,Venmo,3.0,Winter
+3009,39,Female,castellon,PayPal,4.9,Winter
+3010,62,Female,barcelona,Venmo,4.6,Winter
+3011,70,Female,valencia,Credit Card,3.3,Winter
+3012,20,Female,madrid,Credit Card,3.0,Summer
+3013,42,Female,zamora,PayPal,3.5,Fall
+3014,41,Female,la_coruna,Cash,4.2,Summer
+3015,24,Female,segovia,PayPal,4.5,Spring
+3016,37,Female,zamora,Bank Transfer,2.8,Spring
+3017,30,Female,alava,Bank Transfer,4.9,Summer
+3018,58,Female,bizkaia,Cash,3.3,Summer
+3019,43,Female,lleida,Debit Card,3.0,Summer
+3020,19,Female,almeria,PayPal,3.9,Winter
+3021,23,Female,pontevedra,Venmo,2.8,Fall
+3022,65,Female,castellon,Cash,4.5,Summer
+3023,58,Female,burgos,PayPal,4.0,Fall
+3024,50,Female,avila,PayPal,2.9,Summer
+3025,67,Female,santa_cruz_de_tenerife,Credit Card,4.0,Spring
+3026,40,Female,cantabria,PayPal,3.4,Summer
+3027,55,Female,cantabria,Credit Card,2.5,Fall
+3028,52,Female,jaen,Credit Card,2.8,Winter
+3029,62,Female,lugo,PayPal,3.0,Summer
+3030,64,Female,la_coruna,Debit Card,3.1,Summer
+3031,43,Female,bizkaia,Credit Card,2.6,Spring
+3032,61,Female,huesca,Credit Card,4.9,Summer
+3033,26,Female,murcia,Credit Card,3.5,Summer
+3034,22,Female,alicante,PayPal,2.6,Spring
+3035,51,Female,avila,Credit Card,3.5,Spring
+3036,69,Female,santa_cruz_de_tenerife,Cash,4.5,Spring
+3037,50,Female,cordoba,Venmo,4.3,Spring
+3038,51,Female,navarra,Cash,4.8,Summer
+3039,56,Female,jaen,Debit Card,4.2,Summer
+3040,59,Female,lugo,PayPal,3.2,Spring
+3041,18,Female,ciudad_real,Cash,4.1,Fall
+3042,48,Female,la_rioja,PayPal,4.0,Winter
+3043,53,Female,valladolid,PayPal,2.9,Winter
+3044,45,Female,asturias,Credit Card,2.6,Fall
+3045,21,Female,orense,Bank Transfer,2.7,Winter
+3046,42,Female,murcia,PayPal,4.6,Winter
+3047,60,Female,valencia,Cash,3.2,Spring
+3048,21,Female,burgos,PayPal,4.1,Fall
+3049,69,Female,malaga,Venmo,3.9,Summer
+3050,40,Female,segovia,Bank Transfer,3.0,Summer
+3051,31,Female,huelva,Venmo,3.6,Spring
+3052,44,Female,las_palmas,Debit Card,4.6,Summer
+3053,48,Female,salamanca,Bank Transfer,4.5,Spring
+3054,32,Female,badajoz,Bank Transfer,3.2,Winter
+3055,42,Female,la_rioja,Venmo,4.9,Summer
+3056,27,Female,soria,Debit Card,5.0,Fall
+3057,69,Female,gerona,Cash,3.8,Spring
+3058,67,Female,lugo,Bank Transfer,3.4,Spring
+3059,41,Female,segovia,Bank Transfer,3.8,Winter
+3060,46,Female,avila,Credit Card,3.2,Spring
+3061,47,Female,gipuzkoa,Venmo,4.7,Summer
+3062,33,Female,bizkaia,PayPal,4.5,Fall
+3063,51,Female,alava,PayPal,3.3,Fall
+3064,26,Female,murcia,Credit Card,3.9,Winter
+3065,22,Female,orense,Bank Transfer,3.6,Winter
+3066,49,Female,malaga,Venmo,2.8,Fall
+3067,58,Female,avila,Venmo,4.3,Summer
+3068,70,Female,barcelona,Cash,3.5,Spring
+3069,32,Female,jaen,Debit Card,4.2,Winter
+3070,62,Female,burgos,Debit Card,4.6,Spring
+3071,52,Female,soria,PayPal,2.6,Fall
+3072,23,Female,caceres,PayPal,3.4,Spring
+3073,26,Female,tarragona,PayPal,3.1,Spring
+3074,58,Female,sevilla,Debit Card,3.6,Winter
+3075,26,Female,alava,Debit Card,4.2,Winter
+3076,54,Female,ciudad_real,PayPal,3.6,Winter
+3077,66,Female,segovia,Venmo,3.6,Summer
+3078,60,Female,toledo,Debit Card,3.0,Spring
+3079,32,Female,la_rioja,Bank Transfer,2.5,Spring
+3080,48,Female,soria,Bank Transfer,4.0,Fall
+3081,69,Female,asturias,Cash,4.1,Spring
+3082,64,Female,zamora,Credit Card,4.9,Winter
+3083,56,Female,asturias,Bank Transfer,4.0,Spring
+3084,22,Female,santa_cruz_de_tenerife,PayPal,3.5,Summer
+3085,46,Female,tarragona,PayPal,3.2,Spring
+3086,24,Female,orense,Venmo,2.8,Winter
+3087,47,Female,santa_cruz_de_tenerife,Venmo,3.5,Summer
+3088,62,Female,cadiz,Bank Transfer,3.1,Spring
+3089,34,Female,la_coruna,Bank Transfer,3.3,Spring
+3090,50,Female,teruel,Cash,4.6,Fall
+3091,29,Female,barcelona,Bank Transfer,4.9,Summer
+3092,68,Female,tarragona,Credit Card,3.4,Winter
+3093,52,Female,murcia,Bank Transfer,3.5,Fall
+3094,29,Female,santa_cruz_de_tenerife,Cash,4.8,Summer
+3095,22,Female,zaragoza,Cash,2.7,Summer
+3096,62,Female,bizkaia,Venmo,3.4,Fall
+3097,69,Female,zaragoza,Bank Transfer,3.5,Winter
+3098,48,Female,zamora,Bank Transfer,3.7,Fall
+3099,66,Female,las_palmas,Bank Transfer,3.3,Summer
+3100,42,Female,teruel,Bank Transfer,2.9,Fall
+3101,50,Female,navarra,Bank Transfer,3.9,Winter
+3102,32,Female,alava,PayPal,2.7,Summer
+3103,51,Female,avila,Cash,4.3,Summer
+3104,27,Female,ciudad_real,Bank Transfer,3.0,Winter
+3105,43,Female,tarragona,Debit Card,5.0,Summer
+3106,48,Female,lleida,Debit Card,2.7,Fall
+3107,62,Female,granada,PayPal,4.7,Winter
+3108,65,Female,pontevedra,Credit Card,4.6,Winter
+3109,50,Female,granada,PayPal,3.2,Fall
+3110,60,Female,leon,Bank Transfer,4.3,Winter
+3111,19,Female,huelva,Bank Transfer,4.6,Fall
+3112,21,Female,burgos,Debit Card,4.9,Spring
+3113,19,Female,avila,Venmo,3.8,Fall
+3114,46,Female,leon,Debit Card,2.6,Summer
+3115,21,Female,alicante,Venmo,4.7,Spring
+3116,26,Female,ciudad_real,Bank Transfer,4.1,Fall
+3117,50,Female,la_rioja,Venmo,3.7,Spring
+3118,43,Female,zaragoza,PayPal,3.0,Fall
+3119,61,Female,guadalajara,Debit Card,4.7,Summer
+3120,63,Female,tarragona,Credit Card,4.7,Winter
+3121,46,Female,lugo,Debit Card,4.0,Fall
+3122,63,Female,palencia,Venmo,2.6,Fall
+3123,23,Female,malaga,Credit Card,3.0,Fall
+3124,57,Female,gipuzkoa,Venmo,3.3,Fall
+3125,57,Female,alicante,Cash,3.4,Summer
+3126,33,Female,segovia,Cash,4.0,Spring
+3127,57,Female,ciudad_real,Bank Transfer,2.6,Winter
+3128,55,Female,orense,Credit Card,3.4,Winter
+3129,65,Female,barcelona,Cash,4.4,Fall
+3130,60,Female,palencia,Venmo,4.7,Summer
+3131,52,Female,palencia,Venmo,4.5,Summer
+3132,34,Female,avila,Bank Transfer,2.9,Fall
+3133,33,Female,asturias,Cash,4.2,Summer
+3134,58,Female,almeria,Cash,4.1,Spring
+3135,35,Female,huesca,Bank Transfer,4.4,Spring
+3136,68,Female,pontevedra,Venmo,4.7,Spring
+3137,58,Female,albacete,Cash,3.1,Fall
+3138,34,Female,gerona,Bank Transfer,2.7,Spring
+3139,47,Female,bizkaia,Cash,4.6,Fall
+3140,35,Female,avila,Venmo,4.4,Winter
+3141,34,Female,leon,Bank Transfer,4.6,Summer
+3142,36,Female,murcia,Credit Card,4.9,Winter
+3143,23,Female,murcia,Venmo,4.0,Winter
+3144,68,Female,almeria,Cash,2.9,Summer
+3145,23,Female,huelva,Debit Card,2.6,Spring
+3146,57,Female,madrid,PayPal,4.6,Spring
+3147,21,Female,tarragona,PayPal,4.9,Winter
+3148,45,Female,santa_cruz_de_tenerife,Credit Card,4.3,Winter
+3149,37,Female,bizkaia,Venmo,4.3,Fall
+3150,18,Female,baleares,Venmo,4.6,Winter
+3151,55,Female,huelva,Bank Transfer,2.6,Spring
+3152,52,Female,la_coruna,Bank Transfer,3.1,Fall
+3153,49,Female,caceres,PayPal,3.1,Fall
+3154,56,Female,madrid,Venmo,3.1,Fall
+3155,27,Female,salamanca,Cash,4.4,Winter
+3156,22,Female,palencia,Cash,4.3,Fall
+3157,18,Female,malaga,Cash,3.1,Winter
+3158,21,Female,almeria,Debit Card,3.1,Fall
+3159,30,Female,alava,Credit Card,4.9,Winter
+3160,62,Female,valladolid,Bank Transfer,2.9,Winter
+3161,28,Female,gipuzkoa,Cash,3.8,Fall
+3162,66,Female,jaen,Cash,4.2,Winter
+3163,66,Female,las_palmas,Bank Transfer,3.9,Winter
+3164,49,Female,santa_cruz_de_tenerife,Cash,2.8,Summer
+3165,40,Female,pontevedra,Credit Card,2.6,Winter
+3166,49,Female,valencia,Bank Transfer,3.0,Spring
+3167,19,Female,valladolid,Bank Transfer,2.7,Winter
+3168,24,Female,asturias,Cash,2.8,Fall
+3169,31,Female,sevilla,PayPal,2.9,Spring
+3170,35,Female,salamanca,Venmo,3.8,Fall
+3171,65,Female,valladolid,Credit Card,4.4,Spring
+3172,68,Female,cadiz,Bank Transfer,3.1,Spring
+3173,57,Female,alava,Debit Card,3.7,Fall
+3174,69,Female,leon,PayPal,4.9,Summer
+3175,45,Female,lugo,PayPal,3.8,Winter
+3176,35,Female,leon,Debit Card,3.4,Fall
+3177,36,Female,pontevedra,Credit Card,4.6,Spring
+3178,55,Female,almeria,Credit Card,3.2,Fall
+3179,66,Female,avila,Credit Card,2.7,Spring
+3180,57,Female,sevilla,Debit Card,4.3,Spring
+3181,18,Female,navarra,PayPal,3.8,Fall
+3182,31,Female,palencia,PayPal,4.4,Summer
+3183,50,Female,huesca,Credit Card,3.6,Fall
+3184,50,Female,zamora,Cash,3.5,Winter
+3185,61,Female,guadalajara,Venmo,4.2,Spring
+3186,52,Female,murcia,PayPal,4.7,Fall
+3187,38,Female,caceres,Venmo,4.8,Winter
+3188,67,Female,lleida,Debit Card,3.2,Winter
+3189,42,Female,asturias,Bank Transfer,3.5,Winter
+3190,25,Female,granada,PayPal,4.2,Summer
+3191,41,Female,almeria,Credit Card,3.4,Fall
+3192,62,Female,toledo,Credit Card,4.7,Winter
+3193,19,Female,castellon,Cash,3.0,Fall
+3194,63,Female,ciudad_real,Credit Card,4.0,Winter
+3195,43,Female,granada,Credit Card,4.6,Summer
+3196,68,Female,teruel,Credit Card,4.9,Spring
+3197,24,Female,albacete,Debit Card,2.8,Winter
+3198,27,Female,granada,Credit Card,3.2,Spring
+3199,61,Female,baleares,Debit Card,2.8,Winter
+3200,59,Female,palencia,PayPal,4.2,Winter
+3201,67,Female,caceres,Credit Card,4.8,Spring
+3202,46,Female,lugo,Cash,2.8,Fall
+3203,65,Female,caceres,Venmo,4.5,Fall
+3204,63,Female,segovia,Venmo,4.1,Spring
+3205,57,Female,bizkaia,Debit Card,4.3,Fall
+3206,40,Female,malaga,Bank Transfer,4.4,Fall
+3207,36,Female,granada,PayPal,3.0,Winter
+3208,67,Female,cadiz,PayPal,2.7,Summer
+3209,61,Female,bizkaia,PayPal,3.3,Winter
+3210,64,Female,lugo,Debit Card,4.3,Fall
+3211,30,Female,tarragona,Venmo,2.9,Summer
+3212,53,Female,albacete,Cash,4.9,Winter
+3213,27,Female,cadiz,Debit Card,3.6,Winter
+3214,27,Female,valencia,Credit Card,3.3,Winter
+3215,53,Female,alicante,Debit Card,3.1,Spring
+3216,34,Female,valencia,PayPal,2.7,Summer
+3217,39,Female,burgos,Cash,3.4,Winter
+3218,44,Female,malaga,Venmo,3.4,Fall
+3219,37,Female,zaragoza,PayPal,3.9,Fall
+3220,57,Female,cordoba,Credit Card,3.5,Summer
+3221,38,Female,tarragona,Cash,4.1,Fall
+3222,21,Female,huelva,Cash,3.2,Winter
+3223,45,Female,las_palmas,PayPal,4.6,Fall
+3224,68,Female,madrid,Venmo,3.9,Spring
+3225,37,Female,santa_cruz_de_tenerife,PayPal,2.7,Winter
+3226,53,Female,guadalajara,Credit Card,3.0,Fall
+3227,57,Female,badajoz,Bank Transfer,3.3,Spring
+3228,28,Female,santa_cruz_de_tenerife,Debit Card,2.7,Fall
+3229,37,Female,asturias,PayPal,4.6,Spring
+3230,54,Female,malaga,Cash,2.7,Fall
+3231,49,Female,burgos,Debit Card,2.5,Summer
+3232,62,Female,malaga,Credit Card,4.4,Winter
+3233,45,Female,las_palmas,Bank Transfer,4.0,Spring
+3234,45,Female,santa_cruz_de_tenerife,Debit Card,3.8,Fall
+3235,49,Female,caceres,Debit Card,2.5,Winter
+3236,27,Female,zaragoza,Venmo,4.0,Summer
+3237,63,Female,jaen,Cash,4.1,Fall
+3238,61,Female,asturias,Cash,2.8,Summer
+3239,25,Female,alicante,Cash,3.4,Fall
+3240,33,Female,sevilla,Cash,2.7,Fall
+3241,56,Female,toledo,Bank Transfer,3.8,Fall
+3242,50,Female,badajoz,PayPal,4.4,Summer
+3243,45,Female,albacete,Venmo,2.8,Fall
+3244,45,Female,cantabria,Bank Transfer,5.0,Summer
+3245,65,Female,valladolid,Credit Card,4.7,Fall
+3246,63,Female,bizkaia,Cash,3.2,Fall
+3247,70,Female,castellon,Cash,2.9,Summer
+3248,53,Female,cantabria,PayPal,3.7,Summer
+3249,22,Female,burgos,Bank Transfer,4.2,Summer
+3250,26,Female,bizkaia,Credit Card,3.4,Summer
+3251,23,Female,gerona,Venmo,2.9,Spring
+3252,25,Female,segovia,Venmo,3.7,Winter
+3253,69,Female,valladolid,Credit Card,2.7,Spring
+3254,36,Female,alicante,Venmo,3.2,Fall
+3255,21,Female,valladolid,Bank Transfer,4.9,Winter
+3256,57,Female,burgos,Bank Transfer,2.8,Fall
+3257,60,Female,almeria,Venmo,4.7,Winter
+3258,44,Female,alicante,Venmo,3.3,Fall
+3259,31,Female,la_rioja,Credit Card,4.3,Spring
+3260,57,Female,zamora,Debit Card,3.7,Fall
+3261,39,Female,cantabria,Credit Card,4.5,Summer
+3262,48,Female,soria,Debit Card,3.4,Winter
+3263,42,Female,cantabria,Cash,2.7,Spring
+3264,56,Female,cadiz,Debit Card,4.4,Fall
+3265,28,Female,gerona,Cash,4.0,Winter
+3266,40,Female,orense,Credit Card,3.2,Winter
+3267,49,Female,salamanca,Bank Transfer,4.2,Winter
+3268,37,Female,las_palmas,Credit Card,3.0,Winter
+3269,22,Female,huelva,Bank Transfer,2.8,Fall
+3270,27,Female,avila,Cash,4.9,Winter
+3271,59,Female,la_coruna,PayPal,4.7,Winter
+3272,35,Female,baleares,Credit Card,4.4,Spring
+3273,58,Female,malaga,PayPal,3.1,Winter
+3274,58,Female,navarra,PayPal,2.6,Summer
+3275,46,Female,huesca,Cash,3.9,Spring
+3276,43,Female,caceres,Debit Card,2.6,Summer
+3277,39,Female,soria,PayPal,4.0,Summer
+3278,59,Female,zaragoza,Credit Card,4.9,Spring
+3279,59,Female,valencia,Bank Transfer,3.3,Summer
+3280,59,Female,albacete,Debit Card,3.0,Fall
+3281,45,Female,alava,PayPal,2.7,Winter
+3282,27,Female,almeria,Bank Transfer,3.1,Winter
+3283,24,Female,baleares,Credit Card,4.8,Fall
+3284,47,Female,teruel,Debit Card,2.9,Spring
+3285,70,Female,pontevedra,Venmo,4.5,Spring
+3286,58,Female,caceres,Cash,4.6,Fall
+3287,45,Female,badajoz,Venmo,5.0,Winter
+3288,24,Female,granada,Credit Card,4.3,Spring
+3289,67,Female,tarragona,Credit Card,4.9,Spring
+3290,31,Female,teruel,Venmo,4.0,Summer
+3291,52,Female,avila,PayPal,3.1,Spring
+3292,29,Female,cordoba,Cash,2.6,Fall
+3293,62,Female,toledo,Bank Transfer,4.9,Spring
+3294,19,Female,lleida,Credit Card,3.5,Spring
+3295,62,Female,leon,Bank Transfer,4.5,Spring
+3296,70,Female,jaen,Cash,2.8,Summer
+3297,20,Female,santa_cruz_de_tenerife,Venmo,4.2,Spring
+3298,67,Female,salamanca,PayPal,4.1,Fall
+3299,65,Female,jaen,Bank Transfer,3.5,Fall
+3300,45,Female,sevilla,Venmo,4.0,Spring
+3301,26,Female,segovia,Bank Transfer,4.0,Spring
+3302,36,Female,alicante,Credit Card,2.5,Summer
+3303,36,Female,la_rioja,Venmo,4.2,Winter
+3304,20,Female,huesca,Credit Card,3.4,Summer
+3305,30,Female,salamanca,Bank Transfer,4.8,Fall
+3306,34,Female,salamanca,PayPal,4.9,Summer
+3307,63,Female,badajoz,Venmo,3.6,Summer
+3308,18,Female,salamanca,Cash,4.0,Winter
+3309,55,Female,cantabria,Cash,2.6,Fall
+3310,48,Female,castellon,PayPal,3.1,Summer
+3311,45,Female,orense,PayPal,3.6,Winter
+3312,29,Female,las_palmas,Bank Transfer,4.0,Summer
+3313,55,Female,pontevedra,Cash,3.9,Summer
+3314,55,Female,valladolid,Credit Card,3.9,Fall
+3315,55,Female,las_palmas,Credit Card,3.3,Spring
+3316,48,Female,huelva,PayPal,2.9,Summer
+3317,42,Female,leon,Debit Card,3.1,Summer
+3318,21,Female,navarra,Cash,4.7,Summer
+3319,45,Female,caceres,PayPal,3.9,Summer
+3320,23,Female,cadiz,Credit Card,4.3,Summer
+3321,66,Female,malaga,Cash,4.2,Fall
+3322,32,Female,orense,Venmo,4.3,Winter
+3323,52,Female,badajoz,PayPal,4.6,Winter
+3324,54,Female,sevilla,Credit Card,3.8,Winter
+3325,37,Female,sevilla,Venmo,3.3,Fall
+3326,29,Female,jaen,Venmo,3.7,Fall
+3327,47,Female,gipuzkoa,Debit Card,4.3,Summer
+3328,47,Female,lleida,Debit Card,4.1,Spring
+3329,42,Female,toledo,Cash,3.2,Spring
+3330,34,Female,cuenca,Debit Card,3.8,Winter
+3331,38,Female,huesca,Bank Transfer,3.2,Spring
+3332,55,Female,caceres,PayPal,3.5,Summer
+3333,27,Female,avila,PayPal,3.1,Summer
+3334,55,Female,segovia,PayPal,4.2,Spring
+3335,66,Female,bizkaia,Credit Card,3.4,Summer
+3336,44,Female,cadiz,Bank Transfer,3.5,Winter
+3337,39,Female,badajoz,Debit Card,4.0,Fall
+3338,23,Female,almeria,Bank Transfer,4.4,Winter
+3339,29,Female,salamanca,Credit Card,2.9,Winter
+3340,20,Female,almeria,Cash,3.6,Fall
+3341,42,Female,soria,Credit Card,4.4,Fall
+3342,55,Female,leon,Credit Card,4.5,Summer
+3343,66,Female,sevilla,Credit Card,3.8,Spring
+3344,24,Female,murcia,Cash,3.6,Winter
+3345,62,Female,baleares,Cash,4.3,Fall
+3346,28,Female,cuenca,Venmo,4.0,Summer
+3347,30,Female,valladolid,Venmo,3.4,Summer
+3348,22,Female,asturias,PayPal,4.4,Summer
+3349,28,Female,leon,Cash,2.8,Winter
+3350,35,Female,cantabria,PayPal,2.8,Fall
+3351,45,Female,gerona,Cash,4.9,Fall
+3352,43,Female,tarragona,Bank Transfer,4.2,Spring
+3353,55,Female,lugo,Bank Transfer,2.9,Summer
+3354,31,Female,huelva,Credit Card,4.6,Fall
+3355,42,Female,barcelona,PayPal,2.8,Fall
+3356,40,Female,soria,Bank Transfer,2.6,Spring
+3357,39,Female,granada,PayPal,3.5,Summer
+3358,41,Female,castellon,Credit Card,3.5,Winter
+3359,56,Female,burgos,Cash,3.4,Fall
+3360,43,Female,albacete,Debit Card,3.9,Fall
+3361,22,Female,pontevedra,Cash,3.3,Spring
+3362,47,Female,baleares,Credit Card,4.1,Spring
+3363,50,Female,leon,Venmo,3.0,Summer
+3364,58,Female,orense,Bank Transfer,3.0,Winter
+3365,50,Female,santa_cruz_de_tenerife,Credit Card,3.2,Fall
+3366,43,Female,lleida,Credit Card,3.9,Fall
+3367,38,Female,la_coruna,Debit Card,3.6,Spring
+3368,44,Female,bizkaia,Venmo,3.1,Summer
+3369,30,Female,burgos,Bank Transfer,4.8,Spring
+3370,47,Female,cantabria,Cash,3.8,Winter
+3371,30,Female,albacete,Cash,2.8,Summer
+3372,49,Female,toledo,PayPal,4.0,Winter
+3373,56,Female,valencia,Credit Card,4.6,Winter
+3374,70,Female,sevilla,Debit Card,3.5,Spring
+3375,22,Female,zaragoza,Debit Card,3.7,Spring
+3376,51,Female,tarragona,Credit Card,4.9,Fall
+3377,22,Female,orense,Cash,4.1,Winter
+3378,37,Female,teruel,PayPal,4.6,Winter
+3379,49,Female,guadalajara,Cash,4.5,Fall
+3380,61,Female,toledo,Cash,5.0,Summer
+3381,41,Female,la_rioja,PayPal,3.8,Summer
+3382,57,Female,santa_cruz_de_tenerife,Credit Card,4.7,Winter
+3383,34,Female,la_coruna,Bank Transfer,2.8,Spring
+3384,27,Female,salamanca,Venmo,2.6,Fall
+3385,39,Female,cadiz,Venmo,3.8,Summer
+3386,62,Female,jaen,Credit Card,2.8,Winter
+3387,34,Female,tarragona,Cash,2.6,Fall
+3388,53,Female,lleida,Credit Card,3.4,Spring
+3389,35,Female,murcia,Credit Card,4.5,Spring
+3390,38,Female,la_coruna,Venmo,3.8,Fall
+3391,32,Female,orense,PayPal,3.0,Summer
+3392,47,Female,zaragoza,Debit Card,3.7,Fall
+3393,53,Female,gerona,Venmo,4.4,Winter
+3394,60,Female,avila,Debit Card,3.1,Fall
+3395,31,Female,soria,PayPal,4.2,Spring
+3396,44,Female,murcia,Debit Card,3.1,Winter
+3397,29,Female,madrid,PayPal,5.0,Winter
+3398,19,Female,leon,Bank Transfer,2.7,Summer
+3399,54,Female,malaga,Cash,3.8,Winter
+3400,40,Female,almeria,Debit Card,3.3,Winter
+3401,39,Female,huesca,Venmo,4.8,Fall
+3402,44,Female,cadiz,Credit Card,3.4,Winter
+3403,22,Female,burgos,PayPal,4.4,Spring
+3404,30,Female,toledo,Cash,3.9,Summer
+3405,69,Female,zamora,Credit Card,3.9,Fall
+3406,28,Female,valladolid,Bank Transfer,4.2,Summer
+3407,57,Female,valencia,Venmo,4.0,Spring
+3408,46,Female,alicante,Cash,2.6,Spring
+3409,48,Female,castellon,Bank Transfer,4.4,Summer
+3410,24,Female,leon,Credit Card,3.2,Summer
+3411,50,Female,barcelona,Bank Transfer,4.3,Summer
+3412,29,Female,alicante,Cash,4.9,Winter
+3413,61,Female,toledo,Venmo,3.8,Fall
+3414,34,Female,gipuzkoa,PayPal,2.5,Winter
+3415,27,Female,la_rioja,Bank Transfer,4.9,Spring
+3416,38,Female,huesca,Bank Transfer,3.0,Fall
+3417,25,Female,burgos,Bank Transfer,3.2,Spring
+3418,54,Female,alava,Debit Card,2.9,Summer
+3419,53,Female,murcia,Debit Card,2.8,Summer
+3420,23,Female,salamanca,Venmo,3.1,Winter
+3421,19,Female,cordoba,PayPal,3.4,Winter
+3422,57,Female,alicante,PayPal,2.9,Summer
+3423,19,Female,pontevedra,Venmo,3.2,Winter
+3424,33,Female,lugo,PayPal,3.8,Spring
+3425,33,Female,cordoba,Credit Card,3.6,Summer
+3426,38,Female,cantabria,Debit Card,4.3,Summer
+3427,47,Female,segovia,Credit Card,4.8,Fall
+3428,39,Female,valladolid,Cash,2.5,Winter
+3429,32,Female,alava,Venmo,2.5,Fall
+3430,27,Female,huelva,Debit Card,4.6,Winter
+3431,67,Female,avila,Bank Transfer,4.2,Winter
+3432,46,Female,malaga,Venmo,4.2,Summer
+3433,36,Female,toledo,PayPal,4.8,Summer
+3434,62,Female,granada,PayPal,4.5,Spring
+3435,31,Female,alicante,Venmo,3.3,Summer
+3436,68,Female,la_rioja,Debit Card,2.7,Summer
+3437,57,Female,murcia,Bank Transfer,2.8,Winter
+3438,22,Female,castellon,PayPal,3.5,Winter
+3439,26,Female,cantabria,Credit Card,3.0,Fall
+3440,43,Female,navarra,Venmo,4.5,Summer
+3441,45,Female,palencia,PayPal,4.3,Fall
+3442,64,Female,leon,Credit Card,4.1,Fall
+3443,28,Female,sevilla,PayPal,4.3,Spring
+3444,47,Female,gipuzkoa,Cash,5.0,Summer
+3445,53,Female,palencia,Bank Transfer,3.8,Summer
+3446,42,Female,tarragona,Debit Card,4.9,Fall
+3447,51,Female,alava,Cash,5.0,Spring
+3448,62,Female,alava,Bank Transfer,4.3,Fall
+3449,18,Female,bizkaia,Bank Transfer,4.1,Winter
+3450,48,Female,salamanca,Cash,4.5,Spring
+3451,20,Female,la_rioja,PayPal,3.6,Spring
+3452,32,Female,burgos,Credit Card,3.0,Fall
+3453,26,Female,cadiz,Venmo,3.7,Spring
+3454,31,Female,cuenca,Venmo,4.3,Winter
+3455,55,Female,la_coruna,PayPal,4.6,Fall
+3456,49,Female,segovia,Venmo,4.7,Fall
+3457,42,Female,zamora,Venmo,4.6,Fall
+3458,64,Female,bizkaia,Cash,3.0,Summer
+3459,68,Female,huesca,Venmo,3.4,Spring
+3460,68,Female,bizkaia,PayPal,3.8,Fall
+3461,41,Female,salamanca,Bank Transfer,3.1,Spring
+3462,51,Female,cadiz,Cash,4.4,Spring
+3463,44,Female,segovia,Credit Card,4.5,Spring
+3464,27,Female,cordoba,PayPal,2.8,Fall
+3465,36,Female,badajoz,PayPal,2.7,Winter
+3466,19,Female,huelva,Debit Card,3.4,Spring
+3467,49,Female,orense,Bank Transfer,4.6,Summer
+3468,18,Female,salamanca,Credit Card,5.0,Fall
+3469,36,Female,huelva,Debit Card,3.5,Winter
+3470,36,Female,toledo,Cash,3.3,Fall
+3471,19,Female,las_palmas,Cash,4.5,Summer
+3472,43,Female,lugo,Cash,3.1,Spring
+3473,31,Female,alicante,Debit Card,4.0,Summer
+3474,63,Female,la_coruna,Cash,2.5,Spring
+3475,41,Female,caceres,Venmo,4.4,Winter
+3476,48,Female,salamanca,Cash,4.4,Spring
+3477,68,Female,alicante,Cash,3.2,Summer
+3478,53,Female,guadalajara,Debit Card,3.8,Spring
+3479,36,Female,asturias,PayPal,4.6,Fall
+3480,46,Female,toledo,Cash,4.9,Summer
+3481,21,Female,alicante,PayPal,3.5,Winter
+3482,52,Female,guadalajara,Debit Card,3.4,Summer
+3483,66,Female,valladolid,Debit Card,3.9,Winter
+3484,19,Female,cantabria,Credit Card,3.9,Winter
+3485,44,Female,caceres,Credit Card,4.2,Fall
+3486,50,Female,murcia,Debit Card,3.4,Winter
+3487,51,Female,valencia,PayPal,4.9,Winter
+3488,25,Female,cadiz,Bank Transfer,2.9,Fall
+3489,62,Female,la_rioja,Cash,4.9,Spring
+3490,48,Female,palencia,PayPal,4.6,Summer
+3491,62,Female,las_palmas,Credit Card,3.6,Spring
+3492,22,Female,segovia,Cash,4.3,Winter
+3493,48,Female,granada,Bank Transfer,4.6,Fall
+3494,48,Female,bizkaia,Credit Card,4.7,Winter
+3495,62,Female,pontevedra,PayPal,3.5,Winter
+3496,24,Female,las_palmas,Cash,2.8,Spring
+3497,39,Female,granada,PayPal,4.0,Summer
+3498,35,Female,teruel,Venmo,4.3,Spring
+3499,47,Female,madrid,Bank Transfer,3.8,Summer
+3500,22,Female,navarra,PayPal,3.0,Fall
+3501,38,Female,albacete,Debit Card,4.6,Fall
+3502,53,Female,huelva,Bank Transfer,4.8,Fall
+3503,31,Female,cuenca,Bank Transfer,4.7,Fall
+3504,31,Female,burgos,Cash,3.9,Spring
+3505,65,Female,almeria,Venmo,4.0,Fall
+3506,48,Female,jaen,Bank Transfer,3.7,Winter
+3507,18,Female,navarra,Cash,3.7,Winter
+3508,46,Female,lleida,Credit Card,4.2,Spring
+3509,52,Female,malaga,Bank Transfer,4.7,Fall
+3510,50,Female,orense,Venmo,4.3,Winter
+3511,49,Female,alicante,Venmo,4.9,Fall
+3512,69,Female,zamora,Credit Card,3.9,Summer
+3513,36,Female,murcia,Debit Card,3.4,Fall
+3514,30,Female,navarra,Credit Card,4.2,Spring
+3515,25,Female,alicante,Cash,4.7,Winter
+3516,19,Female,lleida,Debit Card,4.0,Winter
+3517,34,Female,cantabria,PayPal,4.0,Summer
+3518,29,Female,segovia,Debit Card,3.1,Winter
+3519,50,Female,albacete,PayPal,4.2,Spring
+3520,31,Female,granada,Bank Transfer,3.7,Winter
+3521,41,Female,cadiz,Bank Transfer,3.1,Spring
+3522,52,Female,malaga,Venmo,3.7,Winter
+3523,27,Female,madrid,Cash,3.2,Spring
+3524,49,Female,caceres,Cash,2.8,Summer
+3525,69,Female,jaen,Credit Card,2.9,Summer
+3526,45,Female,valencia,Bank Transfer,3.5,Winter
+3527,20,Female,toledo,PayPal,3.8,Spring
+3528,25,Female,leon,Cash,4.7,Spring
+3529,38,Female,navarra,PayPal,4.5,Summer
+3530,55,Female,la_rioja,Bank Transfer,3.9,Winter
+3531,62,Female,las_palmas,PayPal,3.4,Spring
+3532,54,Female,gerona,Cash,4.6,Winter
+3533,61,Female,la_coruna,Credit Card,4.6,Fall
+3534,50,Female,cuenca,Venmo,4.7,Fall
+3535,65,Female,huesca,Cash,3.2,Fall
+3536,68,Female,cordoba,Debit Card,5.0,Summer
+3537,55,Female,murcia,Venmo,4.5,Spring
+3538,57,Female,la_coruna,Credit Card,3.5,Spring
+3539,56,Female,teruel,Venmo,4.5,Spring
+3540,29,Female,valencia,Credit Card,3.2,Spring
+3541,24,Female,segovia,Bank Transfer,4.6,Spring
+3542,59,Female,palencia,PayPal,4.0,Winter
+3543,62,Female,alava,Venmo,4.2,Spring
+3544,58,Female,segovia,PayPal,4.1,Winter
+3545,64,Female,salamanca,Cash,3.6,Fall
+3546,48,Female,soria,Debit Card,3.7,Spring
+3547,60,Female,barcelona,Bank Transfer,3.6,Summer
+3548,52,Female,alicante,Credit Card,3.8,Summer
+3549,63,Female,la_rioja,Debit Card,3.0,Fall
+3550,44,Female,palencia,Bank Transfer,3.4,Summer
+3551,63,Female,granada,Cash,4.8,Winter
+3552,66,Female,malaga,Venmo,2.6,Spring
+3553,22,Female,soria,PayPal,2.9,Winter
+3554,62,Female,murcia,Bank Transfer,4.9,Spring
+3555,39,Female,pontevedra,Credit Card,5.0,Spring
+3556,25,Female,albacete,Cash,4.6,Spring
+3557,70,Female,la_rioja,Cash,4.2,Fall
+3558,52,Female,valladolid,PayPal,4.9,Summer
+3559,68,Female,almeria,Venmo,4.8,Summer
+3560,18,Female,valencia,Venmo,3.0,Fall
+3561,18,Female,la_coruna,Credit Card,3.5,Fall
+3562,63,Female,pontevedra,Credit Card,3.4,Spring
+3563,47,Female,navarra,Bank Transfer,3.4,Winter
+3564,43,Female,valencia,Credit Card,4.9,Summer
+3565,60,Female,zaragoza,Venmo,4.4,Summer
+3566,49,Female,segovia,PayPal,4.2,Spring
+3567,28,Female,lleida,Venmo,3.1,Spring
+3568,32,Female,guadalajara,Credit Card,4.0,Summer
+3569,29,Female,palencia,PayPal,4.8,Spring
+3570,35,Female,caceres,Bank Transfer,3.3,Fall
+3571,23,Female,caceres,Debit Card,4.7,Winter
+3572,70,Female,orense,Bank Transfer,3.2,Summer
+3573,23,Female,leon,Credit Card,5.0,Spring
+3574,43,Female,pontevedra,PayPal,4.9,Fall
+3575,29,Female,teruel,Bank Transfer,4.9,Fall
+3576,61,Female,madrid,Venmo,3.7,Fall
+3577,29,Female,caceres,Venmo,3.0,Spring
+3578,66,Female,la_rioja,Bank Transfer,2.6,Winter
+3579,46,Female,teruel,Bank Transfer,2.6,Winter
+3580,34,Female,navarra,Credit Card,4.8,Fall
+3581,51,Female,burgos,Cash,3.2,Summer
+3582,26,Female,teruel,Credit Card,4.9,Fall
+3583,23,Female,almeria,PayPal,3.4,Summer
+3584,52,Female,barcelona,Credit Card,2.7,Summer
+3585,39,Female,tarragona,Debit Card,4.8,Fall
+3586,39,Female,alava,Venmo,4.1,Winter
+3587,33,Female,zamora,PayPal,4.6,Winter
+3588,33,Female,guadalajara,Debit Card,4.4,Summer
+3589,23,Female,bizkaia,Cash,3.5,Spring
+3590,31,Female,huesca,Cash,4.8,Spring
+3591,27,Female,castellon,Venmo,2.9,Fall
+3592,48,Female,bizkaia,Bank Transfer,3.2,Winter
+3593,61,Female,asturias,Venmo,4.4,Spring
+3594,63,Female,madrid,PayPal,4.6,Spring
+3595,19,Female,gipuzkoa,Venmo,2.6,Summer
+3596,21,Female,valladolid,PayPal,3.1,Spring
+3597,28,Female,gerona,Cash,4.3,Spring
+3598,29,Female,granada,Bank Transfer,3.1,Summer
+3599,23,Female,zaragoza,Bank Transfer,4.6,Spring
+3600,37,Female,la_coruna,Cash,4.6,Spring
+3601,67,Female,lleida,Cash,2.7,Spring
+3602,34,Female,alava,PayPal,3.0,Summer
+3603,58,Female,cantabria,Debit Card,3.3,Summer
+3604,45,Female,caceres,Cash,2.7,Spring
+3605,63,Female,burgos,Debit Card,3.3,Fall
+3606,68,Female,sevilla,Bank Transfer,4.3,Fall
+3607,41,Female,almeria,Venmo,4.8,Fall
+3608,50,Female,huelva,Venmo,3.3,Fall
+3609,24,Female,granada,Cash,4.3,Fall
+3610,21,Female,baleares,Debit Card,3.0,Summer
+3611,18,Female,orense,Bank Transfer,4.8,Fall
+3612,63,Female,orense,Credit Card,2.9,Spring
+3613,47,Female,valencia,Cash,3.6,Summer
+3614,58,Female,barcelona,Venmo,3.5,Fall
+3615,46,Female,lugo,Bank Transfer,4.7,Spring
+3616,35,Female,gerona,Credit Card,4.4,Winter
+3617,42,Female,cuenca,Debit Card,3.3,Winter
+3618,48,Female,jaen,Debit Card,4.3,Fall
+3619,28,Female,madrid,PayPal,4.0,Fall
+3620,44,Female,gipuzkoa,Venmo,4.9,Winter
+3621,60,Female,toledo,Credit Card,2.9,Summer
+3622,38,Female,alicante,Cash,4.0,Summer
+3623,46,Female,jaen,Credit Card,4.3,Fall
+3624,39,Female,la_rioja,PayPal,2.7,Winter
+3625,22,Female,malaga,Bank Transfer,5.0,Fall
+3626,44,Female,salamanca,PayPal,4.4,Winter
+3627,69,Female,huelva,Venmo,3.5,Fall
+3628,39,Female,albacete,Cash,3.3,Winter
+3629,53,Female,jaen,Credit Card,3.8,Summer
+3630,52,Female,zamora,Debit Card,4.5,Summer
+3631,65,Female,la_rioja,Cash,4.8,Winter
+3632,48,Female,cadiz,Credit Card,2.9,Fall
+3633,27,Female,burgos,Debit Card,3.2,Spring
+3634,39,Female,cadiz,Bank Transfer,2.8,Spring
+3635,59,Female,almeria,PayPal,3.3,Winter
+3636,52,Female,soria,Credit Card,3.3,Fall
+3637,50,Female,madrid,Cash,4.2,Summer
+3638,32,Female,jaen,Credit Card,3.6,Winter
+3639,40,Female,palencia,PayPal,4.6,Spring
+3640,26,Female,teruel,Venmo,3.6,Summer
+3641,47,Female,asturias,PayPal,4.0,Spring
+3642,51,Female,murcia,Bank Transfer,2.7,Fall
+3643,47,Female,gipuzkoa,PayPal,4.4,Summer
+3644,53,Female,cuenca,Debit Card,3.2,Fall
+3645,35,Female,huelva,Venmo,2.6,Winter
+3646,38,Female,lleida,Credit Card,3.4,Summer
+3647,69,Female,murcia,Debit Card,5.0,Spring
+3648,47,Female,ciudad_real,Bank Transfer,2.9,Winter
+3649,31,Female,burgos,Cash,5.0,Winter
+3650,68,Female,castellon,Credit Card,4.4,Fall
+3651,51,Female,alicante,PayPal,3.5,Summer
+3652,20,Female,asturias,Venmo,3.8,Spring
+3653,27,Female,gipuzkoa,Debit Card,3.8,Fall
+3654,67,Female,baleares,Credit Card,3.9,Spring
+3655,21,Female,huelva,Credit Card,3.3,Winter
+3656,20,Female,zaragoza,Credit Card,2.9,Fall
+3657,35,Female,navarra,Credit Card,3.7,Spring
+3658,58,Female,cantabria,Debit Card,3.7,Winter
+3659,28,Female,santa_cruz_de_tenerife,PayPal,4.6,Fall
+3660,27,Female,la_coruna,Bank Transfer,4.9,Fall
+3661,19,Female,gerona,Bank Transfer,3.1,Winter
+3662,63,Female,huelva,Credit Card,3.5,Winter
+3663,69,Female,burgos,Debit Card,4.9,Spring
+3664,65,Female,navarra,Credit Card,4.4,Summer
+3665,63,Female,gipuzkoa,Debit Card,4.4,Fall
+3666,28,Female,burgos,Credit Card,3.4,Fall
+3667,67,Female,valencia,Cash,3.0,Winter
+3668,51,Female,valladolid,Venmo,2.6,Fall
+3669,59,Female,cantabria,Venmo,3.2,Summer
+3670,25,Female,gipuzkoa,PayPal,4.6,Fall
+3671,31,Female,granada,PayPal,3.8,Winter
+3672,62,Female,granada,Venmo,4.8,Summer
+3673,51,Female,guadalajara,PayPal,4.5,Fall
+3674,32,Female,toledo,Bank Transfer,4.2,Summer
+3675,35,Female,zaragoza,Venmo,2.7,Winter
+3676,70,Female,huesca,Bank Transfer,4.5,Winter
+3677,19,Female,las_palmas,PayPal,4.9,Spring
+3678,32,Female,almeria,Cash,2.8,Fall
+3679,56,Female,albacete,Bank Transfer,3.5,Fall
+3680,53,Female,lleida,Cash,2.5,Summer
+3681,22,Female,ciudad_real,Debit Card,2.9,Winter
+3682,26,Female,madrid,Debit Card,4.2,Fall
+3683,42,Female,almeria,Venmo,4.6,Fall
+3684,30,Female,madrid,Venmo,3.0,Winter
+3685,29,Female,cuenca,Credit Card,4.4,Spring
+3686,47,Female,gerona,Cash,2.6,Summer
+3687,59,Female,gerona,Cash,4.8,Spring
+3688,34,Female,barcelona,Bank Transfer,2.9,Summer
+3689,52,Female,gerona,Cash,3.0,Spring
+3690,47,Female,valladolid,Bank Transfer,4.5,Fall
+3691,24,Female,pontevedra,Bank Transfer,3.7,Fall
+3692,63,Female,burgos,PayPal,4.8,Summer
+3693,59,Female,zaragoza,Cash,4.8,Spring
+3694,66,Female,ciudad_real,Venmo,4.7,Summer
+3695,45,Female,burgos,PayPal,2.6,Winter
+3696,38,Female,santa_cruz_de_tenerife,Bank Transfer,4.6,Fall
+3697,63,Female,cantabria,Bank Transfer,3.4,Fall
+3698,55,Female,sevilla,Cash,3.0,Winter
+3699,25,Female,huelva,Venmo,4.0,Spring
+3700,51,Female,malaga,Bank Transfer,2.6,Fall
+3701,28,Female,cordoba,Bank Transfer,3.4,Summer
+3702,46,Female,badajoz,Cash,4.5,Spring
+3703,58,Female,alava,Venmo,2.7,Spring
+3704,30,Female,leon,PayPal,2.9,Fall
+3705,68,Female,huelva,Credit Card,4.0,Winter
+3706,28,Female,granada,Debit Card,3.2,Summer
+3707,26,Female,castellon,Cash,4.0,Spring
+3708,35,Female,jaen,Venmo,3.4,Fall
+3709,40,Female,orense,PayPal,4.9,Fall
+3710,31,Female,orense,PayPal,3.6,Fall
+3711,60,Female,murcia,Bank Transfer,3.6,Summer
+3712,69,Female,granada,Cash,3.2,Fall
+3713,51,Female,las_palmas,PayPal,3.7,Spring
+3714,49,Female,gipuzkoa,Debit Card,2.6,Spring
+3715,18,Female,lugo,Credit Card,3.9,Winter
+3716,63,Female,tarragona,Bank Transfer,3.4,Fall
+3717,57,Female,baleares,Debit Card,3.4,Fall
+3718,45,Female,alava,Bank Transfer,4.2,Summer
+3719,36,Female,la_coruna,Bank Transfer,2.9,Fall
+3720,20,Female,soria,Bank Transfer,4.1,Summer
+3721,21,Female,tarragona,Credit Card,3.6,Fall
+3722,62,Female,huesca,Cash,4.0,Fall
+3723,23,Female,badajoz,Credit Card,4.0,Fall
+3724,26,Female,gipuzkoa,Debit Card,3.6,Spring
+3725,30,Female,cuenca,Bank Transfer,3.1,Winter
+3726,18,Female,toledo,PayPal,4.4,Winter
+3727,47,Female,segovia,Debit Card,4.3,Fall
+3728,41,Female,toledo,Debit Card,3.5,Summer
+3729,62,Female,granada,Debit Card,3.0,Winter
+3730,28,Female,murcia,Cash,4.7,Spring
+3731,46,Female,sevilla,Credit Card,2.5,Summer
+3732,54,Female,toledo,PayPal,3.1,Spring
+3733,36,Female,cuenca,PayPal,3.3,Spring
+3734,25,Female,almeria,Debit Card,4.7,Fall
+3735,38,Female,zaragoza,Debit Card,3.4,Spring
+3736,38,Female,madrid,PayPal,3.1,Spring
+3737,42,Female,alava,PayPal,4.6,Spring
+3738,19,Female,jaen,PayPal,4.9,Winter
+3739,34,Female,leon,Cash,2.7,Spring
+3740,38,Female,ciudad_real,Credit Card,4.2,Fall
+3741,42,Female,gipuzkoa,Debit Card,2.6,Summer
+3742,58,Female,barcelona,Debit Card,3.2,Spring
+3743,56,Female,asturias,Credit Card,4.4,Fall
+3744,62,Female,malaga,Debit Card,3.6,Fall
+3745,24,Female,toledo,Bank Transfer,2.7,Summer
+3746,60,Female,soria,Debit Card,4.3,Spring
+3747,53,Female,la_coruna,PayPal,2.6,Summer
+3748,26,Female,madrid,Bank Transfer,4.3,Spring
+3749,34,Female,castellon,Venmo,3.9,Fall
+3750,24,Female,lleida,Venmo,2.9,Winter
+3751,42,Female,segovia,PayPal,3.1,Fall
+3752,36,Female,valencia,Credit Card,4.2,Fall
+3753,24,Female,asturias,Venmo,4.1,Winter
+3754,39,Female,caceres,Bank Transfer,4.2,Winter
+3755,46,Female,soria,Cash,4.4,Summer
+3756,64,Female,huelva,Credit Card,3.4,Fall
+3757,64,Female,jaen,Debit Card,4.8,Spring
+3758,61,Female,barcelona,Cash,4.5,Fall
+3759,61,Female,sevilla,Bank Transfer,2.7,Spring
+3760,44,Female,pontevedra,Venmo,3.5,Spring
+3761,65,Female,avila,PayPal,3.1,Fall
+3762,60,Female,lleida,Venmo,2.8,Summer
+3763,65,Female,granada,PayPal,2.9,Fall
+3764,27,Female,cadiz,Cash,4.5,Winter
+3765,36,Female,albacete,Venmo,3.5,Fall
+3766,22,Female,cantabria,Bank Transfer,4.3,Summer
+3767,62,Female,la_rioja,Debit Card,4.9,Fall
+3768,59,Female,guadalajara,Bank Transfer,3.1,Summer
+3769,50,Female,asturias,Bank Transfer,4.0,Winter
+3770,51,Female,cuenca,Venmo,3.6,Summer
+3771,23,Female,palencia,Bank Transfer,4.0,Summer
+3772,21,Female,zamora,Venmo,2.6,Winter
+3773,44,Female,toledo,Cash,3.1,Fall
+3774,25,Female,cadiz,Cash,3.5,Summer
+3775,57,Female,castellon,PayPal,3.9,Winter
+3776,41,Female,cordoba,Cash,2.7,Spring
+3777,19,Female,valladolid,Credit Card,4.1,Spring
+3778,43,Female,valladolid,Cash,4.3,Fall
+3779,25,Female,huelva,Debit Card,2.9,Fall
+3780,60,Female,baleares,PayPal,4.0,Spring
+3781,54,Female,segovia,Venmo,4.1,Fall
+3782,52,Female,valladolid,PayPal,3.7,Winter
+3783,40,Female,alava,PayPal,2.8,Spring
+3784,39,Female,lugo,Debit Card,3.2,Summer
+3785,54,Female,jaen,Venmo,4.5,Winter
+3786,64,Female,palencia,Cash,3.8,Winter
+3787,31,Female,cuenca,Venmo,3.6,Fall
+3788,37,Female,ciudad_real,PayPal,3.6,Fall
+3789,43,Female,teruel,Debit Card,3.2,Spring
+3790,56,Female,cordoba,Bank Transfer,3.8,Summer
+3791,27,Female,orense,Credit Card,4.4,Summer
+3792,40,Female,caceres,Venmo,3.7,Spring
+3793,43,Female,huesca,PayPal,2.6,Summer
+3794,62,Female,pontevedra,Bank Transfer,4.0,Fall
+3795,44,Female,cantabria,Venmo,3.6,Summer
+3796,45,Female,baleares,Cash,2.5,Spring
+3797,40,Female,leon,Bank Transfer,3.2,Fall
+3798,68,Female,lugo,Cash,2.5,Summer
+3799,63,Female,cantabria,Credit Card,3.2,Winter
+3800,60,Female,pontevedra,Credit Card,2.6,Winter
+3801,19,Female,cantabria,Venmo,4.8,Fall
+3802,26,Female,soria,PayPal,5.0,Spring
+3803,70,Female,palencia,Bank Transfer,3.2,Spring
+3804,48,Female,murcia,Debit Card,3.6,Spring
+3805,37,Female,santa_cruz_de_tenerife,Cash,2.7,Fall
+3806,48,Female,caceres,Credit Card,3.1,Fall
+3807,18,Female,guadalajara,PayPal,3.0,Spring
+3808,38,Female,bizkaia,PayPal,2.9,Spring
+3809,33,Female,zamora,Debit Card,4.7,Winter
+3810,57,Female,leon,Credit Card,3.7,Winter
+3811,46,Female,badajoz,Venmo,3.9,Fall
+3812,46,Female,madrid,Cash,4.0,Winter
+3813,50,Female,cantabria,Bank Transfer,2.8,Spring
+3814,61,Female,zaragoza,Venmo,4.1,Summer
+3815,45,Female,santa_cruz_de_tenerife,Bank Transfer,4.2,Winter
+3816,32,Female,murcia,Venmo,4.3,Fall
+3817,29,Female,leon,Credit Card,4.3,Summer
+3818,66,Female,soria,PayPal,2.6,Fall
+3819,70,Female,valencia,Cash,3.8,Winter
+3820,36,Female,toledo,Cash,2.9,Spring
+3821,34,Female,baleares,Debit Card,5.0,Winter
+3822,20,Female,lugo,Credit Card,4.6,Summer
+3823,70,Female,cadiz,PayPal,3.2,Spring
+3824,50,Female,asturias,Bank Transfer,3.0,Summer
+3825,54,Female,badajoz,Credit Card,4.0,Summer
+3826,49,Female,tarragona,Debit Card,4.1,Fall
+3827,50,Female,cantabria,Bank Transfer,4.0,Summer
+3828,62,Female,pontevedra,Cash,4.1,Summer
+3829,42,Female,zaragoza,Cash,3.4,Spring
+3830,69,Female,gipuzkoa,Debit Card,2.9,Spring
+3831,22,Female,avila,Bank Transfer,3.0,Summer
+3832,36,Female,segovia,Debit Card,4.0,Spring
+3833,64,Female,avila,Cash,4.8,Winter
+3834,44,Female,soria,PayPal,4.6,Summer
+3835,43,Female,gipuzkoa,Cash,4.1,Winter
+3836,58,Female,albacete,PayPal,2.6,Winter
+3837,62,Female,orense,PayPal,2.5,Spring
+3838,45,Female,las_palmas,Bank Transfer,4.8,Spring
+3839,47,Female,lugo,Venmo,4.2,Summer
+3840,66,Female,santa_cruz_de_tenerife,Venmo,3.9,Spring
+3841,30,Female,badajoz,Venmo,3.7,Spring
+3842,68,Female,salamanca,Bank Transfer,4.2,Fall
+3843,35,Female,malaga,Debit Card,4.2,Winter
+3844,64,Female,navarra,Venmo,4.0,Winter
+3845,30,Female,granada,Venmo,5.0,Fall
+3846,58,Female,navarra,Venmo,4.9,Winter
+3847,57,Female,burgos,PayPal,4.0,Summer
+3848,60,Female,salamanca,PayPal,3.2,Fall
+3849,22,Female,alicante,Cash,3.0,Winter
+3850,46,Female,asturias,PayPal,2.6,Winter
+3851,27,Female,cadiz,Debit Card,4.4,Summer
+3852,50,Female,caceres,Debit Card,3.9,Summer
+3853,65,Female,lugo,PayPal,4.0,Fall
+3854,61,Female,albacete,Debit Card,4.0,Fall
+3855,57,Female,cantabria,Venmo,4.2,Spring
+3856,40,Female,leon,Cash,4.4,Summer
+3857,39,Female,barcelona,Debit Card,2.5,Summer
+3858,42,Female,bizkaia,Credit Card,3.1,Summer
+3859,30,Female,jaen,Credit Card,3.5,Winter
+3860,65,Female,palencia,Bank Transfer,3.0,Fall
+3861,57,Female,tarragona,Cash,4.4,Summer
+3862,64,Female,murcia,Credit Card,4.9,Spring
+3863,56,Female,bizkaia,Venmo,2.8,Winter
+3864,40,Female,gerona,Cash,3.3,Summer
+3865,55,Female,salamanca,Debit Card,4.9,Winter
+3866,25,Female,burgos,Cash,4.2,Spring
+3867,58,Female,avila,Credit Card,3.3,Winter
+3868,46,Female,leon,Credit Card,2.7,Summer
+3869,18,Female,leon,Cash,3.3,Winter
+3870,26,Female,navarra,Bank Transfer,3.8,Spring
+3871,61,Female,teruel,Cash,3.2,Fall
+3872,55,Female,orense,Bank Transfer,4.1,Fall
+3873,41,Female,baleares,Cash,4.3,Spring
+3874,42,Female,zaragoza,Credit Card,4.0,Summer
+3875,70,Female,pontevedra,Credit Card,3.9,Summer
+3876,63,Female,asturias,Credit Card,3.3,Winter
+3877,60,Female,caceres,Cash,2.6,Fall
+3878,28,Female,santa_cruz_de_tenerife,Debit Card,4.2,Spring
+3879,60,Female,gipuzkoa,Credit Card,3.4,Summer
+3880,26,Female,caceres,Debit Card,4.1,Winter
+3881,42,Female,navarra,PayPal,3.9,Winter
+3882,56,Female,jaen,Debit Card,2.8,Spring
+3883,35,Female,zamora,Cash,2.6,Fall
+3884,34,Female,huesca,Cash,4.0,Fall
+3885,47,Female,alava,PayPal,4.9,Fall
+3886,49,Female,avila,Cash,3.2,Winter
+3887,37,Female,madrid,Debit Card,3.9,Summer
+3888,40,Female,cadiz,Credit Card,2.7,Spring
+3889,45,Female,lleida,Venmo,3.4,Spring
+3890,57,Female,barcelona,Bank Transfer,3.5,Spring
+3891,35,Female,zamora,Debit Card,2.6,Winter
+3892,36,Female,alava,Bank Transfer,4.7,Winter
+3893,35,Female,cordoba,PayPal,3.5,Summer
+3894,21,Female,lugo,Bank Transfer,3.3,Fall
+3895,66,Female,granada,Credit Card,3.9,Spring
+3896,40,Female,navarra,Venmo,4.2,Summer
+3897,52,Female,albacete,Bank Transfer,4.5,Spring
+3898,46,Female,palencia,Venmo,2.9,Spring
+3899,44,Female,salamanca,Venmo,3.8,Summer
+3900,52,Female,barcelona,Venmo,3.1,Spring
